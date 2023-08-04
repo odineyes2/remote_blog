@@ -1,33 +1,33 @@
-var Body = {
-            setColor : function(color){
-                document.querySelector('body').style.color = color; 
-            },
-            setBackColor : function(color){
-                document.querySelector('body').style.backgroundColor = color; 
-            }
-        };        
-        
-var Link = {
-    setColor : function(color){
-        var alist = document.querySelectorAll('a');
-        var i = 0;
-        while(i<alist.length){
-            alist[i].style.color=color;
-            i++;
+function nightDayHandler(self){
+        if(self.value==="night"){
+            self.value="day";
+            Body.setcolor('white');
+            Body.setBackcolor('black');
+            Link.setcolor('powderblue');
+        }else{
+            self.value="night";
+            Body.setcolor('black');
+            Body.setBackcolor('white');
+            Link.setcolor();
         };
+    };
+
+var Body = {
+    setcolor : function(color){
+        document.querySelector('body').style.color = color;         
+    },
+    setBackcolor : function(color){
+        document.querySelector('body').style.backgroundColor = color;         
     }
 };
 
-function nightDayHandler(self){
-    if(self.value==="night"){
-        self.value = 'day';
-        Body.setColor('white');
-        Body.setBackColor('black');
-        Link.setColor('powderblue');
-    } else {
-        self.value = 'night';
-        Body.setColor('black');
-        Body.setBackColor('white');
-        Link.setColor('blue');
-    }
+var Link = {
+    setcolor : function(color){
+        alist = document.querySelectorAll('a');
+        var i = 0;
+        while(i<alist.length){
+            alist[i].style.color = color;
+            i++;
+        };
+    };
 };
