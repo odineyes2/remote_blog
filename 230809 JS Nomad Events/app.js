@@ -28,3 +28,30 @@ title.addEventListener("mouseleaver", handleMouseLeave);
 title.onclick = handleTitleClick;
 title.onmouseenter = handleMouseEnter;
 title.onmouserleave = handleMouseLeave;
+
+// Ex5. window object, body Object
+
+function handleBackColor (){
+    document.body.style.backgroundColor = 'tomato';
+};
+
+window.addEventListener("resize", handleBackColor);
+
+// Ex6. addEventLister(copy, online, offline)
+
+title.addEventListener("copy", handleWindowCopy);
+title.addEventListener("offline", handleWindowOffline);
+title.addEventListener("online", handleWindowOnline);
+
+function handleWindowCopy(){
+    alert("copier!!");
+};
+
+function handleWindowOffline(){
+    alert("offline!");
+};
+
+function handleWindowOnline(){
+    alert("online!");
+};
+
