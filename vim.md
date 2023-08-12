@@ -7,7 +7,7 @@ i - insert mode
 : - command mode
 v - visual mode
 
-# 편집모트
+# 편집모드
 i - 커서 앞에서 입력모드
 I - 커서 행 맨 앞에서 입력모드
 a - 커서 뒤에서 입력모드
