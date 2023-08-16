@@ -10,5 +10,5 @@ function getClock(){
     clock.innerText = `${hh}:${mm}:${ss}`;
     
 }
-
+getClock();
 setInterval(getClock, 1000);
