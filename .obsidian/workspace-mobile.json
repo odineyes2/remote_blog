@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "0ad846202fea19c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5daf6e276e785a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e09750506cebd04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f39c52a25fe12310",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "05a62972479674d2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTimeReverse"
+          }
+        }
+      },
+      {
+        "id": "b26ad73367d92b19",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d01c1822163ae2b7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e366cc3b0c65764f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3dc6e92ee46ac2f0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8d1206ddf1d8d95f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "vim.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d0a2aa17a85b4209",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "vim.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6fd11b5213a6e71b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "vim.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "9e09750506cebd04",
+  "lastOpenFiles": [
+    "git.md",
+    "vim.md",
+    "Project/Web_study",
+    "Project/Web_study/js/weather.js",
+    "Project/Web_study/js/todos.js",
+    "Project/Web_study/js/quote.js",
+    "Project/Web_study/js/greeting.js",
+    "Project/Web_study/js/clock.js",
+    "Project/Web_study/js/bgImg.js",
+    "index.html",
+    "Project/Web_study/css/style.css",
+    "Project/Web_study/Img/2.jpeg",
+    "Project/Web_study/Img/1.jpeg",
+    "Project/Web_study/Img/0.jpeg",
+    "Project/Web_study/230820_JS_Result/js/weather.js",
+    "Project/Web_study/230820_JS_Result/Img/2.jpeg",
+    "Project/Web_study/230820_JS_Result/Img/1.jpeg",
+    "Project/Web_study/230820_JS_Result/Img/0.jpeg",
+    "Project/Web_study/230820_JS_Class/230812 JS Nomad 10 qutes and Bg/Img/2.jpeg",
+    "Project/Web_study/230820_JS_Class/230812 JS Nomad 10 qutes and Bg/Img/1.jpeg",
+    "Project/Web_study/230820_JS_Class/230812 JS Nomad 10 qutes and Bg/Img/0.jpeg",
+    "Project/육아용품 구매 리스트.md",
+    "무제 파일.md",
+    "Project/런닝욘품.md",
+    "Project/전기 배선 정보 점검.md",
+    "www.naver.com.md"
+  ]
+}
