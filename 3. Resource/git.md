@@ -1,5 +1,5 @@
 <Git>
-<gir 명령어> - 걍 git graph 익스텐션을 깔자.
+<git 명령어> - 걍 git graph 익스텐션을 깔자.
 git log : git 정보보기
 git log --all --oneline --graph
 git checkout (커밋아이디몇글자)
