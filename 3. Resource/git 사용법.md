@@ -12,3 +12,5 @@ git checkout master
 > HEAD - 현재 적용버전(로컬에서는 o로 표시, 원격에서는  head)
 > chechout - 그 버전으로 이동하기
 > push / pull - 원격저장소(ex.github)로 저장하기, 불러오기
+> 커밋
+> fetch

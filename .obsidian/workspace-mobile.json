@@ -11,8 +11,12 @@
             "id": "7c9915da4dd5c949",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/러닝 용품.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "3. Resource/러닝 용품.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "3. Resource/러닝 용품.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,11 +113,21 @@
         "type": "leaf",
         "state": {
           "type": "outline",
+          "state": {
+            "file": "3. Resource/러닝 용품.md"
+          }
+        }
+      },
+      {
+        "id": "b6fbb09adee36e99",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
           "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,13 +141,14 @@
   },
   "active": "7c9915da4dd5c949",
   "lastOpenFiles": [
-    "2. Area/집주소.md",
+    "3. Resource/git 사용법.md",
     "1. Project/육아용품 구매 리스트.md",
+    "3. Resource/PARA 체계화 방법.md",
+    "4. Archive/전기 배선 정보 점검.md",
+    "3. Resource/vim 사용법.md",
     "3. Resource/러닝 용품.md",
-    "3. Resource/PARA 체계화.md",
+    "2. Area/집주소.md",
     "Remote_note",
-    "3. Resource/vim.md",
-    "3. Resource/git.md",
     "240322 생일 축하 편지.md",
     "Web_study",
     "Web_study/js/weather.js",
@@ -152,7 +169,6 @@
     "Web_study/230820_JS_Class/230812 JS Nomad 10 qutes and Bg/Img/1.jpeg",
     "Web_study/230820_JS_Class/230812 JS Nomad 10 qutes and Bg/Img/0.jpeg",
     "Project/런닝욘품.md",
-    "4. Archive/전기 배선 정보 점검.md",
     "www.naver.com.md"
   ]
 }
