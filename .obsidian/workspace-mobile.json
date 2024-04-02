@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f98408cd49156c26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3. Resource/다이빙 관련 정보/제주도 다이빙 여행.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "3. Resource/다이빙 관련 정보/제주도 다이빙 여행.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "3. Resource/다이빙 관련 정보/제주도 다이빙 여행.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -140,8 +153,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cdb9f9cde3354e06",
+  "active": "f98408cd49156c26",
   "lastOpenFiles": [
+    "3. Resource/다이빙 관련 정보/제주도 다이빙 여행.md",
+    "Dashboard.md",
     "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/1_소개.md",
     "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/2_물리.md",
     "conflict-files-obsidian-git.md",
@@ -159,7 +174,6 @@
     "3. Resource/옷 쇼핑.md",
     "1. Project/웹개발 배우기/NomadCoders.io/0_Nomadcoders List.md",
     "웹개발",
-    "3. Resource/다이빙 관련 정보/제주도 다이빙 여행.md",
     "1. Project/PADI 프리다이버 되기",
     "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/8_표준안전수칙.md",
     "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/3_생리학.md",
@@ -179,7 +193,6 @@
     "1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/옵시디언_사용법.md",
     "/1. Project/옵시디언으로-제2의-두뇌얻기/옵시디언의 기본적인 기능 익히기/옵시디언_사용법.md",
     "/1. Project/옵시디언으로-제2의-두뇌얻기/intro.md",
-    "/1. Project/PADI_프리다이빙_교재/2_물리.md",
     "Web_study/Img/2.jpeg",
     "Web_study/Img/1.jpeg",
     "Web_study/Img/0.jpeg",
