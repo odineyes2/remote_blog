@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "/4. Archive/Attached files"
 }
