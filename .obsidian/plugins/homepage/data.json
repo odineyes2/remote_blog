@@ -1,0 +1,23 @@
+{
+  "version": 3,
+  "homepages": {
+    "Main Homepage": {
+      "value": "1. Project/PADI_프리다이빙_교재/1_소개",
+      "kind": "File",
+      "openOnStartup": true,
+      "openMode": "Replace all open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Default view",
+      "revertView": true,
+      "openWhenEmpty": false,
+      "refreshDataview": false,
+      "autoCreate": true,
+      "autoScroll": false,
+      "pin": false,
+      "commands": [],
+      "alwaysApply": false,
+      "hideReleaseNotes": false
+    }
+  },
+  "separateMobile": false
+}

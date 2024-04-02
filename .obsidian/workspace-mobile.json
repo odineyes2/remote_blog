@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0db4aa1c39af8dd6",
+        "id": "e407b0f829112024",
         "type": "tabs",
         "children": [
           {
-            "id": "7c9915da4dd5c949",
+            "id": "112b1f97e03e7a3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/PADI_프리다이빙_교재/1_소개.md",
-                "mode": "preview",
+                "file": "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/2_물리.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Project/PADI_프리다이빙_교재/1_소개.md",
+            "file": "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/2_물리.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Project/PADI_프리다이빙_교재/1_소개.md",
+            "file": "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/2_물리.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Project/PADI_프리다이빙_교재/1_소개.md"
+            "file": "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/2_물리.md"
           }
         }
       },
@@ -136,48 +136,50 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "7c9915da4dd5c949",
+  "active": "05a62972479674d2",
   "lastOpenFiles": [
+    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/1_소개.md",
+    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/2_물리.md",
+    "[[1_소개]].md",
+    "3. Resource/it 관련 정보/git 사용법.md",
+    "3. Resource/it 관련 정보",
+    "3. Resource/여행 관련 정보",
+    "3. Resource/러닝 관련 정보",
+    "1. Project/인디게임 만들기",
+    "3. Resource/옷 쇼핑.md",
+    "1. Project/웹개발 배우기/NomadCoders.io/0_Nomadcoders List.md",
+    "웹개발",
+    "3. Resource/다이빙 관련 정보/제주도 다이빙 여행.md",
+    "1. Project/PADI 프리다이버 되기",
+    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/8_표준안전수칙.md",
+    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/3_생리학.md",
     "4. Archive/Attached files/padi_logo.png",
-    "3. Resource/러닝 용품.md",
-    "1. Project/쿨 가젯 마켓 열기/3D 프링팅 배우기/intro.md",
+    "3. Resource/러닝 관련 정보/러닝 용품.md",
+    "1. Project/3D 프린팅 배우기/intro.md",
     "/4. Archive/Attached files/padi_logo.png",
-    "1. Project/쿨 가젯 마켓 열기/웹개발 배우기/intro.md",
+    "1. Project/웹개발 배우기/intro.md",
     "/1. Project/쿨 가젯 마켓 열기/3D 프링팅 배우기/intro.md",
     "/1. Project/PADI_프리다이빙_교재/1_소개.md",
     "/1. Project/쿨 가젯 마켓 열기/웹개발 배우기/intro.md",
     "4. Archive/Attached files",
-    "1. Project/쿨 가젯 마켓 열기/웹개발 배우기",
-    "1. Project/쿨 가젯 마켓 열기/3D 프링팅 배우기",
+    "1. Project/웹개발 배우기",
+    "1. Project/3D 프린팅 배우기",
     "1. Project/쿨 가젯 마켓 열기",
-    "/4. Archive/Attached files",
-    "/1. Project/쿨 가젯 마켓 열기/웹개발 배우기",
-    "/1. Project/쿨 가젯 마켓 열기/3D 프링팅 배우기",
-    "/1. Project/쿨 가젯 마켓 열기",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "/2. Area/뿌용이 육아/육아용품 구매 리스트.md",
-    "1. Project/옵시디언으로-제2의-두뇌얻기/옵시디언의 기본적인 기능 익히기/옵시디언_사용법.md",
-    "1. Project/옵시디언으로-제2의-두뇌얻기/intro.md",
+    "1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/옵시디언_사용법.md",
+    "1. Project/옵시디언으로 제2의 두뇌얻기/intro.md",
     "/1. Project/옵시디언으로-제2의-두뇌얻기/옵시디언의 기본적인 기능 익히기/옵시디언_사용법.md",
     "/1. Project/옵시디언으로-제2의-두뇌얻기/intro.md",
     "/1. Project/PADI_프리다이빙_교재/2_물리.md",
-    "2. Area/뿌용이 육아",
-    "1. Project/옵시디언으로-제2의-두뇌얻기/옵시디언의 기본적인 기능 익히기",
-    "1. Project/PADI_프리다이빙_교재/1_소개.md",
-    "3. Resource/옷 쇼핑.md",
     "/3. Resource/옷 쇼핑.md",
     "/3. Resource/옵시디언 사용법.md",
-    "3. Resource/비행기 탑승 전 주의사항.md",
-    "3. Resource/다이빙 관련 정보/제주도 다이빙 여행.md",
+    "3. Resource/여행 관련 정보/비행기 탑승 전 주의사항.md",
     "2. Area/신체 사이즈.md",
-    "/3. Resource/비행기 탑승 전 주의사항.md",
-    "/3. Resource/다이빙 관련 정보/제주도 다이빙 여행.md",
-    "/2. Area/신체 사이즈.md",
-    "1. Project/PADI_프리다이빙_교재/8_표준안전수칙.md",
-    "1. Project/PADI_프리다이빙_교재/7_수중생물.md",
     "Web_study/Img/2.jpeg",
     "Web_study/Img/1.jpeg",
     "Web_study/Img/0.jpeg",
