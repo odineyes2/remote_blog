@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3bdcc1c2b3bea1e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옷 쇼핑.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb057b9f7d06b91a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "비행기 탑승 전 주의사항.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e48900478976b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/PADI_프리다이빙_교재/1_소개.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3. Resource/러닝 용품.md",
+            "file": "1. Project/PADI_프리다이빙_교재/1_소개.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "3. Resource/러닝 용품.md",
+            "file": "1. Project/PADI_프리다이빙_교재/1_소개.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "3. Resource/러닝 용품.md"
+            "file": "1. Project/PADI_프리다이빙_교재/1_소개.md"
           }
         }
       },
@@ -139,43 +176,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7c9915da4dd5c949",
+  "active": "6e48900478976b83",
   "lastOpenFiles": [
-    "3. Resource/옵시디언 사용법.md",
-    "3. Resource/신체 사이즈.md",
-    "1. Project/Web-Dev-Learning/0_Nomadcoders List.md",
-    "Remote_blog/1. Project/Web-Dev-Learning/3_React-JS-Master-Class/0_Content.md",
-    "Remote_blog/1. Project/Web-Dev-Learning/3_React-JS-Master-Class",
-    "Remote_blog/1. Project/Web-Dev-Learning/2_NodeJS/0_Content.md",
-    "Remote_blog/1. Project/Web-Dev-Learning/2_NodeJS",
-    "Remote_blog/1. Project/Web-Dev-Learning/1_React JS for Basic/0_Content.md",
-    "Remote_blog/1. Project/Web-Dev-Learning",
+    "1. Project/PADI_프리다이빙_교재/2_물리.md",
+    "1. Project/PADI_프리다이빙_교재/1_소개.md",
+    "Remote_blog/1. Project/PADI_프리다이빙_교재/1_소개.md",
+    "Remote_blog/1. Project/PADI_프리다이빙_교재/2_물리.md",
     "Remote_blog/1. Project",
     "Remote_blog",
-    "Remote_blog/1. Project/Web-Dev-Learning/1_React JS for Basic",
-    "1. Project/Web-Dev-Learning/3_React-JS-Master-Class/0_Content.md",
-    "1. Project/Web-Dev-Learning/2_NodeJS/0_Content.md",
-    "1. Project/Web-Dev-Learning/1_React JS for Basic/0_Content.md",
-    "/3. Resource/옵시디언 사용법.md",
-    "/1. Project/육아용품 구매 리스트.md",
-    "/1. Project/Web-Dev-Learning/3_React-JS-Master-Class/0_Content.md",
-    "/1. Project/Web-Dev-Learning/2_NodeJS/0_Content.md",
-    "1. Project/Web-Dev-Learning/1_React JS for Basic/1_Intro.md",
-    "/1. Project/Web-Dev-Learning/1_React JS for Basic/0_Content.md",
-    "/1. Project/Web-Dev-Learning/0_Nomadcoders List.md",
-    "/1. Project/Web-Dev-Learning/1_React JS for Basic/1_Intro.md",
-    "1. Project/Web-Dev-Learning/3_React-JS-Master-Class",
-    "1. Project/Web-Dev-Learning/2_NodeJS",
-    "1. Project/Web-Dev-Learning/1_React JS for Basic",
-    "1. Project/Web-Dev-Learning",
-    "3. Resource/러닝 용품.md",
-    "2. Area/집주소.md",
-    "3. Resource/git 사용법.md",
-    "1. Project/육아용품 구매 리스트.md",
-    "3. Resource/PARA 체계화 방법.md",
-    "4. Archive/전기 배선 정보 점검.md",
-    "3. Resource/vim 사용법.md",
-    "240322 생일 축하 편지.md",
+    "Remote_blog/1. Project/PADI_프리다이빙_교재",
+    "1. Project/Web-Dev-Learning/1_React JS for Basic/note/0_Content.md",
+    "1. Project/Web-Dev-Learning/1_React JS for Basic/note/1_Intro.md",
+    "제주도 다이빙 여행.md",
+    "1. Project/PADI_프리다이빙_교재/8_안전수칙.md",
+    "1. Project/PADI_프리다이빙_교재/7_수중생물.md",
+    "1. Project/PADI_프리다이빙_교재/6_개방수역환경.md",
+    "1. Project/PADI_프리다이빙_교재/5_스킬.md",
+    "1. Project/PADI_프리다이빙_교재/4_장비.md",
+    "1. Project/PADI_프리다이빙_교재/3_생리학.md",
+    "/1. Project/PADI_프리다이빙_교재/8_안전수칙.md",
+    "/1. Project/PADI_프리다이빙_교재/7_수중생물.md",
+    "/1. Project/PADI_프리다이빙_교재/6_개방수역환경.md",
+    "/1. Project/PADI_프리다이빙_교재/5_스킬.md",
+    "/1. Project/PADI_프리다이빙_교재/4_장비.md",
+    "/1. Project/PADI_프리다이빙_교재/3_생리학.md",
+    "/1. Project/PADI_프리다이빙_교재/2_물리.md",
+    "/1. Project/PADI_프리다이빙_교재/1_소개.md",
+    "1. Project/PADI_프리다이빙_교재",
+    "/1. Project/PADI_프리다이빙_교재",
+    "비행기 탑승 전 주의사항.md",
+    "옷 쇼핑.md",
+    "3. Resource/vsc 단축키.md",
+    "/1. Project/Web-Dev-Learning/1_React JS for Basic/note/0_Content.md",
+    "1. Project/Web-Dev-Learning/1_React JS for Basic/VanillaJS.html",
+    "1. Project/Web-Dev-Learning/1_React JS for Basic/RealReactJS.html",
+    "1. Project/Web-Dev-Learning/1_React JS for Basic/JSX.html",
+    "/3. Resource/vsc 단축키.md",
+    "/1. Project/Web-Dev-Learning/1_React JS for Basic/VanillaJS.html",
+    "/1. Project/Web-Dev-Learning/1_React JS for Basic/RealReactJS.html",
     "Web_study/Img/2.jpeg",
     "Web_study/Img/1.jpeg",
     "Web_study/Img/0.jpeg",
@@ -184,7 +222,6 @@
     "Web_study/230820_JS_Result/Img/0.jpeg",
     "Web_study/230820_JS_Class/230812 JS Nomad 10 qutes and Bg/Img/2.jpeg",
     "Web_study/230820_JS_Class/230812 JS Nomad 10 qutes and Bg/Img/1.jpeg",
-    "Web_study/230820_JS_Class/230812 JS Nomad 10 qutes and Bg/Img/0.jpeg",
-    "Project/런닝욘품.md"
+    "Web_study/230820_JS_Class/230812 JS Nomad 10 qutes and Bg/Img/0.jpeg"
   ]
 }
