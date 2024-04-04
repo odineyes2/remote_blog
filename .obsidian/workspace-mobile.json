@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "39d0de229ff77506",
+        "id": "5564d2dbef80aeb3",
         "type": "tabs",
         "children": [
           {
-            "id": "11ff95339c95ed13",
+            "id": "29092ac8a9b2b29f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/1_소개.md",
-                "mode": "preview",
+                "file": "1. Project/옵시디언으로 제2의 두뇌얻기/intro.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/1_소개.md",
+            "file": "1. Project/옵시디언으로 제2의 두뇌얻기/intro.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/1_소개.md",
+            "file": "1. Project/옵시디언으로 제2의 두뇌얻기/intro.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/1_소개.md"
+            "file": "1. Project/옵시디언으로 제2의 두뇌얻기/intro.md"
           }
         }
       },
@@ -140,12 +140,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "11ff95339c95ed13",
+  "active": "29092ac8a9b2b29f",
   "lastOpenFiles": [
-    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/4_장비.md",
-    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/3_생리학.md",
-    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/1_소개.md",
+    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/2_물리.md",
     "Dashboard.md",
+    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/1_소개.md",
+    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/8_표준안전수칙.md",
+    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/7_수중생물.md",
+    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/6_개방수역환경.md",
+    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/4_장비.md",
+    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/5_스킬.md",
+    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/3_생리학.md",
     "/1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/7_수중생물.md",
     "/1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/6_개방수역환경.md",
     "/1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/5_스킬.md",
@@ -153,11 +158,7 @@
     "/1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/3_생리학.md",
     "/1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/2_물리.md",
     "1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/콜아웃.md",
-    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/2_물리.md",
-    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/7_수중생물.md",
-    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/8_표준안전수칙.md",
     "1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/옵시디언_사용법.md",
-    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/6_개방수역환경.md",
     "/1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/콜아웃.md",
     "1. Project/옵시디언으로 제2의 두뇌얻기/intro.md",
     "3. Resource/다이빙 관련 정보/제주도 다이빙 여행.md",
@@ -167,7 +168,6 @@
     "1. Project/인디게임 만들기/Intro.md",
     "4. Archive/전기 배선 정보 점검.md",
     "[[1_소개]].md",
-    "3. Resource/it 관련 정보/git 사용법.md",
     "3. Resource/it 관련 정보",
     "3. Resource/여행 관련 정보",
     "3. Resource/러닝 관련 정보",
