@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a885b628c8b69ce9",
+        "id": "85d9bda30f51593e",
         "type": "tabs",
         "children": [
           {
-            "id": "c92ab82d2e8b9462",
+            "id": "3acce83b448151e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2dbedca4a2b31335",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "보라카이 팁문화.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "보라카이 팁문화.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "보라카이 팁문화.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "보라카이 팁문화.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -153,13 +140,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2dbedca4a2b31335",
+  "active": "3acce83b448151e1",
   "lastOpenFiles": [
-    "Dashboard.md",
-    "보라카이 팁문화.md",
+    "3. Resource/러닝 관련 정보/러닝 용품.md",
+    "4. Archive/여행 관련 정보/비행기 탑승 전 주의사항.md",
+    "4. Archive/보라카이 팁문화.md",
+    "4. Archive/보라카이 여행.md",
     "집.md",
+    "Dashboard.md",
     "2. Area/집주소.md",
-    "보라카이 여행.md",
     "1. Project/옵시디언으로 제2의 두뇌얻기/PARA 체계화 방법.md",
     "3. Resource/it 관련 정보/Vsc 초기 셋업 관련.md",
     "3. Resource/it 관련 정보/vsc 단축키.md",
@@ -179,10 +168,8 @@
     "1. Project/옵시디언으로 제2의 두뇌얻기/intro.md",
     "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/8_표준안전수칙.md",
     "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/7_수중생물.md",
-    "1. Project/PADI 프리다이버 되기/PADI_프리다이빙_교재/6_개방수역환경.md",
-    "1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/콜아웃.md",
     "3. Resource/it 관련 정보",
-    "3. Resource/여행 관련 정보",
+    "4. Archive/여행 관련 정보",
     "3. Resource/러닝 관련 정보",
     "1. Project/인디게임 만들기",
     "웹개발",
