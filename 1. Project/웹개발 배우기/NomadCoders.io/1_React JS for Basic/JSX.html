@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+  <script src="https://unpkg.com/react@17.0.2/umd/react.development.js"></script>
+  <script src="https://unpkg.com/react-dom@17.0.2/umd/react-dom.development.js"></script>
+
+  <!-- 브라우저는 JSX를 이해할 수 없으므로 extension 필요함 : Babel -->
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <script type="text/babel">
+    const root = document.getElementById("root");
+    const Title = () => (
+      <h3 id="title" onMouseEnter={() => console.log("mouse enter")}>
+        Hello, I'm am Title.
+      </h3>
+    );
+    const Button = () => (
+      <button onClick={() => console.log("I'm clicked.")}>Click Me.</button>
+    );
+    const Container = () => (
+      <div>
+        <Title />
+        <Button />
+      </div>
+    );
+    // const container = React.createElement("div", null, [Title, Button]);
+    ReactDOM.render(<Container />, root);
+  </script>
+</html>
+<!-- JSX에서 컴포넌트의 첫글자는 대문자여야 한다. 소문자는 HTML 태그로 처리된다. -->
