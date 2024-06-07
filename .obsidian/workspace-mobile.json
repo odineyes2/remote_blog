@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "적지않은 월급이건만 고민.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "출산 관련 혜택 정리.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "출산 관련 혜택 정리.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "출산 관련 혜택 정리.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -153,8 +152,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4fa583b95f16d573",
+  "active": "64e94506e920b656",
   "lastOpenFiles": [
+    "free channel.md",
+    "/free channel.md",
     "적지않은 월급이건만 고민.md",
     "출산 관련 혜택 정리.md",
     "Dashboard.md",
@@ -180,8 +181,6 @@
     "4. Archive/보라카이 여행.md",
     "1. Project/옵시디언으로 제2의 두뇌얻기/PARA 체계화 방법.md",
     "3. Resource/it 관련 정보/vsc 단축키.md",
-    "4. Archive/PADI 프리다이버 되기/PADI_프리다이빙_교재/4_장비.md",
-    "4. Archive/PADI 프리다이버 되기/PADI_프리다이빙_교재/3_생리학.md",
     "3. Resource/it 관련 정보",
     "4. Archive/여행 관련 정보",
     "3. Resource/러닝 관련 정보",
