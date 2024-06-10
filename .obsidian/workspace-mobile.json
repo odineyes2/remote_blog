@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "43afaf4543880769",
+        "id": "259d4179a231cec7",
         "type": "tabs",
         "children": [
           {
-            "id": "64e94506e920b656",
+            "id": "020ac9d40588582c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Dashboard.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fa583b95f16d573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "출산 관련 혜택 정리.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -152,18 +140,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "64e94506e920b656",
+  "active": "020ac9d40588582c",
   "lastOpenFiles": [
+    "쇼핑 리스트.md",
+    "Dashboard.md",
+    "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "free channel.md",
     "/free channel.md",
     "적지않은 월급이건만 고민.md",
     "출산 관련 혜택 정리.md",
-    "Dashboard.md",
     "뿌용이 이름.md",
     "2. Area/집주소.md",
     "집.md",
-    "쇼핑 리스트.md",
-    "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "1. Project/웹개발 배우기/modernJSdeepDive.md",
     "/1. Project/웹개발 배우기/modernJSdeepDive.md",
     "무알콜 칵테일.md",
