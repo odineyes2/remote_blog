@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c442ffac798662",
+        "id": "9dc3fac7217da11d",
         "type": "tabs",
         "children": [
           {
-            "id": "1623635898603521",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Area/밑반찬 레시피/0. 레시피 모음.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e848dd0ffdee98d",
+            "id": "c36a5bc25b3fe259",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "3. 바베큐 폭립.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,17 +140,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3e848dd0ffdee98d",
+  "active": "c36a5bc25b3fe259",
   "lastOpenFiles": [
-    "2. Area/밑반찬 레시피/0. 레시피 모음.md",
-    "3. 바베큐 폭립.md",
     "Dashboard.md",
+    "2. Area/밑반찬 레시피/0. 레시피 모음.md",
+    "2. Area/밑반찬 레시피/1. 소고기 메추리알 장조림.md",
+    "2. Area/밑반찬 레시피/2. 두부 부침 조림.md",
+    "3. 바베큐 폭립.md",
     "옵시디언 초기 세팅(동기화).md",
     "출산 관련 혜택 정리.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "비번.md",
-    "2. Area/밑반찬 레시피/1. 소고기 메추리알 장조림.md",
-    "2. Area/밑반찬 레시피/2. 두부 부침 조림.md",
     "1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/PARA 체계화 방법.md",
     "1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/콜아웃.md",
     "1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/intro.md",
