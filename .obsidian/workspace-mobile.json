@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "적지않은 월급이건만 고민.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "적지않은 월급이건만 고민.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "적지않은 월급이건만 고민.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "적지않은 월급이건만 고민.md"
           }
         }
       },
@@ -142,10 +142,10 @@
   },
   "active": "20e4a6b83d37b18d",
   "lastOpenFiles": [
+    "Dashboard.md",
     "우리집 정보.md",
     "2. Area/집주소.md",
     "3. 바베큐 폭립.md",
-    "Dashboard.md",
     "2. Area/밑반찬 레시피/0. 레시피 모음.md",
     "2. Area/밑반찬 레시피/1. 소고기 메추리알 장조림.md",
     "2. Area/밑반찬 레시피/2. 두부 부침 조림.md",
