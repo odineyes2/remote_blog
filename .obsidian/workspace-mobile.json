@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9331ad84eee51e89",
+        "id": "95ef8a8a3351d937",
         "type": "tabs",
         "children": [
           {
-            "id": "12b54a96698ffce6",
+            "id": "3ae9bfce32addcaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/밑반찬 레시피/0. 레시피 모음.md",
-                "mode": "preview",
+                "file": "Dashboard.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/밑반찬 레시피/0. 레시피 모음.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/밑반찬 레시피/0. 레시피 모음.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/밑반찬 레시피/0. 레시피 모음.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -140,10 +140,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "12b54a96698ffce6",
+  "active": "3ae9bfce32addcaf",
   "lastOpenFiles": [
-    "2. Area/밑반찬 레시피/1. 소고기 메추리알 장조림.md",
     "2. Area/밑반찬 레시피/0. 레시피 모음.md",
+    "2. Area/밑반찬 레시피/1. 소고기 메추리알 장조림.md",
     "2. Area/밑반찬 레시피/4. 비빔국수(2인분).md",
     "2. Area/밑반찬 레시피/3. 바베큐 폭립.md",
     "2. Area/밑반찬 레시피/2. 두부 부침 조림.md",
