@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/밑반찬 레시피/0. 레시피 모음.md",
+                "file": "2. Area/밑반찬 레시피/6. 아롱사태 수육전골.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/밑반찬 레시피/0. 레시피 모음.md",
+            "file": "2. Area/밑반찬 레시피/6. 아롱사태 수육전골.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/밑반찬 레시피/0. 레시피 모음.md",
+            "file": "2. Area/밑반찬 레시피/6. 아롱사태 수육전골.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/밑반찬 레시피/0. 레시피 모음.md"
+            "file": "2. Area/밑반찬 레시피/6. 아롱사태 수육전골.md"
           }
         }
       },
@@ -142,8 +142,9 @@
   },
   "active": "ab51bba92e4698cd",
   "lastOpenFiles": [
-    "Dashboard.md",
     "2. Area/밑반찬 레시피/0. 레시피 모음.md",
+    "2. Area/밑반찬 레시피/6. 아롱사태 수육전골.md",
+    "Dashboard.md",
     "2. Area/밑반찬 레시피/5. 볶음밥(3인분).md",
     "우리집 정보.md",
     "2. Area/밑반찬 레시피/1. 소고기 메추리알 장조림.md",
@@ -168,7 +169,6 @@
     "1. Project/웹개발 배우기/modernJSdeepDive.md",
     "/1. Project/웹개발 배우기/modernJSdeepDive.md",
     "무알콜 칵테일.md",
-    "/Dashboard.md",
     "무알콜 칵테일",
     "3. Resource/it 관련 정보",
     "4. Archive/여행 관련 정보",
