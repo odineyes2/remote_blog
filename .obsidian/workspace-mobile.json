@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
+                "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md"
           }
         }
       },
@@ -142,8 +142,8 @@
   },
   "active": "ba571b8b8fb018aa",
   "lastOpenFiles": [
-    "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "Dashboard.md",
+    "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "2. Area/밑반찬 레시피/6. 아롱사태 수육전골.md",
     "출산 관련 혜택 정리.md",
     "2. Area/밑반찬 레시피/0. 레시피 모음.md",
