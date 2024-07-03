@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2f276a805f598fc1",
+        "id": "06cf4c7df4c23c1c",
         "type": "tabs",
         "children": [
           {
-            "id": "ec6c0ef299b1d167",
+            "id": "608fbb4b0c9ce4bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "2. Area/장보기와 돈아끼기/식비 계획.md"
           }
         }
       },
@@ -140,13 +140,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ec6c0ef299b1d167",
+  "active": "608fbb4b0c9ce4bb",
   "lastOpenFiles": [
-    "2. Area/장보기와 돈아끼기/식비 계획.md",
     "Dashboard.md",
-    "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
+    "2. Area/장보기와 돈아끼기/식비 계획.md",
     "2. Area/장보기와 돈아끼기/생필품 시세 파악.md",
     "2. Area/적지않은 월급이건만 고민.md",
+    "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "2. Area/장보기와 돈아끼기",
     "2. Area/우리집 정보.md",
     "2. Area/신체 사이즈.md",
