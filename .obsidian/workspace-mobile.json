@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "06cf4c7df4c23c1c",
+        "id": "6ab834441f94bcf7",
         "type": "tabs",
         "children": [
           {
-            "id": "608fbb4b0c9ce4bb",
+            "id": "3eb0a2d78ed1b3f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -140,9 +140,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "608fbb4b0c9ce4bb",
+  "active": "3eb0a2d78ed1b3f2",
   "lastOpenFiles": [
     "Dashboard.md",
+    "conflict-files-obsidian-git.md",
     "2. Area/장보기와 돈아끼기/식비 계획.md",
     "2. Area/장보기와 돈아끼기/생필품 시세 파악.md",
     "2. Area/적지않은 월급이건만 고민.md",
@@ -169,7 +170,6 @@
     "1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/콜아웃.md",
     "1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/intro.md",
     "2. Area/밑반찬 레시피",
-    "/free channel.md",
     "무알콜 칵테일",
     "3. Resource/it 관련 정보",
     "4. Archive/여행 관련 정보",
