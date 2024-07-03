@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4a256134f42b339f",
+        "id": "4fd63b8c61430be8",
         "type": "tabs",
         "children": [
           {
-            "id": "e04f30c6d9b30c18",
+            "id": "20fd7d36f1c3af96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
-                "mode": "source",
+                "file": "적지않은 월급이건만 고민.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
+            "file": "적지않은 월급이건만 고민.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
+            "file": "적지않은 월급이건만 고민.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md"
+            "file": "적지않은 월급이건만 고민.md"
           }
         }
       },
@@ -140,9 +140,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e04f30c6d9b30c18",
+  "active": "20fd7d36f1c3af96",
   "lastOpenFiles": [
     "Dashboard.md",
+    "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "적지않은 월급이건만 고민.md",
     "2. Area/밑반찬 레시피/6. 아롱사태 수육전골.md",
     "4. Archive/비번.md",
@@ -151,7 +152,6 @@
     "옵시디언 초기 세팅(동기화).md",
     "2. Area/우리집 정보.md",
     "집.md",
-    "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "2. Area/뿌용이 육아/출산준비물.md",
     "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
     "2. Area/밑반찬 레시피/0. 레시피 모음.md",
