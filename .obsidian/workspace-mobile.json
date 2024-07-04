@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6ab834441f94bcf7",
+        "id": "07855c2b640fa25f",
         "type": "tabs",
         "children": [
           {
-            "id": "3eb0a2d78ed1b3f2",
+            "id": "fa9d2dfdbd90c394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
-                "mode": "source",
+                "file": "2. Area/적지않은 월급이건만 고민.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
+            "file": "2. Area/적지않은 월급이건만 고민.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
+            "file": "2. Area/적지않은 월급이건만 고민.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/식비 계획.md"
+            "file": "2. Area/적지않은 월급이건만 고민.md"
           }
         }
       },
@@ -140,11 +140,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3eb0a2d78ed1b3f2",
+  "active": "fa9d2dfdbd90c394",
   "lastOpenFiles": [
     "Dashboard.md",
-    "conflict-files-obsidian-git.md",
     "2. Area/장보기와 돈아끼기/식비 계획.md",
+    "conflict-files-obsidian-git.md",
     "2. Area/장보기와 돈아끼기/생필품 시세 파악.md",
     "2. Area/적지않은 월급이건만 고민.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
