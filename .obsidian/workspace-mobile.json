@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "044bffce6a76a330",
+        "id": "22e5e34a90594199",
         "type": "tabs",
         "children": [
           {
-            "id": "07e0e89d7e4ddfd1",
+            "id": "683cb0d2ab627832",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -140,7 +140,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "07e0e89d7e4ddfd1",
+  "active": "683cb0d2ab627832",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/장보기와 돈아끼기/식비 계획.md",
