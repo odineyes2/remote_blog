@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "21bf39efb0da3406",
+        "id": "2c9ae3db402d8c44",
         "type": "tabs",
         "children": [
           {
-            "id": "71cd6edb5bbac176",
+            "id": "3ab4d765075f675d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
-                "mode": "source",
+                "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
+            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
+            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/식비 계획.md"
+            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md"
           }
         }
       },
@@ -140,12 +140,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "71cd6edb5bbac176",
+  "active": "3ab4d765075f675d",
   "lastOpenFiles": [
     "Dashboard.md",
+    "2. Area/장보기와 돈아끼기/식비 계획.md",
     "2. Area/밑반찬 레시피/부추 무침.md",
     "2. Area/밑반찬 레시피/0. 레시피 모음.md",
-    "2. Area/장보기와 돈아끼기/식비 계획.md",
     "[[.md",
     "2. Area/임당식단.md",
     "2. Area/적지않은 월급이건만 고민.md",
