@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "15b555b205698ca5",
+        "id": "1a8d493fcf6e99be",
         "type": "tabs",
         "children": [
           {
-            "id": "a8fc9f795a666dbf",
+            "id": "aeb22e5fa694d747",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
-                "mode": "preview",
+                "file": "Dashboard.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -140,10 +140,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fc9f795a666dbf",
+  "active": "aeb22e5fa694d747",
   "lastOpenFiles": [
-    "2. Area/뿌용이 육아/신생아 준비물.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
+    "2. Area/뿌용이 육아/신생아 준비물.md",
     "Dashboard.md",
     "2. Area/적지않은 월급이건만 고민.md",
     "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
