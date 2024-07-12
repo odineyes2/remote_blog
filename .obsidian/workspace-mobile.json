@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fba5a1060c42d1d7",
+        "id": "5a53babbc4ac5bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "f0d905be9d5cd257",
+            "id": "c9a2e464dd214b50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Dashboard.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -140,11 +140,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f0d905be9d5cd257",
+  "active": "c9a2e464dd214b50",
   "lastOpenFiles": [
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
-    "2. Area/뿌용이 육아/신생아 준비물.md",
     "Dashboard.md",
+    "2. Area/뿌용이 육아/신생아 준비물.md",
     "2. Area/장보기와 돈아끼기/식비 계획.md",
     "2. Area/적지않은 월급이건만 고민.md",
     "2. Area/밑반찬 레시피/감자 샐러드 모닝빵.md",
