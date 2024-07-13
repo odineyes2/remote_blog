@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b9fcf5b458d198a",
+        "id": "cfa99dfbc03e67af",
         "type": "tabs",
         "children": [
           {
-            "id": "b915e0b7c77642b3",
+            "id": "54dea6e17733511d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -140,7 +140,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b915e0b7c77642b3",
+  "active": "54dea6e17733511d",
   "lastOpenFiles": [
     "Dashboard.md",
     "사고싶다.md",
