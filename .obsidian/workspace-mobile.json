@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f13739954c67fa51",
+        "id": "8fb70a18365aee49",
         "type": "tabs",
         "children": [
           {
-            "id": "27096bde67ac63c4",
+            "id": "df35e49c8991a095",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -140,7 +140,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "27096bde67ac63c4",
+  "active": "df35e49c8991a095",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/생활비 관리/2024년도 생활비 관리.md",
