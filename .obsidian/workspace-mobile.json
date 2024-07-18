@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "03bb2d62ef00a642",
+        "id": "4d8e8ddb904e6f8b",
         "type": "tabs",
         "children": [
           {
-            "id": "a6d4bbf573a83ccf",
+            "id": "54f3e25e3c51fe57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e010ea9cfebe4549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
+            "file": "무제 파일.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
+            "file": "무제 파일.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md"
+            "file": "무제 파일.md"
           }
         }
       },
@@ -140,13 +153,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a6d4bbf573a83ccf",
+  "active": "e010ea9cfebe4549",
   "lastOpenFiles": [
-    "2. Area/장보기와 돈아끼기/식비 계획.md",
+    "암보험약관분석(nh암플러스nh치료보험).md",
+    "건강.md",
+    "/암보험약관분석(nh암플러스nh치료보험).md",
+    "/건강.md",
+    "Dashboard.md",
+    "무제 파일.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
+    "2. Area/장보기와 돈아끼기/식비 계획.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/생활비 관리/2024년/2024년 9월.md",
-    "Dashboard.md",
     "장 볼 것.md",
     "2. Area/생활비 관리/2024년/2024년 10월.md",
     "2. Area/생활비 관리/2024년/2024년 11월.md",
@@ -166,11 +184,6 @@
     "사고싶다.md",
     "2. Area/생활비 관리",
     "2. Area/장보기와 돈아끼기/생필품 시세 파악.md",
-    "2. Area/밑반찬 레시피/감자 샐러드 모닝빵.md",
-    "2. Area/밑반찬 레시피/0. 레시피 모음.md",
-    "2. Area/장보기와 돈아끼기/신생아 특례 대출 준비물.md",
-    "2. Area/밑반찬 레시피/부추 무침.md",
-    "[[.md",
     "2. Area/장보기와 돈아끼기",
     "2. Area/밑반찬 레시피",
     "무알콜 칵테일",
