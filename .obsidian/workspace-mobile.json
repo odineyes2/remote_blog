@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cc3aeec368370988",
+        "id": "03bb2d62ef00a642",
         "type": "tabs",
         "children": [
           {
-            "id": "96e6199cb4968a1d",
+            "id": "a6d4bbf573a83ccf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fd6f0535d5d28949",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "장 볼 것.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "장 볼 것.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "장 볼 것.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "장 볼 것.md"
+            "file": "2. Area/생활비 관리/2024년/2024년 7월.md"
           }
         }
       },
@@ -153,13 +140,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fd6f0535d5d28949",
+  "active": "a6d4bbf573a83ccf",
   "lastOpenFiles": [
+    "2. Area/생활비 관리/2024년/2024년 8월.md",
+    "2. Area/생활비 관리/2024년/2024년 9월.md",
     "Dashboard.md",
     "장 볼 것.md",
-    "2. Area/생활비 관리/2024년/2024년 9월.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
-    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/생활비 관리/2024년/2024년 10월.md",
     "2. Area/생활비 관리/2024년/2024년 11월.md",
     "2. Area/생활비 관리/2024년/2024년 12월.md",
