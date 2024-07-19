@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "46844d974c967a35",
+        "id": "9ead0768ce621491",
         "type": "tabs",
         "children": [
           {
-            "id": "3bc9a3850e5a25eb",
+            "id": "576defb10864cd1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -140,15 +140,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3bc9a3850e5a25eb",
+  "active": "576defb10864cd1a",
   "lastOpenFiles": [
+    "2. Area/생활비 관리/2024년/2024년 7월.md",
     "Dashboard.md",
     "무제 파일.md",
     "암보험약관분석(nh암플러스nh치료보험).md",
     "건강.md",
     "/암보험약관분석(nh암플러스nh치료보험).md",
     "/건강.md",
-    "2. Area/생활비 관리/2024년/2024년 7월.md",
     "2. Area/장보기와 돈아끼기/식비 계획.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/생활비 관리/2024년/2024년 9월.md",
