@@ -8,23 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f9f57d83ced7b2d",
+            "id": "d5d4211a7a3d9155",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
+            }
+          },
+          {
+            "id": "a00ab03f9a26edf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Area/생활비 관리/2024년/2024-07.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "411055a87d144636",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__예산관리",
-              "state": {}
             }
           }
         ],
@@ -150,11 +150,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "411055a87d144636",
+  "active": "a00ab03f9a26edf6",
   "lastOpenFiles": [
     "Dashboard.md",
-    "memo.md",
     "2. Area/생활비 관리/2024년/2024-07.md",
+    "memo.md",
     "태양광 패널.md",
     "사고싶다.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
