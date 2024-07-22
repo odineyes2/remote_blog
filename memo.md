@@ -17,13 +17,6 @@ https://www.youtube.com/watch?v=EhEJSxTzzBg
 - 프론트매터에는 주로 해당 노트에 대한 매타데이터가 입력된다.
 - dataview나 인라인 쿼리를 통해 호출할 수 있다.
 
-예시)
-```dataviewjs
-const currentPage = dv.current();
-const score = new Date(currentPage.file.frontmatter.score);
-dv.paragraph(`이 노트의 점수: ${score}`);
-```
-
 ## Dataview 공식 문서
 
 https://blacksmithgu.github.io/obsidian-dataview/
