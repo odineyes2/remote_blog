@@ -18,8 +18,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "411055a87d144636",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +150,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f9f57d83ced7b2d",
+  "active": "411055a87d144636",
   "lastOpenFiles": [
     "Dashboard.md",
     "memo.md",
