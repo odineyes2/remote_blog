@@ -26,5 +26,6 @@
     "editor:redo",
     "editor:configure-toolbar",
     "editor:insert-table"
-  ]
+  ],
+  "livePreview": false
 }
