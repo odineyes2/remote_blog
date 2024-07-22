@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b535f3a5c2dc759a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024/Band.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6409114c2af10be",
+            "id": "9894c6c0e0ca1285",
             "type": "leaf",
             "state": {
               "type": "FileClassView__Mm",
@@ -28,27 +16,19 @@
             }
           },
           {
-            "id": "8a99f23652e8bac0",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__Band",
-              "state": {}
-            }
-          },
-          {
-            "id": "5ed0f553318524bb",
+            "id": "ce5ce4ec2c492e1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/Mm.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +53,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#band",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -102,7 +82,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "3dc6e92ee46ac2f0",
@@ -114,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024/Mm.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024/Mm.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024/Mm.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -170,7 +150,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a99f23652e8bac0",
+  "active": "ce5ce4ec2c492e1b",
   "lastOpenFiles": [
     "2024/Band.md",
     "2024/Mm.md",
