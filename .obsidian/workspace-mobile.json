@@ -8,23 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c7aed47aeca8fa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6f14ed6a806a54fa",
+            "id": "5b19a12a394cd49c",
             "type": "leaf",
             "state": {
               "type": "FileClassView__예산관리",
               "state": {}
+            }
+          },
+          {
+            "id": "998d6895128f1a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Area/생활비 관리/2024년/2024-07.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/생활비 관리/2024년/2024-07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/생활비 관리/2024년/2024-07.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "2. Area/생활비 관리/2024년/2024-07.md"
           }
         }
       },
@@ -150,10 +150,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f14ed6a806a54fa",
+  "active": "998d6895128f1a97",
   "lastOpenFiles": [
-    "2. Area/생활비 관리/2024년/2024-07.md",
     "Dashboard.md",
+    "2. Area/생활비 관리/2024년/2024-07.md",
     "memo.md",
     "태양광 패널.md",
     "사고싶다.md",
