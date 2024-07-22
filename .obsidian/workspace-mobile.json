@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
-                "mode": "preview",
+                "file": "2. Area/생활비 관리/2024년/2024-07.md",
+                "mode": "source",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "c1ab7444402f4d54",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
             }
           }
         ]
@@ -44,7 +52,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Rockband",
+            "query": "tag:#예산관리",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
+            "file": "2. Area/생활비 관리/2024년/2024-07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
+            "file": "2. Area/생활비 관리/2024년/2024-07.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md"
+            "file": "2. Area/생활비 관리/2024년/2024-07.md"
           }
         }
       },
@@ -143,7 +151,12 @@
   },
   "active": "32760f8be20c29b4",
   "lastOpenFiles": [
+    "사고싶다.md",
+    "2. Area/생활비 관리/2024년/2024-07.md",
+    "2. Area/생활비 관리/2024년/2024-07.md",
     "Dashboard.md",
+    "2. Area/생활비 관리/2024년/2024년 7월.md",
+    "무제 파일.md",
     "memo.md",
     "/memo.md",
     "2024-07.md",
@@ -156,7 +169,6 @@
     "2024/Band.md",
     "장 볼 것.md",
     "2024",
-    "2. Area/생활비 관리/2024년/2024년 7월.md",
     "2. Area/작은 방 침대 어떡하지.md",
     "2. Area/적지않은 월급이건만 고민.md",
     "2. Area/임당식단.md",
@@ -165,12 +177,8 @@
     "2. Area/생활비 관리/2024년도 생활비 관리.md",
     "2. Area/생활비 관리/2024년/2024년 10월.md",
     "암보험약관분석(nh암플러스nh치료보험).md",
-    "무제 파일.md",
     "건강.md",
     "/암보험약관분석(nh암플러스nh치료보험).md",
-    "/건강.md",
-    "2. Area/장보기와 돈아끼기/식비 계획.md",
-    "2. Area/생활비 관리/2024년/2024년 9월.md",
     "2. Area/생활비 관리/2025년",
     "2. Area/생활비 관리/2024년",
     "2. Area/생활비 관리",
