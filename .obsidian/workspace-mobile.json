@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2574878c3b3a5113",
+            "id": "816f3d387fb34e39",
             "type": "leaf",
             "state": {
               "type": "FileClassView__예산관리",
@@ -16,13 +16,13 @@
             }
           },
           {
-            "id": "db473e876bcf98e5",
+            "id": "54d01b5de27d5128",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "2. Area/생활비 관리/2024년/2024년 7월.md"
           }
         }
       },
@@ -150,10 +150,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db473e876bcf98e5",
+  "active": "54d01b5de27d5128",
   "lastOpenFiles": [
-    "2. Area/생활비 관리/2024년/2024년 7월.md",
     "Dashboard.md",
+    "2. Area/생활비 관리/2024년도 생활비 관리.md",
+    "2. Area/생활비 관리/2024년/2024년 7월.md",
     "장 볼 것.md",
     "사고싶다.md",
     "3. Resource/보험 관련 정보/건강.md",
@@ -179,7 +180,6 @@
     "4. Archive/file Classes/Rockband.md",
     "4. Archive/OurFamily.md",
     "4. Archive/file Classes/예산관리.md",
-    "Rock band.md",
     "4. Archive/file Classes",
     "2024",
     "2. Area/생활비 관리/2025년",
