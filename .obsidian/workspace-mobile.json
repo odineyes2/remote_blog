@@ -18,8 +18,29 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e5c9f0e4c3d82cd4",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
+            }
+          },
+          {
+            "id": "75bbab117cde55d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "사고싶다.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "사고싶다.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "사고싶다.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "사고싶다.md"
           }
         }
       },
@@ -141,10 +162,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f74c6fff80c1dcd",
+  "active": "75bbab117cde55d6",
   "lastOpenFiles": [
-    "사고싶다.md",
     "Dashboard.md",
+    "사고싶다.md",
     "3. Resource/보험 관련 정보/건강.md",
     "/file Classes/예산관리.md",
     "/3. Resource/보험 관련 정보/건강.md",
@@ -166,11 +187,11 @@
     "무제 파일.md",
     "/memo.md",
     "2024-07.md",
-    "file Classes/Rockband.md",
+    "4. Archive/file Classes/Rockband.md",
     "OurFamily.md",
-    "file Classes/예산관리.md",
+    "4. Archive/file Classes/예산관리.md",
     "Rock band.md",
-    "file Classes",
+    "4. Archive/file Classes",
     "2024/Mm.md",
     "2024",
     "2. Area/생활비 관리/2025년",
