@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9373dc69d9a6001d",
+            "id": "5f74c6fff80c1dcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,17 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "5f74c6fff80c1dcd",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__예산관리",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,6 +143,8 @@
   },
   "active": "5f74c6fff80c1dcd",
   "lastOpenFiles": [
+    "사고싶다.md",
+    "Dashboard.md",
     "3. Resource/보험 관련 정보/건강.md",
     "/file Classes/예산관리.md",
     "/3. Resource/보험 관련 정보/건강.md",
@@ -166,12 +159,10 @@
     "2. Area/생활비 관리/2024년/2024년 9월.md",
     "/1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/옵시디언 단축키.md",
     "/무제 파일 1.md",
-    "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
     "2. Area/생활비 관리/2024년/2024-07.md",
     "memo.md",
     "태양광 패널.md",
-    "사고싶다.md",
     "무제 파일.md",
     "/memo.md",
     "2024-07.md",
