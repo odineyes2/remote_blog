@@ -8,39 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f61cb23266661863",
+            "id": "9373dc69d9a6001d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/생활비 관리/2024년/2024년 9월.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "9373dc69d9a6001d",
+            "id": "5f74c6fff80c1dcd",
             "type": "leaf",
             "state": {
               "type": "FileClassView__예산관리",
               "state": {}
             }
-          },
-          {
-            "id": "d2df54bedc1fe54f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일 1.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "무제 파일 1.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "무제 파일 1.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "무제 파일 1.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -162,11 +150,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2df54bedc1fe54f",
+  "active": "5f74c6fff80c1dcd",
   "lastOpenFiles": [
-    "2. Area/생활비 관리/2024년/2024년 9월.md",
+    "3. Resource/보험 관련 정보/건강.md",
+    "/file Classes/예산관리.md",
+    "/3. Resource/보험 관련 정보/건강.md",
+    "4. Archive/태양광 패널.md",
+    "3. Resource/보험 관련 정보/암보험약관분석(nh암플러스nh치료보험).md",
+    "/4. Archive/태양광 패널.md",
+    "/3. Resource/보험 관련 정보/암보험약관분석(nh암플러스nh치료보험).md",
+    "3. Resource/보험 관련 정보",
+    "/3. Resource/보험 관련 정보",
     "1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/옵시디언 단축키.md",
     "무제 파일 1.md",
+    "2. Area/생활비 관리/2024년/2024년 9월.md",
     "/1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/옵시디언 단축키.md",
     "/무제 파일 1.md",
     "Dashboard.md",
@@ -184,22 +181,13 @@
     "Rock band.md",
     "file Classes",
     "2024/Mm.md",
-    "2024/Band.md",
-    "장 볼 것.md",
     "2024",
-    "2. Area/작은 방 침대 어떡하지.md",
-    "2. Area/적지않은 월급이건만 고민.md",
-    "2. Area/임당식단.md",
-    "2. Area/생활비 관리/2024년/2024년 8월.md",
-    "2. Area/양가 집주소.md",
     "2. Area/생활비 관리/2025년",
     "2. Area/생활비 관리/2024년",
     "2. Area/생활비 관리",
     "2. Area/장보기와 돈아끼기",
     "2. Area/밑반찬 레시피",
     "무알콜 칵테일",
-    "3. Resource/it 관련 정보",
-    "4. Archive/여행 관련 정보",
     "4. Archive/Attached files/padi_logo.png",
     "/4. Archive/Attached files/padi_logo.png",
     "Web_study/Img/2.jpeg",
