@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67370a2f834ce911",
+            "id": "2574878c3b3a5113",
             "type": "leaf",
             "state": {
               "type": "FileClassView__예산관리",
@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "d429c8d56c015ece",
+            "id": "db473e876bcf98e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -150,10 +150,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d429c8d56c015ece",
+  "active": "db473e876bcf98e5",
   "lastOpenFiles": [
-    "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
+    "Dashboard.md",
     "장 볼 것.md",
     "사고싶다.md",
     "3. Resource/보험 관련 정보/건강.md",
