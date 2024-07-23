@@ -18,6 +18,14 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7a41096747c86091",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
+            }
           }
         ]
       }
@@ -143,12 +151,12 @@
   },
   "active": "330cf5c4d12fc364",
   "lastOpenFiles": [
+    "2. Area/우리집 & 차 정보.md",
+    "2. Area/생활비 관리/2024년/2024년 7월.md",
     "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024-07.md",
     "2. Area/장보기와 돈아끼기/생필품 시세 파악.md",
-    "2. Area/생활비 관리/2024년/2024년 7월.md",
     "2. Area/생활비 관리/2024년도 생활비 관리.md",
-    "2. Area/우리집 & 차 정보.md",
     "2. Area/적지않은 월급이건만 고민.md",
     "2. Area/차량 관련 비용 정보.md",
     "장 볼 것.md",
