@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "658a57ae016c144f",
+            "id": "a2a65f4f350f5670",
             "type": "leaf",
             "state": {
               "type": "FileClassView__예산관리",
@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "f46672bcdb98c8b1",
+            "id": "2a0ffb7754db1313",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,11 +150,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f46672bcdb98c8b1",
+  "active": "2a0ffb7754db1313",
   "lastOpenFiles": [
-    "2. Area/생활비 관리/2024년/2024년 8월.md",
-    "2. Area/생활비 관리/2024년/2024년 7월.md",
     "Dashboard.md",
+    "2. Area/생활비 관리/2024년/2024년 7월.md",
+    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/양가 집주소.md",
     "2. Area/우리집 & 차 정보.md",
     "2. Area/생활비 관리/2024년/2024-07.md",
