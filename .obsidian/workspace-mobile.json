@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
+                "file": "2. Area/생활비 관리/2024년/2024-08.md",
                 "mode": "preview",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "0dc698e4448fb4f7",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
+            "file": "2. Area/생활비 관리/2024년/2024-08.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
+            "file": "2. Area/생활비 관리/2024년/2024-08.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 7월.md"
+            "file": "2. Area/생활비 관리/2024년/2024-08.md"
           }
         }
       },
@@ -143,10 +151,10 @@
   },
   "active": "60432c96ee1d6f0d",
   "lastOpenFiles": [
+    "2. Area/생활비 관리/2024년/2024년 7월.md",
     "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024-08.md",
     "4. Archive/file Classes/예산관리.md",
-    "2. Area/생활비 관리/2024년/2024년 7월.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/양가 집주소.md",
     "2. Area/우리집 & 차 정보.md",
