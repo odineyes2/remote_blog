@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e15d539de74c583",
+        "id": "cc7a5e86709b354c",
         "type": "tabs",
         "children": [
           {
-            "id": "2d60448409ee9305",
+            "id": "60432c96ee1d6f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/생활비 관리/2024년/2024-08.md",
+                "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024-08.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024-08.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 7월.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024-08.md"
+            "file": "2. Area/생활비 관리/2024년/2024년 7월.md"
           }
         }
       },
@@ -141,10 +141,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d60448409ee9305",
+  "active": "60432c96ee1d6f0d",
   "lastOpenFiles": [
-    "2. Area/생활비 관리/2024년/2024-08.md",
     "Dashboard.md",
+    "2. Area/생활비 관리/2024년/2024-08.md",
     "4. Archive/file Classes/예산관리.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
