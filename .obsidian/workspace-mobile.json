@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "사고싶다.md",
                 "mode": "preview",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "9a783cb04a267a81",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "사고싶다.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "사고싶다.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "사고싶다.md"
           }
         }
       },
@@ -143,9 +151,9 @@
   },
   "active": "9397c6f5148a7ab3",
   "lastOpenFiles": [
+    "Dashboard.md",
     "비빔국수.md",
     "무제 파일.md",
-    "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024-08.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
     "4. Archive/file Classes/예산관리.md",
