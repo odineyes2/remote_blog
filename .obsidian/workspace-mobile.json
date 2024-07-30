@@ -8,26 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9397c6f5148a7ab3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "사고싶다.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9a783cb04a267a81",
+            "id": "22191d7967f88a33",
             "type": "leaf",
             "state": {
               "type": "FileClassView__예산관리",
               "state": {}
             }
+          },
+          {
+            "id": "c1c483d82bc4f24a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "사고싶다.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,11 +150,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9397c6f5148a7ab3",
+  "active": "c1c483d82bc4f24a",
   "lastOpenFiles": [
     "Dashboard.md",
-    "비빔국수.md",
+    "2. Area/밑반찬 레시피/비빔국수.md",
     "무제 파일.md",
+    "memo.md",
+    "장 볼 것.md",
+    "사고싶다.md",
     "2. Area/생활비 관리/2024년/2024-08.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
     "4. Archive/file Classes/예산관리.md",
@@ -165,8 +169,6 @@
     "2. Area/생활비 관리/2024년도 생활비 관리.md",
     "2. Area/적지않은 월급이건만 고민.md",
     "2. Area/차량 관련 비용 정보.md",
-    "장 볼 것.md",
-    "사고싶다.md",
     "3. Resource/보험 관련 정보/건강.md",
     "/file Classes/예산관리.md",
     "/3. Resource/보험 관련 정보/건강.md",
@@ -178,7 +180,6 @@
     "/3. Resource/보험 관련 정보",
     "1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/옵시디언 단축키.md",
     "2. Area/생활비 관리/2024년/2024년 9월.md",
-    "/1. Project/옵시디언으로 제2의 두뇌얻기/옵시디언의 기본적인 기능 익히기/옵시디언 단축키.md",
     "4. Archive/file Classes",
     "2024",
     "2. Area/생활비 관리/2025년",
