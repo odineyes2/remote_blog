@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22191d7967f88a33",
+            "id": "3e48b0067d3cfe72",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
+            }
+          },
+          {
+            "id": "971320fee7e854f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사고싶다.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "사고싶다.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "사고싶다.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "사고싶다.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -141,10 +150,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22191d7967f88a33",
+  "active": "971320fee7e854f2",
   "lastOpenFiles": [
-    "Dashboard.md",
     "사고싶다.md",
+    "Dashboard.md",
     "2. Area/밑반찬 레시피/비빔국수.md",
     "무제 파일.md",
     "memo.md",
