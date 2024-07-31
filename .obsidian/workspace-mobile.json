@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "장 볼 것.md",
-                "mode": "preview",
+                "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "장 볼 것.md",
+            "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "장 볼 것.md",
+            "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "장 볼 것.md"
+            "file": "2. Area/장보기와 돈아끼기/식비 계획.md"
           }
         }
       },
@@ -152,12 +152,12 @@
   },
   "active": "f39503b722100ba9",
   "lastOpenFiles": [
+    "장 볼 것.md",
     "Dashboard.md",
     "사고싶다.md",
     "2. Area/밑반찬 레시피/비빔국수.md",
     "무제 파일.md",
     "memo.md",
-    "장 볼 것.md",
     "2. Area/생활비 관리/2024년/2024-08.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
     "4. Archive/file Classes/예산관리.md",
