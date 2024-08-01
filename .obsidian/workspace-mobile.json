@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/생활비 관리/2024년/2024-08.md",
-                "mode": "source",
+                "file": "4. Archive/file Classes/예산관리.md",
+                "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "65645d71fec6f7b0",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024-08.md",
+            "file": "4. Archive/file Classes/예산관리.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024-08.md",
+            "file": "4. Archive/file Classes/예산관리.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024-08.md"
+            "file": "4. Archive/file Classes/예산관리.md"
           }
         }
       },
@@ -141,10 +150,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "855cc066abc96dd9",
+  "active": "65645d71fec6f7b0",
   "lastOpenFiles": [
-    "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024-08.md",
+    "2. Area/생활비 관리/2024년/2024년 8월.md",
+    "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
     "2. Area/생활비 관리/2024년/2024-07.md",
     "2. Area/장보기와 돈아끼기/식비 계획.md",
@@ -154,7 +164,6 @@
     "무제 파일.md",
     "memo.md",
     "4. Archive/file Classes/예산관리.md",
-    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/양가 집주소.md",
     "2. Area/우리집 & 차 정보.md",
     "2. Area/장보기와 돈아끼기/생필품 시세 파악.md",
