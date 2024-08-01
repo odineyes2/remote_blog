@@ -14,9 +14,17 @@
               "type": "markdown",
               "state": {
                 "file": "2. Area/생활비 관리/2024년/2024-08.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "7e093c524bd709f1",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
             }
           }
         ]
