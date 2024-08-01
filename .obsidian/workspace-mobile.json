@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "2e434f14341f80e6",
+        "id": "50e2e659a39d4adc",
         "type": "tabs",
         "children": [
           {
-            "id": "2e972675b45d79c6",
+            "id": "f9a4837098c9d87d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/생활비 관리/2024년/2024-10.md",
+                "file": "2. Area/생활비 관리/2024년/2024년 10월.md",
                 "mode": "preview",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "888d83ff76e6f389",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024-10.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 10월.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024-10.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 10월.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024-10.md"
+            "file": "2. Area/생활비 관리/2024년/2024년 10월.md"
           }
         }
       },
@@ -141,13 +149,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e972675b45d79c6",
+  "active": "05a62972479674d2",
   "lastOpenFiles": [
-    "Dashboard.md",
-    "2. Area/생활비 관리/2024년/2024-10.md",
-    "2. Area/생활비 관리/2024년/2024-09.md",
-    "2. Area/생활비 관리/2024년/2024-08.md",
     "2. Area/생활비 관리/2024년/2024년 9월.md",
+    "2. Area/생활비 관리/2024년/2024년 8월.md",
+    "2. Area/생활비 관리/2024년/2024-11.md",
+    "2. Area/생활비 관리/2024년/2024년 10월.md",
+    "2. Area/생활비 관리/2024년/2024-07.md",
+    "Dashboard.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive.md",
     "2. Area/개발관련지식/식별자네이밍규칙과 네이밍컨벤션.md",
     "사고싶다.md",
@@ -160,9 +169,7 @@
     "/2. Area/독서노트",
     "/2. Area/개발관련지식",
     "4. Archive/file Classes/예산관리.md",
-    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
-    "2. Area/생활비 관리/2024년/2024-07.md",
     "2. Area/장보기와 돈아끼기/식비 계획.md",
     "장 볼 것.md",
     "2. Area/밑반찬 레시피/비빔국수.md",
@@ -172,7 +179,6 @@
     "2. Area/우리집 & 차 정보.md",
     "2. Area/장보기와 돈아끼기/생필품 시세 파악.md",
     "2. Area/생활비 관리/2024년도 생활비 관리.md",
-    "2. Area/적지않은 월급이건만 고민.md",
     "3. Resource/보험 관련 정보",
     "/3. Resource/보험 관련 정보",
     "4. Archive/file Classes",
