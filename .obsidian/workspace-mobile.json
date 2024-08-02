@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d3039934159df48",
+            "id": "57d4b92ba40f198a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "57d4b92ba40f198a",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__예산관리",
-              "state": {}
             }
           }
         ]
@@ -149,7 +141,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d3039934159df48",
+  "active": "57d4b92ba40f198a",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
