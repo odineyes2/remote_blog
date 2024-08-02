@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bff7c7cd0f5c2ac",
+            "id": "11ec95e1328e58a1",
             "type": "leaf",
             "state": {
               "type": "FileClassView__예산관리",
@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "fca8774569f2f4fb",
+            "id": "dc2487c40461e123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memo2.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "memo2.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "memo2.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "memo2.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -150,10 +150,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fca8774569f2f4fb",
+  "active": "dc2487c40461e123",
   "lastOpenFiles": [
+    "2. Area/사고싶다.md",
     "Dashboard.md",
-    "memo2.md",
+    "3. Resource/it 관련 정보/윈도우 실행창 명령어 등록절차.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/모던자바스크립트Deep Dive.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/front.md",
     "/memo2.md",
@@ -162,7 +163,6 @@
     "2. Area/독서노트/모던자바스크립트Deep Dive",
     "/2. Area/독서노트/모던자바스크립트Deep Dive",
     "3. Resource/it 관련 정보/윈도우 실행창 명령어.md",
-    "2. Area/사고싶다.md",
     "2. Area/독서노트/독서노트표지.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive.md",
     "2. Area/생활비 관리/2024년도 생활비 관리.md",
