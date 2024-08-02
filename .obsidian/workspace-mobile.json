@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c86eabc2ddd949b9",
+        "id": "9ad28e11b9fbfd6b",
         "type": "tabs",
         "children": [
           {
-            "id": "434b00ca8434940e",
+            "id": "b936ed243a51f30b",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
+            }
+          },
+          {
+            "id": "81d5ec29c2bef7b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
+                "file": "3. Resource/it 관련 정보/윈도우 실행창 명령어 등록절차.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
+            "file": "3. Resource/it 관련 정보/윈도우 실행창 명령어 등록절차.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
+            "file": "3. Resource/it 관련 정보/윈도우 실행창 명령어 등록절차.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 8월.md"
+            "file": "3. Resource/it 관련 정보/윈도우 실행창 명령어 등록절차.md"
           }
         }
       },
@@ -141,7 +150,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "434b00ca8434940e",
+  "active": "81d5ec29c2bef7b8",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
