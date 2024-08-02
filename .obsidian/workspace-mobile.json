@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "754bf1820c0448b0",
+        "id": "1e53371173481614",
         "type": "tabs",
         "children": [
           {
-            "id": "70cec9a14a45f598",
+            "id": "f57557f1b77dac9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,9 +141,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70cec9a14a45f598",
+  "active": "f57557f1b77dac9b",
   "lastOpenFiles": [
     "Dashboard.md",
+    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "4. Archive/비번.md",
     "무제 파일.md",
     "memo.md",
@@ -159,7 +160,6 @@
     "2. Area/생활비 관리/2024년도 생활비 관리.md",
     "2. Area/생활비 관리/2024년/2024년 10월.md",
     "2. Area/생활비 관리/2024년/2024년 9월.md",
-    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/생활비 관리/2024년/2024-07.md",
     "2. Area/독서노트/독서노트표지.md",
     "/2. Area/독서노트/모던자바스크립트Deep Dive.md",
