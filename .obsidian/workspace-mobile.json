@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd67f4ef18d1fc04",
+            "id": "2bff7c7cd0f5c2ac",
             "type": "leaf",
             "state": {
               "type": "FileClassView__예산관리",
@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "43c72ac3cf606713",
+            "id": "fca8774569f2f4fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "memo2.md",
                 "mode": "preview",
                 "source": true
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "memo2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "memo2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "memo2.md"
           }
         }
       },
@@ -150,16 +150,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43c72ac3cf606713",
+  "active": "fca8774569f2f4fb",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "memo2.md",
+    "2. Area/독서노트/모던자바스크립트Deep Dive/모던자바스크립트Deep Dive.md",
+    "2. Area/독서노트/모던자바스크립트Deep Dive/front.md",
+    "/memo2.md",
+    "/2. Area/독서노트/모던자바스크립트Deep Dive/모던자바스크립트Deep Dive.md",
+    "/2. Area/독서노트/모던자바스크립트Deep Dive/front.md",
+    "2. Area/독서노트/모던자바스크립트Deep Dive",
+    "/2. Area/독서노트/모던자바스크립트Deep Dive",
+    "3. Resource/it 관련 정보/윈도우 실행창 명령어.md",
     "2. Area/사고싶다.md",
     "2. Area/독서노트/독서노트표지.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive.md",
     "2. Area/생활비 관리/2024년도 생활비 관리.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
-    "Dashboard.md",
     "4. Archive/비번.md",
-    "무제 파일.md",
     "memo.md",
     "2. Area/장 볼 것.md",
     "3. Resource/옷 쇼핑.md",
@@ -172,22 +180,14 @@
     "2. Area/생활비 관리/2024년/2024년 9월.md",
     "2. Area/생활비 관리/2024년/2024-07.md",
     "/2. Area/독서노트/모던자바스크립트Deep Dive.md",
-    "/2. Area/독서노트/독서노트표지.md",
-    "/2. Area/개발관련지식/식별자네이밍규칙과 네이밍컨벤션.md",
     "2. Area/독서노트",
     "2. Area/개발관련지식",
     "/2. Area/독서노트",
     "/2. Area/개발관련지식",
-    "4. Archive/file Classes/예산관리.md",
-    "2. Area/생활비 관리/2024년/2024년 7월.md",
-    "2. Area/밑반찬 레시피/비빔국수.md",
-    "2. Area/양가 집주소.md",
     "3. Resource/보험 관련 정보",
     "/3. Resource/보험 관련 정보",
     "4. Archive/file Classes",
     "2024",
-    "2. Area/생활비 관리/2025년",
-    "2. Area/생활비 관리/2024년",
     "4. Archive/Attached files/padi_logo.png",
     "/4. Archive/Attached files/padi_logo.png",
     "Web_study/Img/2.jpeg",
