@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d6d784c69bd6d50",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__예산관리",
-              "state": {}
-            }
-          },
-          {
             "id": "ae1639d1204580a9",
             "type": "leaf",
             "state": {
@@ -26,9 +18,16 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "72b78537efc12573",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
