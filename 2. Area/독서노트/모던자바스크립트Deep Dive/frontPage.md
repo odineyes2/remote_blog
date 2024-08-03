@@ -1,3 +1,14 @@
+---
+class: ebook
+title: "모던 자바스크립트 Deep Dive"
+writor: "이웅모"
+price: 28,350
+platform: yes24
+isBuy: true
+isRead: reading
+start_date: 
+end_date: 
+---
 
 - [ ] 19장 - 프로토타입 : 2024-08-01 ~     
     - [ ] 19.4 - 리터럴 표기법에 의해 생성된 객체의 생성자 함수와 프로토타입
