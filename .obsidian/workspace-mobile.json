@@ -8,7 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae1639d1204580a9",
+            "id": "fb6c359374906582",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
+            }
+          },
+          {
+            "id": "9bfa90dc2b6fc7dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,16 +26,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "72b78537efc12573",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__예산관리",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +150,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae1639d1204580a9",
+  "active": "9bfa90dc2b6fc7dc",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
