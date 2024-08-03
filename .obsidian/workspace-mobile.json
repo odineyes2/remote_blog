@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소불고기.md",
-                "mode": "source",
+                "file": "2. Area/밑반찬 레시피/0. 레시피 모음.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "소불고기.md",
+            "file": "2. Area/밑반찬 레시피/0. 레시피 모음.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "소불고기.md",
+            "file": "2. Area/밑반찬 레시피/0. 레시피 모음.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "소불고기.md"
+            "file": "2. Area/밑반찬 레시피/0. 레시피 모음.md"
           }
         }
       },
@@ -164,8 +164,10 @@
   },
   "active": "f9def2beb79bec14",
   "lastOpenFiles": [
-    "2. Area/생활비 관리/2024년/2024년 8월.md",
+    "2. Area/밑반찬 레시피/감자 샐러드 모닝빵.md",
+    "2. Area/밑반찬 레시피/0. 레시피 모음.md",
     "소불고기.md",
+    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "Dashboard.md",
     "memo.md",
     "3. Resource/it 관련 정보/윈도우 실행창 명령어 등록절차.md",
@@ -190,8 +192,6 @@
     "2. Area/생활비 관리/2024년/2024년 12월.md",
     "2. Area/적지않은 월급이건만 고민.md",
     "2. Area/생활비 관리/2024년/2024년 10월.md",
-    "2. Area/생활비 관리/2024년/2024년 9월.md",
-    "2. Area/생활비 관리/2024년/2024-07.md",
     "2. Area/독서노트",
     "2. Area/개발관련지식",
     "/2. Area/독서노트",
