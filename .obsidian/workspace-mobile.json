@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/독서노트/모던자바스크립트Deep Dive/frontPage.md",
+                "file": "2. Area/밑반찬 레시피/소불고기.md",
                 "mode": "preview",
                 "source": true
               }
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/독서노트/모던자바스크립트Deep Dive/frontPage.md",
+            "file": "2. Area/밑반찬 레시피/소불고기.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/독서노트/모던자바스크립트Deep Dive/frontPage.md",
+            "file": "2. Area/밑반찬 레시피/소불고기.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/독서노트/모던자바스크립트Deep Dive/frontPage.md"
+            "file": "2. Area/밑반찬 레시피/소불고기.md"
           }
         }
       },
@@ -158,10 +158,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4adc7fb26bed3d99",
+  "active": "05a62972479674d2",
   "lastOpenFiles": [
-    "Dashboard.md",
+    "3. Resource/옵시디언 사용법 관련 정보/PARA 체계화 방법.md",
+    "2. Area/밑반찬 레시피/소불고기.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/frontPage.md",
+    "Dashboard.md",
     "/2. Area/독서노트/모던자바스크립트Deep Dive/frontPage.md",
     "/2. Area/독서노트/list.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/memo.md",
@@ -175,7 +177,6 @@
     "/2. Area/독서노트/모던자바스크립트Deep Dive/2024-08-01.md",
     "2. Area/밑반찬 레시피/0. 레시피 모음.md",
     "2. Area/밑반찬 레시피/감자 샐러드 모닝빵.md",
-    "소불고기.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
     "memo.md",
     "3. Resource/it 관련 정보/윈도우 실행창 명령어 등록절차.md",
@@ -187,7 +188,6 @@
     "/2. Area/독서노트/모던자바스크립트Deep Dive/front.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive",
     "/2. Area/독서노트/모던자바스크립트Deep Dive",
-    "3. Resource/it 관련 정보/윈도우 실행창 명령어.md",
     "2. Area/독서노트",
     "2. Area/개발관련지식",
     "/2. Area/독서노트",
