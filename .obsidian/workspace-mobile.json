@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9add69ffcfde726",
+            "id": "d984306d60130329",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "732800422d074c19",
             "type": "leaf",
             "state": {
               "type": "FileClassView__예산관리",
@@ -16,27 +28,14 @@
             }
           },
           {
-            "id": "d984306d60130329",
+            "id": "69ea285175922ba7",
             "type": "leaf",
             "state": {
               "type": "FileClassView__Book",
               "state": {}
             }
-          },
-          {
-            "id": "599f757dff7db72a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -158,12 +157,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "599f757dff7db72a",
+  "active": "d984306d60130329",
   "lastOpenFiles": [
+    "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
     "Dashboard.md",
     "2. Area/뿌용이 육아/뿌용이 이름.md",
     "2. Area/독서노트/NodeJs교과서/NodeJs 교과서.md",
-    "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
     "3. Resource/옵시디언 관련 정보/Metadata Menu 사용법.md",
     "/Dashboard.md",
     "3. Resource/옵시디언 관련 정보/콜아웃.md",
