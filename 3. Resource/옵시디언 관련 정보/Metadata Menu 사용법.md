@@ -22,4 +22,10 @@ https://www.youtube.com/watch?v=EhEJSxTzzBg
 https://blacksmithgu.github.io/obsidian-dataview/
 
 
-## dv?
+## metadata menu
+- classfile 생성
+    - props 입력
+    - tag 입력
+- file 생성
+    - tag 입력
+    - metadata 아이콘 클릭해서 metadata를 입력
