@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -34,8 +34,29 @@
               "type": "FileClassView__Book",
               "state": {}
             }
+          },
+          {
+            "id": "3decfbabeac09892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Archive/file Classes/식품가격.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cfe9b578b208087f",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__식품가격",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
+            "file": "4. Archive/file Classes/식품가격.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
+            "file": "4. Archive/file Classes/식품가격.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/식비 계획.md"
+            "file": "4. Archive/file Classes/식품가격.md"
           }
         }
       },
@@ -157,8 +178,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6d9b7e29a855422",
+  "active": "cfe9b578b208087f",
   "lastOpenFiles": [
+    "2. Area/장보기와 돈아끼기/식비 계획.md",
+    "4. Archive/file Classes/식품가격.md",
     "Dashboard.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
     "2. Area/뿌용이 육아/뿌용이 이름.md",
@@ -186,8 +209,6 @@
     "3. Resource/옵시디언 사용법 관련 정보/PARA 체계화 방법.md",
     "2. Area/밑반찬 레시피/소불고기.md",
     "/2. Area/독서노트/모던자바스크립트Deep Dive/frontPage.md",
-    "/2. Area/독서노트/list.md",
-    "2. Area/독서노트/모던자바스크립트Deep Dive/memo.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive",
     "/2. Area/독서노트/모던자바스크립트Deep Dive",
     "2. Area/독서노트",
