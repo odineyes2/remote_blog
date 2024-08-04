@@ -65,7 +65,7 @@ fields:
 version: "2.41"
 limit: 20
 mapWithTag: false
-icon: package
+icon: book
 tagNames:
   - Book
 filesPaths: 
