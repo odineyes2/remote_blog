@@ -8,19 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "732800422d074c19",
+            "id": "b6d9b7e29a855422",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
                 "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "69ea285175922ba7",
+            "id": "2f33ce05e4320063",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
+            }
+          },
+          {
+            "id": "dee48cf0590dc0c3",
             "type": "leaf",
             "state": {
               "type": "FileClassView__Book",
@@ -93,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +130,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "2. Area/장보기와 돈아끼기/식비 계획.md"
           }
         }
       },
@@ -149,10 +157,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "732800422d074c19",
+  "active": "b6d9b7e29a855422",
   "lastOpenFiles": [
-    "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
     "Dashboard.md",
+    "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
     "2. Area/뿌용이 육아/뿌용이 이름.md",
     "2. Area/독서노트/NodeJs교과서/NodeJs 교과서.md",
     "3. Resource/옵시디언 관련 정보/Metadata Menu 사용법.md",

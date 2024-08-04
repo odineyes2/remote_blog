@@ -11,14 +11,17 @@ cssclasses:
 
 ## 👶 뿌용이 육아
 
-`$=dv.list(dv.pages('"2. Area/뿌용이 육아"').sort(f=>f.file.ctime.ts,"desc").limit(5).file.link)`
+`$=dv.list(dv.pages('"2. Area/뿌용이 육아"').sort(f=>f.file.ctime.ts,"desc").limit(10).file.link)`
 
 ## 💻 개발 공부
 
 ### Javascript
-	- [ ] 모던 자바스크립트 딥다이브 3만원
+
+- [ ] 모던 자바스크립트 딥다이브 3만원
+
 ### NodeJS
-	- [ ] NodeJS 교과서
+- [ ] NodeJS 교과서
+
 ### Database
 ### React
 ### CSS
