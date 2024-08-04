@@ -6,13 +6,12 @@ cssclasses:
 - 🗃 최근 수정한 노트`$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(10).file.link)`
 - 📝 최근 작성한 노트`$=dv.list(dv.pages('').sort(f=>f.file.ctime.ts,"desc").limit(5).file.link)`
 - 📁 폴더: React`$=dv.list(dv.pages('"React"').sort(f=>f.file.ctime.ts,"desc").limit(5).file.link)`
-- 🔖 태그: 자기개발`$=dv.list(dv.pages('#자기개발').sort(f=>f.file.name,"asc").limit(5).file.link)`
+- 🔖 태그: 자기개발`$=dv.list(dv.pages('#Book').sort(f=>f.file.name,"asc").limit(5).file.link)`
 - ✅ 완료: 프로젝트`$=dv.list(dv.pages('').where(p=>p.completed==="true").sort(f=>f.file.name,'asc').limit(5).file.link)`
 
 ## 👶 뿌용이 육아
 
-- [[육아용품 구매 리스트]]
-`$=dv.list(dv.pages('"뿌용이 육아"').sort(f=>f.file.name,"asc").limit(5).file.link)`
+`$=dv.list(dv.pages('"2. Area/뿌용이 육아"').sort(f=>f.file.ctime.ts,"desc").limit(5).file.link)`
 
 ## 💻 개발 공부
 
