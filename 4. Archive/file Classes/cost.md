@@ -27,11 +27,12 @@ fields:
     options: {}
     path: ""
     id: PuYKST
-version: "2.8"
+version: "2.9"
 limit: 20
 mapWithTag: false
 icon: package
-tagNames: 
+tagNames:
+  - cost
 filesPaths: 
 bookmarksGroups: 
 excludes: 
