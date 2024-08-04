@@ -4,27 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "49bff0ccd0dd0250",
+        "id": "f1bac2026aac18c0",
         "type": "tabs",
         "children": [
           {
-            "id": "0b817409aa73ab2c",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__물가정보스키마",
-              "state": {}
-            }
-          },
-          {
-            "id": "c8070c6a154cfca7",
+            "id": "de899779a2957e0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
                 "mode": "preview",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "3edce537aa5e099a",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__물가정보스키마",
+              "state": {}
             }
           }
         ],
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md"
           }
         }
       },
@@ -150,11 +150,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c8070c6a154cfca7",
+  "active": "3edce537aa5e099a",
   "lastOpenFiles": [
-    "2. Area/장보기와 돈아끼기/물가정보.md",
-    "4. Archive/file Classes/물가정보스키마.md",
     "Dashboard.md",
+    "2. Area/장보기와 돈아끼기/물가정보.md",
+    "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
+    "4. Archive/file Classes/물가정보스키마.md",
     "2. Area/장 볼 것.md",
     "2. Area/생활비 관리/2024년/2024년 12월.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
@@ -166,7 +167,6 @@
     "4. Archive/file Classes/예산관리.md",
     "4. Archive/file Classes/식품가격.md",
     "2. Area/장보기와 돈아끼기/식비 계획.md",
-    "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
     "2. Area/뿌용이 육아/뿌용이 이름.md",
     "2. Area/독서노트/NodeJs교과서/NodeJs 교과서.md",
     "3. Resource/옵시디언 관련 정보/Metadata Menu 사용법.md",
