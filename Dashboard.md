@@ -3,7 +3,7 @@ cssclasses:
   - dashboard
 ---
 ## 노트 리스트
-- 🗃 최근 수정한 노트`$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(5).file.link)`
+- 🗃 최근 수정한 노트`$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(10).file.link)`
 - 📝 최근 작성한 노트`$=dv.list(dv.pages('').sort(f=>f.file.ctime.ts,"desc").limit(5).file.link)`
 - 📁 폴더: React`$=dv.list(dv.pages('"React"').sort(f=>f.file.ctime.ts,"desc").limit(5).file.link)`
 - 🔖 태그: 자기개발`$=dv.list(dv.pages('#자기개발').sort(f=>f.file.name,"asc").limit(5).file.link)`
@@ -12,8 +12,19 @@ cssclasses:
 ## 👶 뿌용이 육아
 
 - [[육아용품 구매 리스트]]
+`$=dv.list(dv.pages('"뿌용이 육아"').sort(f=>f.file.name,"asc").limit(5).file.link)`
 
 ## 💻 개발 공부
+
+### Javascript
+	- [ ] 모던 자바스크립트 딥다이브 3만원
+### NodeJS
+	- [ ] NodeJS 교과서
+### Database
+### React
+### CSS
+### NextJS
+### NestJS
 
 ### 웹개발 기초~중급 Track : 45만원
 
@@ -22,9 +33,7 @@ cssclasses:
 		- 6만원
 		- 15시간
 		- 챌린지o
-- [ ] JS & NodeJS
-	- [ ] 모던 자바스크립트 딥다이브 3만원
-	- 
+- [ ] JS & NodeJS	
 	- [ ] 유튜브 클론
 		- 36만원
 		- 28시간
