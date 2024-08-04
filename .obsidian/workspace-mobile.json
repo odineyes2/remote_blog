@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bc6064bdefa4a49",
+            "id": "91266f225008c1ae",
             "type": "leaf",
             "state": {
               "type": "FileClassView__Book",
@@ -16,27 +16,19 @@
             }
           },
           {
-            "id": "f6e206c96e0ddeda",
+            "id": "71f79519157588ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "2. Area/장보기와 돈아끼기/물가정보.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "02c4f60bb637231d",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__cost",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/장보기와 돈아끼기/물가정보.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/장보기와 돈아끼기/물가정보.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "2. Area/장보기와 돈아끼기/물가정보.md"
           }
         }
       },
@@ -158,10 +150,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02c4f60bb637231d",
+  "active": "71f79519157588ac",
   "lastOpenFiles": [
     "Dashboard.md",
-    "Shop.md",
+    "2. Area/장보기와 돈아끼기/물가정보.md",
     "4. Archive/file Classes/cost.md",
     "4. Archive/file Classes/예산관리.md",
     "4. Archive/file Classes/식품가격.md",

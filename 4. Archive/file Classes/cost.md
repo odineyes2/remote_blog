@@ -6,7 +6,7 @@ fields:
       sourceType: ValuesList
       valuesList:
         "1": 홈플러스
-    path: ""
+    path: vZg6iC
     id: IULdZz
   - name: date
     type: Date
@@ -15,19 +15,31 @@ fields:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: false
       linkPath: ""
-    path: ""
+    path: vZg6iC
     id: HvNEuj
   - name: item
     type: Input
     options: {}
-    path: ""
+    path: vZg6iC
     id: coMlhy
-  - name: cost
-    type: Input
-    options: {}
+  - name: costObject
+    type: ObjectList
+    options:
+      displayTemplate: ""
+      itemDisplayTemplate: ""
     path: ""
-    id: PuYKST
-version: "2.9"
+    id: vZg6iC
+  - name: cost
+    type: Number
+    options: {}
+    path: vZg6iC
+    id: FufwyV
+  - name: amount
+    type: Number
+    options: {}
+    path: vZg6iC
+    id: pPDN5m
+version: "2.23"
 limit: 20
 mapWithTag: false
 icon: package
@@ -40,8 +52,10 @@ extends:
 savedViews: []
 favoriteView: 
 fieldsOrder:
-  - PuYKST
+  - vZg6iC
   - HvNEuj
-  - IULdZz
   - coMlhy
+  - FufwyV
+  - pPDN5m
+  - IULdZz
 ---
