@@ -1,16 +1,16 @@
 ---
-class: ebook
+class: E-book
 title: "모던 자바스크립트 Deep Dive"
 writor: "이웅모"
 price: 28,350
 platform: yes24
 isBuy: true
 isRead: reading
-start_date: 
+start_date: 2024-08-04
 end_date: 
 ---
 
-#book
+#Book
 
 
 - [ ] 19장 - 프로토타입 : 2024-08-01 ~     

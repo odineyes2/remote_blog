@@ -62,11 +62,12 @@ fields:
       linkPath: ""
     path: ""
     id: lLciFz
-version: "2.40"
+version: "2.41"
 limit: 20
 mapWithTag: false
 icon: package
-tagNames: 
+tagNames:
+  - Book
 filesPaths: 
 bookmarksGroups: 
 excludes: 

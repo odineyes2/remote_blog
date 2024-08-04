@@ -8,18 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81b45638d1df4359",
+            "id": "6b75693e2381dcfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/독서노트/모던자바스크립트Deep Dive/frontPage.md",
-                "mode": "preview",
+                "file": "2. Area/독서노트/NodeJs교과서/FrontPage.md",
+                "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "9d75e9fdcb757bd1",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리",
+              "state": {}
+            }
+          },
+          {
+            "id": "aea0c2a0ec365ee6",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Book",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#예산관리",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/독서노트/모던자바스크립트Deep Dive/frontPage.md",
+            "file": "2. Area/독서노트/NodeJs교과서/FrontPage.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/독서노트/모던자바스크립트Deep Dive/frontPage.md",
+            "file": "2. Area/독서노트/NodeJs교과서/FrontPage.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/독서노트/모던자바스크립트Deep Dive/frontPage.md"
+            "file": "2. Area/독서노트/NodeJs교과서/FrontPage.md"
           }
         }
       },
@@ -141,10 +158,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81b45638d1df4359",
+  "active": "9d75e9fdcb757bd1",
   "lastOpenFiles": [
     "Dashboard.md",
+    "2. Area/독서노트/Book List.md",
+    "2. Area/독서노트/NodeJs교과서/FrontPage.md",
+    "2. Area/독서노트/NodeJs교과서",
+    "2. Area/독서노트/독서노트표지.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/frontPage.md",
+    "4. Archive/file Classes/예산관리.md",
     "4. Archive/file Classes/Book.md",
     "3. Resource/옵시디언 사용법 관련 정보/PARA 체계화 방법.md",
     "2. Area/밑반찬 레시피/소불고기.md",
@@ -152,7 +174,6 @@
     "/2. Area/독서노트/list.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/memo.md",
     "/2. Area/독서노트/모던자바스크립트Deep Dive/memo.md",
-    "2. Area/독서노트/list.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/실행 컨택스트.md",
     "/2. Area/독서노트/모던자바스크립트Deep Dive/실행 컨택스트.md",
     "/2. Area/독서노트/독서노트표지.md",
@@ -165,10 +186,6 @@
     "3. Resource/it 관련 정보/윈도우 실행창 명령어 등록절차.md",
     "2. Area/사고싶다.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/모던자바스크립트Deep Dive.md",
-    "2. Area/독서노트/모던자바스크립트Deep Dive/front.md",
-    "/memo2.md",
-    "/2. Area/독서노트/모던자바스크립트Deep Dive/모던자바스크립트Deep Dive.md",
-    "/2. Area/독서노트/모던자바스크립트Deep Dive/front.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive",
     "/2. Area/독서노트/모던자바스크립트Deep Dive",
     "2. Area/독서노트",
@@ -178,7 +195,6 @@
     "3. Resource/보험 관련 정보",
     "/3. Resource/보험 관련 정보",
     "4. Archive/file Classes",
-    "2024",
     "4. Archive/Attached files/padi_logo.png",
     "/4. Archive/Attached files/padi_logo.png",
     "Web_study/Img/2.jpeg",
