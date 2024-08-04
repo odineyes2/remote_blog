@@ -8,19 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6d9b7e29a855422",
+            "id": "cfe9b578b208087f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Area/장보기와 돈아끼기/식비 계획.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "FileClassView__식품가격",
+              "state": {}
             }
           },
           {
-            "id": "2f33ce05e4320063",
+            "id": "11a73ce1d55ae99d",
             "type": "leaf",
             "state": {
               "type": "FileClassView__예산관리",
@@ -28,35 +24,19 @@
             }
           },
           {
-            "id": "dee48cf0590dc0c3",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__Book",
-              "state": {}
-            }
-          },
-          {
-            "id": "3decfbabeac09892",
+            "id": "ac3ebfa7bb5cfa39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archive/file Classes/식품가격.md",
+                "file": "4. Archive/file Classes/cost.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "cfe9b578b208087f",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__식품가격",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "4. Archive/file Classes/식품가격.md",
+            "file": "4. Archive/file Classes/cost.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "4. Archive/file Classes/식품가격.md",
+            "file": "4. Archive/file Classes/cost.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "4. Archive/file Classes/식품가격.md"
+            "file": "4. Archive/file Classes/cost.md"
           }
         }
       },
@@ -178,11 +158,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cfe9b578b208087f",
+  "active": "05a62972479674d2",
   "lastOpenFiles": [
-    "2. Area/장보기와 돈아끼기/식비 계획.md",
-    "4. Archive/file Classes/식품가격.md",
     "Dashboard.md",
+    "cost.md",
+    "4. Archive/file Classes/cost.md",
+    "4. Archive/file Classes/예산관리.md",
+    "4. Archive/file Classes/식품가격.md",
+    "2. Area/장보기와 돈아끼기/식비 계획.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
     "2. Area/뿌용이 육아/뿌용이 이름.md",
     "2. Area/독서노트/NodeJs교과서/NodeJs 교과서.md",
@@ -204,11 +187,8 @@
     "2. Area/독서노트/Book List.md",
     "2. Area/독서노트/NodeJs교과서",
     "2. Area/독서노트/독서노트표지.md",
-    "4. Archive/file Classes/예산관리.md",
     "4. Archive/file Classes/Book.md",
     "3. Resource/옵시디언 사용법 관련 정보/PARA 체계화 방법.md",
-    "2. Area/밑반찬 레시피/소불고기.md",
-    "/2. Area/독서노트/모던자바스크립트Deep Dive/frontPage.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive",
     "/2. Area/독서노트/모던자바스크립트Deep Dive",
     "2. Area/독서노트",
