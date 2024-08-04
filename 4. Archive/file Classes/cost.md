@@ -6,6 +6,9 @@ fields:
       sourceType: ValuesList
       valuesList:
         "1": 홈플러스
+        "2": 코스트코
+        "3": 하모니마트
+        "4": 매탄시장
     path: vZg6iC
     id: IULdZz
   - name: date
@@ -17,11 +20,6 @@ fields:
       linkPath: ""
     path: vZg6iC
     id: HvNEuj
-  - name: item
-    type: Input
-    options: {}
-    path: vZg6iC
-    id: coMlhy
   - name: costObject
     type: ObjectList
     options:
@@ -39,7 +37,23 @@ fields:
     options: {}
     path: vZg6iC
     id: pPDN5m
-version: "2.23"
+  - name: item
+    type: Select
+    options:
+      sourceType: ValuesList
+      valuesList:
+        "1": 소고기 윗등심(수입)
+        "2": 소고기 찜갈비(수입)
+        "3": 양지 국거리(국내산)
+        "4": 삼겹살
+        "5": 돼지 전지
+        "6": 두부
+        "7": 호박
+        "8": 상추
+        "9": 깻잎
+    path: vZg6iC
+    id: urinVJ
+version: "2.33"
 limit: 20
 mapWithTag: false
 icon: package
@@ -53,8 +67,8 @@ savedViews: []
 favoriteView: 
 fieldsOrder:
   - vZg6iC
+  - urinVJ
   - HvNEuj
-  - coMlhy
   - FufwyV
   - pPDN5m
   - IULdZz
