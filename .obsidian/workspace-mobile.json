@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de899779a2957e0f",
+            "id": "3edce537aa5e099a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,15 +20,14 @@
             }
           },
           {
-            "id": "3edce537aa5e099a",
+            "id": "ec30034f61eb25e0",
             "type": "leaf",
             "state": {
               "type": "FileClassView__물가정보스키마",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,12 +152,12 @@
   "active": "3edce537aa5e099a",
   "lastOpenFiles": [
     "Dashboard.md",
+    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/장보기와 돈아끼기/물가정보.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
     "4. Archive/file Classes/물가정보스키마.md",
     "2. Area/장 볼 것.md",
     "2. Area/생활비 관리/2024년/2024년 12월.md",
-    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/클로져.md",
     "/4. Archive/file Classes/Book.md",
     "/2. Area/독서노트/모던자바스크립트Deep Dive/클로져.md",
