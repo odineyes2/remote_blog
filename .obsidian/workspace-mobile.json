@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a787ca63231a781",
+            "id": "5f3143ed0a20775e",
             "type": "leaf",
             "state": {
               "type": "FileClassView__예산관리스키마",
@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "3fc130f1799f3cde",
+            "id": "3dbcb0f18e75bc55",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,11 +150,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fc130f1799f3cde",
+  "active": "3dbcb0f18e75bc55",
   "lastOpenFiles": [
-    "4. Archive/file Classes/예산관리스키마.md",
     "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
+    "4. Archive/file Classes/예산관리스키마.md",
     "2. Area/장보기와 돈아끼기/물가정보.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
     "4. Archive/file Classes/물가정보스키마.md",
