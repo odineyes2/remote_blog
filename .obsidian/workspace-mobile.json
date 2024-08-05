@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f1bac2026aac18c0",
+        "id": "3d2c30319eb977f2",
         "type": "tabs",
         "children": [
           {
-            "id": "3edce537aa5e099a",
+            "id": "9ebde8cd22e9f3e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "preview",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "ec30034f61eb25e0",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__물가정보스키마",
-              "state": {}
             }
           }
         ]
@@ -149,10 +141,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3edce537aa5e099a",
+  "active": "9ebde8cd22e9f3e2",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
+    "4. Archive/file Classes/예산관리스키마.md",
     "2. Area/장보기와 돈아끼기/물가정보.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
     "4. Archive/file Classes/물가정보스키마.md",
@@ -163,7 +156,6 @@
     "/2. Area/독서노트/모던자바스크립트Deep Dive/클로져.md",
     "/2. Area/독서노트/모던자바스크립트Deep Dive/실행 컨택스트.md",
     "/2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
-    "4. Archive/file Classes/예산관리.md",
     "4. Archive/file Classes/식품가격.md",
     "2. Area/장보기와 돈아끼기/식비 계획.md",
     "2. Area/뿌용이 육아/뿌용이 이름.md",
