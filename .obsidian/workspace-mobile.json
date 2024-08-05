@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0684e7dfef59204",
+        "id": "deae5561066c17d9",
         "type": "tabs",
         "children": [
           {
-            "id": "86012f39a8e862ae",
+            "id": "3321995f8e89aff6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,14 +141,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86012f39a8e862ae",
+  "active": "3321995f8e89aff6",
   "lastOpenFiles": [
-    "Dashboard.md",
+    "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
+    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/사고싶다.md",
+    "Dashboard.md",
     "/2. Area/생활비 관리/2024년/2024년 7월.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
     "2. Area/생활비 관리/2024년/2024년 7월1.md",
-    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/생활비 관리/2024년/2024년 9월.md",
     "2. Area/생활비 관리/2024년/2024년 11월.md",
     "2. Area/생활비 관리/2024년/2024년 10월.md",
@@ -168,7 +169,6 @@
     "/2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
     "4. Archive/file Classes/식품가격.md",
     "2. Area/장보기와 돈아끼기/식비 계획.md",
-    "2. Area/뿌용이 육아/뿌용이 이름.md",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
     "2. Area/독서노트/NodeJs교과서",
