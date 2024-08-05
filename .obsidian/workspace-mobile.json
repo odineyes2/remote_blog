@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "89034006a628a8b8",
+        "id": "c0684e7dfef59204",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d6522aa054f529",
+            "id": "86012f39a8e862ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/사고싶다.md",
+                "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/사고싶다.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/사고싶다.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/사고싶다.md"
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md"
           }
         }
       },
@@ -141,10 +141,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1d6522aa054f529",
+  "active": "86012f39a8e862ae",
   "lastOpenFiles": [
-    "/2. Area/생활비 관리/2024년/2024년 7월.md",
     "Dashboard.md",
+    "2. Area/사고싶다.md",
+    "/2. Area/생활비 관리/2024년/2024년 7월.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
     "2. Area/생활비 관리/2024년/2024년 7월1.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
@@ -168,7 +169,6 @@
     "4. Archive/file Classes/식품가격.md",
     "2. Area/장보기와 돈아끼기/식비 계획.md",
     "2. Area/뿌용이 육아/뿌용이 이름.md",
-    "2. Area/독서노트/NodeJs교과서/NodeJs 교과서.md",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
     "2. Area/독서노트/NodeJs교과서",
