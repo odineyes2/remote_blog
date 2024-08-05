@@ -11,8 +11,12 @@
             "id": "aed9529fb7241d74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Dashboard.md"
+          }
         }
       },
       {
@@ -135,6 +143,8 @@
   },
   "active": "aed9529fb7241d74",
   "lastOpenFiles": [
+    "2. Area/생활비 관리/2024년/2024년 8월 1.md",
+    "/2. Area/생활비 관리/2024년/2024년 8월 1.md",
     "2. Area/생활비 관리/2024년/2024년 9월 1.md",
     "2. Area/생활비 관리/2024년/2024년 9월.md",
     "2. Area/생활비 관리/2024년/2024년 11월.md",
@@ -159,8 +169,6 @@
     "2. Area/뿌용이 육아/뿌용이 이름.md",
     "2. Area/독서노트/NodeJs교과서/NodeJs 교과서.md",
     "3. Resource/옵시디언 관련 정보/Metadata Menu 사용법.md",
-    "/Dashboard.md",
-    "3. Resource/옵시디언 관련 정보/콜아웃.md",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
     "2. Area/독서노트/NodeJs교과서",
