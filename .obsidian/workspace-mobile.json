@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0898410c3a4b7b7",
+        "id": "05fe948bc2b47f24",
         "type": "tabs",
         "children": [
           {
-            "id": "5fefb44cb9af6281",
+            "id": "62471a226c0571f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/적지않은 월급이건만 고민.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/적지않은 월급이건만 고민.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/적지않은 월급이건만 고민.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/적지않은 월급이건만 고민.md"
+            "file": "Dashboard.md"
           }
         }
       },
@@ -141,14 +141,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5fefb44cb9af6281",
+  "active": "62471a226c0571f9",
   "lastOpenFiles": [
-    "2. Area/사고싶다.md",
+    "2. Area/생활비 관리/2024년/2024년 10월.md",
+    "2. Area/생활비 관리/2024년/2024년 11월.md",
+    "2. Area/작은 방 침대 어떡하지.md",
+    "2. Area/장 볼 것.md",
+    "2. Area/생활비 관리/2024년/2024년 9월.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
     "Dashboard.md",
-    "2. Area/생활비 관리/2024년/2024년 11월.md",
-    "2. Area/생활비 관리/2024년/2024년 10월.md",
-    "2. Area/생활비 관리/2024년/2024년 9월.md",
+    "2. Area/사고싶다.md",
+    "2. Area/적지않은 월급이건만 고민.md",
     "4. Archive/file Classes/예산관리스키마.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "/2. Area/생활비 관리/2024년/2024년 7월.md",
@@ -159,7 +162,6 @@
     "2. Area/장보기와 돈아끼기/물가정보.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
     "4. Archive/file Classes/물가정보스키마.md",
-    "2. Area/장 볼 것.md",
     "2. Area/생활비 관리/2024년/2024년 12월.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/클로져.md",
     "/4. Archive/file Classes/Book.md",
