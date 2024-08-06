@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2bfc1660a0869832",
+        "id": "75e989c32168764b",
         "type": "tabs",
         "children": [
           {
-            "id": "2e5221340559ad5d",
+            "id": "5d82dfeb5d48824e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "preview",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "38928647ace377c6",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__예산관리스키마",
-              "state": {}
             }
           }
         ]
@@ -149,17 +141,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e5221340559ad5d",
+  "active": "5d82dfeb5d48824e",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
+    "4. Archive/file Classes/예산관리스키마.md",
+    "4. Archive/file Classes/물가정보스키마.md",
+    "2. Area/장보기와 돈아끼기/2024년 물가정보.md",
     "2. Area/독서노트/NodeJs교과서/NodeJs 교과서.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
-    "2. Area/장보기와 돈아끼기/2024년 물가정보.md",
     "2. Area/장보기와 돈아끼기/생필품 시세 파악.md",
     "2. Area/장보기와 돈아끼기/물가정보.md",
     "2. Area/장 볼 것.md",
-    "4. Archive/file Classes/예산관리스키마.md",
     "2. Area/밑반찬 레시피/소불고기.md",
     "2. Area/사고싶다.md",
     "2. Area/생활비 관리/2024년/2024년 10월.md",
@@ -173,7 +166,6 @@
     "2. Area/생활비 관리/2024년/2024년 7월1.md",
     "/2. Area/생활비 관리/2024년/2024년 8월 1.md",
     "2. Area/생활비 관리/2024년도 생활비 관리.md",
-    "4. Archive/file Classes/물가정보스키마.md",
     "2. Area/생활비 관리/2024년/2024년 12월.md",
     "2. Area/독서노트/모던자바스크립트Deep Dive/클로져.md",
     "/4. Archive/file Classes/Book.md",
