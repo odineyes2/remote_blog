@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "130eacfefb552d7b",
+        "id": "6d028007cef4a342",
         "type": "tabs",
         "children": [
           {
-            "id": "85cc1323dad06307",
+            "id": "3cf38bf5a6568778",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/장보기와 돈아끼기/물가정보.md",
-                "mode": "source",
+                "file": "2024년 물가조사.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/물가정보.md",
+            "file": "2024년 물가조사.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/물가정보.md",
+            "file": "2024년 물가조사.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/물가정보.md"
+            "file": "2024년 물가조사.md"
           }
         }
       },
@@ -142,10 +142,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "85cc1323dad06307",
+  "active": "3cf38bf5a6568778",
   "lastOpenFiles": [
-    "Dashboard.md",
+    "4. Archive/Templates/priceTemplates.md",
+    "2024년 물가조사.md",
     "2. Area/장보기와 돈아끼기/물가정보.md",
+    "2. Area/생활비 관리/2024년도 생활비 관리.md",
+    "4. Archive/Templates/Templates, ExampleTemplate.md",
+    "Untitled.md",
+    "New note.md",
+    "Sexy file name.md",
+    "Dashboard.md",
     "4. Archive/Templates",
     "2. Area/장보기와 돈아끼기/2024년 물가정보.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
@@ -164,12 +171,6 @@
     "2. Area/적지않은 월급이건만 고민.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "/2. Area/생활비 관리/2024년/2024년 7월.md",
-    "2. Area/생활비 관리/2024년/2024년 7월.md",
-    "2. Area/생활비 관리/2024년/2024년 7월1.md",
-    "/2. Area/생활비 관리/2024년/2024년 8월 1.md",
-    "2. Area/생활비 관리/2024년도 생활비 관리.md",
-    "2. Area/생활비 관리/2024년/2024년 12월.md",
-    "2. Area/독서노트/모던자바스크립트Deep Dive/클로져.md",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
     "2. Area/독서노트/NodeJs교과서",
