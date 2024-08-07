@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4535c36e229570c8",
+            "id": "0048ed28564c8c55",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리스키마",
+              "state": {}
+            }
+          },
+          {
+            "id": "0efb541cebb2a67b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md"
           }
         }
       },
@@ -141,18 +150,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4535c36e229570c8",
+  "active": "0efb541cebb2a67b",
   "lastOpenFiles": [
-    "2. Area/장 볼 것.md",
     "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/장보기와 돈아끼기/2024년 실례가 정보.md",
+    "4. Archive/file Classes/예산관리스키마.md",
+    "2. Area/장 볼 것.md",
     "4. Archive/favicons.md",
     "4. Archive/file Classes/파비콘.md",
     "2. Area/장보기와 돈아끼기/2024년 물가 조사 정보.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
     "2024년 물가조사.md",
-    "4. Archive/file Classes/예산관리스키마.md",
     "4. Archive/file Classes/물가정보스키마.md",
     "2. Area/장보기와 돈아끼기/2024년 물가 실례가 정보.md",
     "4. Archive/Templates/priceTemplates.md",
