@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bddce46d950e0ec4",
+        "id": "8f33144e55597348",
         "type": "tabs",
         "children": [
           {
-            "id": "69008c34ce4799d3",
+            "id": "7d0b33916e908cac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,7 +141,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69008c34ce4799d3",
+  "active": "7d0b33916e908cac",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/장보기와 돈아끼기/2024년 실례가 정보.md",
