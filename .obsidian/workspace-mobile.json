@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0c07eabc8c4537ee",
+        "id": "36c1ab5ab728f8f0",
         "type": "tabs",
         "children": [
           {
-            "id": "a4223bfe6bef1de7",
+            "id": "799cce6165a51909",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/장보기와 돈아끼기/2024년 실례가 정보.md",
-                "mode": "preview",
+                "file": "favicons.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/2024년 실례가 정보.md",
+            "file": "favicons.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/2024년 실례가 정보.md",
+            "file": "favicons.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/장보기와 돈아끼기/2024년 실례가 정보.md"
+            "file": "favicons.md"
           }
         }
       },
@@ -141,16 +141,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4223bfe6bef1de7",
+  "active": "799cce6165a51909",
   "lastOpenFiles": [
-    "4. Archive/file Classes/예산관리스키마.md",
-    "2. Area/장보기와 돈아끼기/2024년 실례가 정보.md",
+    "2. Area/생활비 관리/2024년/2024년 7월.md",
     "2024년 물가조사.md",
+    "2. Area/장보기와 돈아끼기/2024년 실례가 정보.md",
+    "4. Archive/file Classes/예산관리스키마.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
     "Dashboard.md",
     "4. Archive/file Classes/물가정보스키마.md",
     "2. Area/장보기와 돈아끼기/2024년 물가 조사 정보.md",
-    "Djdj.md",
+    "favicons.md",
     "2. Area/장보기와 돈아끼기/2024년 물가 실례가 정보.md",
     "4. Archive/Templates/priceTemplates.md",
     "2. Area/생활비 관리/2024년도 생활비 관리.md",
@@ -169,7 +170,6 @@
     "2. Area/생활비 관리/2024년/2024년 11월.md",
     "2. Area/작은 방 침대 어떡하지.md",
     "2. Area/생활비 관리/2024년/2024년 9월.md",
-    "2. Area/적지않은 월급이건만 고민.md",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
     "2. Area/독서노트/NodeJs교과서",
