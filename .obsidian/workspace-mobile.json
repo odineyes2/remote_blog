@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "59513beb27d1f32a",
+        "id": "a30a25a4d10e6001",
         "type": "tabs",
         "children": [
           {
-            "id": "7d1a0f8bc5d7b768",
+            "id": "e7eda9fc50f3ded9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
+                "file": "4. Archive/file Classes/예산관리스키마.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "7aa88256f2dcf3ba",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__예산관리스키마",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
+            "file": "4. Archive/file Classes/예산관리스키마.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
+            "file": "4. Archive/file Classes/예산관리스키마.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 8월.md"
+            "file": "4. Archive/file Classes/예산관리스키마.md"
           }
         }
       },
@@ -141,12 +150,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7d1a0f8bc5d7b768",
+  "active": "7aa88256f2dcf3ba",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
-    "2. Area/사고싶다.md",
     "4. Archive/file Classes/예산관리스키마.md",
+    "2. Area/사고싶다.md",
     "2. Area/장 볼 것.md",
     "3. Resource/옵시디언 관련 정보/콜아웃.md",
     "3. Resource/옵시디언 관련 정보/옵시디언 초기 세팅(동기화).md",
