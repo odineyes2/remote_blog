@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a30a25a4d10e6001",
+        "id": "5bd4b98cd632f91c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7eda9fc50f3ded9",
+            "id": "d99ee23e7f895760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archive/file Classes/예산관리스키마.md",
+                "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "7aa88256f2dcf3ba",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__예산관리스키마",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "4. Archive/file Classes/예산관리스키마.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "4. Archive/file Classes/예산관리스키마.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "4. Archive/file Classes/예산관리스키마.md"
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md"
           }
         }
       },
@@ -150,11 +141,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7aa88256f2dcf3ba",
+  "active": "d99ee23e7f895760",
   "lastOpenFiles": [
+    "예쁜 일본그릇 파는 사이트.md",
+    "바퀜 마하 사이즈.md",
+    "/예쁜 일본그릇 파는 사이트.md",
+    "/바퀜 마하 사이즈.md",
     "Dashboard.md",
-    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "4. Archive/file Classes/예산관리스키마.md",
+    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/사고싶다.md",
     "2. Area/장 볼 것.md",
     "3. Resource/옵시디언 관련 정보/콜아웃.md",
@@ -175,10 +170,6 @@
     "Sexy file name.md",
     "4. Archive/Templates",
     "2. Area/독서노트/NodeJs교과서/NodeJs 교과서.md",
-    "2. Area/독서노트/모던자바스크립트Deep Dive/모던 자바스크립트 Deep Dive.md",
-    "2. Area/장보기와 돈아끼기/생필품 시세 파악.md",
-    "2. Area/밑반찬 레시피/소불고기.md",
-    "2. Area/생활비 관리/2024년/2024년 10월.md",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
     "2. Area/독서노트/NodeJs교과서",
