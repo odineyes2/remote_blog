@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd0bf71e46312e31",
+            "id": "2729d8f2cd194879",
             "type": "leaf",
             "state": {
               "type": "FileClassView__물가정보스키마",
@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "0a0e2408eaca9517",
+            "id": "1cbf267eeeef9a41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/옵시디언 관련 정보/옵시디언 초기 세팅(동기화).md",
+                "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
                 "mode": "preview",
                 "source": true
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3. Resource/옵시디언 관련 정보/옵시디언 초기 세팅(동기화).md",
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "3. Resource/옵시디언 관련 정보/옵시디언 초기 세팅(동기화).md",
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "3. Resource/옵시디언 관련 정보/옵시디언 초기 세팅(동기화).md"
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md"
           }
         }
       },
@@ -150,10 +150,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a0e2408eaca9517",
+  "active": "1cbf267eeeef9a41",
   "lastOpenFiles": [
-    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "Dashboard.md",
+    "3. Resource/옵시디언 관련 정보/콜아웃.md",
+    "3. Resource/옵시디언 관련 정보/옵시디언 초기 세팅(동기화).md",
+    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/장보기와 돈아끼기/2024년 실례가 정보.md",
     "2. Area/장 볼 것.md",
     "2. Area/장보기와 돈아끼기/2024년 물가 조사 정보.md",
@@ -177,8 +179,6 @@
     "2. Area/밑반찬 레시피/소불고기.md",
     "2. Area/사고싶다.md",
     "2. Area/생활비 관리/2024년/2024년 10월.md",
-    "2. Area/생활비 관리/2024년/2024년 11월.md",
-    "2. Area/작은 방 침대 어떡하지.md",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
     "2. Area/독서노트/NodeJs교과서",
