@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7364e820f86d081a",
+        "id": "59513beb27d1f32a",
         "type": "tabs",
         "children": [
           {
-            "id": "6b0fd1e9a6d02d6b",
+            "id": "7d1a0f8bc5d7b768",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,11 +141,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6b0fd1e9a6d02d6b",
+  "active": "7d1a0f8bc5d7b768",
   "lastOpenFiles": [
     "Dashboard.md",
-    "2. Area/사고싶다.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
+    "2. Area/사고싶다.md",
     "4. Archive/file Classes/예산관리스키마.md",
     "2. Area/장 볼 것.md",
     "3. Resource/옵시디언 관련 정보/콜아웃.md",
