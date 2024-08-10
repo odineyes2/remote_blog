@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eb7b8ceead144c63",
+        "id": "42967b3c7c9dd23f",
         "type": "tabs",
         "children": [
           {
-            "id": "7f75f11b3a0efcae",
+            "id": "07e46618521ec148",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
-                "mode": "preview",
+                "file": "바퀜 마하 사이즈.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
+            "file": "바퀜 마하 사이즈.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
+            "file": "바퀜 마하 사이즈.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/생활비 관리/2024년/2024년 8월.md"
+            "file": "바퀜 마하 사이즈.md"
           }
         }
       },
@@ -141,7 +141,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f75f11b3a0efcae",
+  "active": "07e46618521ec148",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
