@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5c0ba0c82a4541b4",
+        "id": "3f6e63207e97e363",
         "type": "tabs",
         "children": [
           {
-            "id": "deac9d3221206623",
+            "id": "5ad48870a20f8e92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bc350c950ff5dabb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT 개발 자습서.md",
+                "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IT 개발 자습서.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "IT 개발 자습서.md",
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "IT 개발 자습서.md"
+            "file": "2. Area/생활비 관리/2024년/2024년 8월.md"
           }
         }
       },
@@ -154,7 +141,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc350c950ff5dabb",
+  "active": "5ad48870a20f8e92",
   "lastOpenFiles": [
     "Dashboard.md",
     "IT 개발 자습서.md",
