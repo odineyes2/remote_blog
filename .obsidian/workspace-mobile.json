@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65febf65cefe0aaf",
+        "id": "4c80a0aa2957857b",
         "type": "tabs",
         "children": [
           {
-            "id": "55d0cf19106c7a6f",
+            "id": "20708553981b990b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "바퀜 마하 사이즈.md",
+                "file": "2. Area/뿌용이 육아/신생아 준비물.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "바퀜 마하 사이즈.md",
+            "file": "2. Area/뿌용이 육아/신생아 준비물.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "바퀜 마하 사이즈.md",
+            "file": "2. Area/뿌용이 육아/신생아 준비물.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "바퀜 마하 사이즈.md"
+            "file": "2. Area/뿌용이 육아/신생아 준비물.md"
           }
         }
       },
@@ -141,14 +141,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55d0cf19106c7a6f",
+  "active": "20708553981b990b",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
+    "바퀜 마하 사이즈.md",
     "IT 개발 자습서.md",
     "육류의 보관 기간.md",
     "예쁜 일본그릇 파는 사이트.md",
-    "바퀜 마하 사이즈.md",
     "/육류의 보관 기간.md",
     "/예쁜 일본그릇 파는 사이트.md",
     "/바퀜 마하 사이즈.md",
