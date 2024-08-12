@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0133cc7e63b97af3",
+        "id": "3044260e8f7d56c8",
         "type": "tabs",
         "children": [
           {
-            "id": "a052c3aa7f0a9c60",
+            "id": "11081d63dfaa3502",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,7 +141,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a052c3aa7f0a9c60",
+  "active": "11081d63dfaa3502",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
