@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "657810c11c5c5d23",
+        "id": "28452006236b39e8",
         "type": "tabs",
         "children": [
           {
-            "id": "b57c74100faa415b",
+            "id": "714c3238ec2537b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "냉장고.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "a2b7b976f9fb6864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "냉장고.md",
+            "file": "무제 파일 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "냉장고.md",
+            "file": "무제 파일 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "냉장고.md"
+            "file": "무제 파일 1.md"
           }
         }
       },
@@ -141,12 +154,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b57c74100faa415b",
+  "active": "a2b7b976f9fb6864",
   "lastOpenFiles": [
-    "무제 파일.md",
-    "냉장고.md",
-    "/냉장고.md",
     "Dashboard.md",
+    "무제 파일 1.md",
+    "2. Area/양가 집주소.md",
+    "냉장고.md",
+    "무제 파일.md",
+    "/냉장고.md",
     "2. Area/장 볼 것.md",
     "2. Area/장보기와 돈아끼기/2024년 실례가 정보.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
@@ -167,8 +182,6 @@
     "3. Resource/옵시디언 관련 정보/옵시디언 초기 세팅(동기화).md",
     "4. Archive/favicons.md",
     "4. Archive/file Classes/파비콘.md",
-    "2024년 물가조사.md",
-    "4. Archive/file Classes/물가정보스키마.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
