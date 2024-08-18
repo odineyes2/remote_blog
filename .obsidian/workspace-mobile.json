@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f4a2ae58852f7004",
+        "id": "657810c11c5c5d23",
         "type": "tabs",
         "children": [
           {
-            "id": "0aeaabb6cfca8fb5",
+            "id": "b57c74100faa415b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "냉장고.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "b67ad675b1c00cde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "무제 파일.md",
+            "file": "냉장고.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "무제 파일.md",
+            "file": "냉장고.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "무제 파일.md"
+            "file": "냉장고.md"
           }
         }
       },
@@ -154,10 +141,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b67ad675b1c00cde",
+  "active": "b57c74100faa415b",
   "lastOpenFiles": [
-    "Dashboard.md",
     "무제 파일.md",
+    "냉장고.md",
+    "/냉장고.md",
+    "Dashboard.md",
     "2. Area/장 볼 것.md",
     "2. Area/장보기와 돈아끼기/2024년 실례가 정보.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
@@ -180,8 +169,6 @@
     "4. Archive/file Classes/파비콘.md",
     "2024년 물가조사.md",
     "4. Archive/file Classes/물가정보스키마.md",
-    "2. Area/장보기와 돈아끼기/2024년 물가 실례가 정보.md",
-    "4. Archive/Templates/priceTemplates.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
