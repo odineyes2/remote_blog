@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f2243e350744909c",
+        "id": "264fc2134bd2e34d",
         "type": "tabs",
         "children": [
           {
-            "id": "eccdd3b59274f9e9",
+            "id": "dbd40d696331aeed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기술 스택.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "기술 스택.md",
+            "file": "무제 파일.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "기술 스택.md",
+            "file": "무제 파일.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "기술 스택.md"
+            "file": "무제 파일.md"
           }
         }
       },
@@ -141,11 +141,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eccdd3b59274f9e9",
+  "active": "dbd40d696331aeed",
   "lastOpenFiles": [
     "Dashboard.md",
-    "냉장고.md",
     "기술 스택.md",
+    "냉장고.md",
     "2. Area/양가 집주소.md",
     "무제 파일.md",
     "/냉장고.md",
