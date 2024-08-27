@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64a46036a4d8b999",
+        "id": "249750e14b8c9161",
         "type": "tabs",
         "children": [
           {
-            "id": "1308dd031fd5c45a",
+            "id": "90c3f1a0d9a694f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,11 +141,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1308dd031fd5c45a",
+  "active": "90c3f1a0d9a694f8",
   "lastOpenFiles": [
+    "3. Resource/보험 관련 정보/암보험약관분석(nh암플러스nh치료보험).md",
+    "3. Resource/보험 관련 정보/건강.md",
+    "Dashboard.md",
     "2. Area/생활비 관리/2024년/2024년 9월.md",
     "이번달도 무사히...8월.md",
-    "Dashboard.md",
     "2. Area/밑반찬 레시피/소불고기.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
     "기술 스택.md",
@@ -167,8 +169,6 @@
     "/바퀜 마하 사이즈.md",
     "4. Archive/file Classes/예산관리스키마.md",
     "2. Area/사고싶다.md",
-    "3. Resource/옵시디언 관련 정보/콜아웃.md",
-    "3. Resource/옵시디언 관련 정보/옵시디언 초기 세팅(동기화).md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
