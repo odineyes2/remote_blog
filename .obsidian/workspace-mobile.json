@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd5c56e27d6e5960",
+        "id": "a7427da8f8daabb9",
         "type": "tabs",
         "children": [
           {
-            "id": "077a0a8272766e18",
+            "id": "4e30f8c7c05ecd02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
+                "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
+            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
+            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/뿌용이 육아/출산 관련 혜택 정리.md"
+            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md"
           }
         }
       },
@@ -141,10 +141,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "077a0a8272766e18",
+  "active": "4e30f8c7c05ecd02",
   "lastOpenFiles": [
-    "Dashboard.md",
     "2. Area/뿌용이 육아/신생아 준비물.md",
+    "Dashboard.md",
+    "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
     "이번달도 무사히...8월.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "3. Resource/보험 관련 정보/암보험약관분석(nh암플러스nh치료보험).md",
@@ -168,7 +169,6 @@
     "/예쁜 일본그릇 파는 사이트.md",
     "/바퀜 마하 사이즈.md",
     "4. Archive/file Classes/예산관리스키마.md",
-    "2. Area/사고싶다.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
