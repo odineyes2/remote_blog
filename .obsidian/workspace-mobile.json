@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a836587b89206059",
+        "id": "e577ad8db678186b",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a482f5541c8fa8",
+            "id": "17c538dcb127f17b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
+                "file": "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
+            "file": "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
+            "file": "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/뿌용이 육아/육아용품 구매 리스트.md"
+            "file": "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md"
           }
         }
       },
@@ -141,11 +141,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e5a482f5541c8fa8",
+  "active": "17c538dcb127f17b",
   "lastOpenFiles": [
-    "2. Area/뿌용이 육아/신생아 준비물.md",
     "Dashboard.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
+    "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
     "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
     "이번달도 무사히...8월.md",
     "3. Resource/보험 관련 정보/암보험약관분석(nh암플러스nh치료보험).md",
