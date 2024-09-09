@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8714eff800b6859f",
+        "id": "49f32a7353eacc1f",
         "type": "tabs",
         "children": [
           {
-            "id": "ed5c580b7264fa10",
+            "id": "5c829fe2b3afacdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기술 스택.md",
+                "file": "2. Area/양가 집주소.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0b2b8b4ee20915de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "단백질 함량.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "기술 스택.md",
+            "file": "단백질 함량.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "기술 스택.md",
+            "file": "단백질 함량.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "기술 스택.md"
+            "file": "단백질 함량.md"
           }
         }
       },
@@ -141,9 +154,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed5c580b7264fa10",
+  "active": "0b2b8b4ee20915de",
   "lastOpenFiles": [
+    "2. Area/양가 집주소.md",
+    "단백질 함량.md",
     "Dashboard.md",
+    "기술 스택.md",
     "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
@@ -153,9 +169,7 @@
     "2. Area/생활비 관리/2024년/2024년 9월.md",
     "2. Area/밑반찬 레시피/소불고기.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
-    "기술 스택.md",
     "냉장고.md",
-    "2. Area/양가 집주소.md",
     "/냉장고.md",
     "2. Area/장 볼 것.md",
     "2. Area/장보기와 돈아끼기/2024년 실례가 정보.md",
@@ -168,7 +182,6 @@
     "/육류의 보관 기간.md",
     "/예쁜 일본그릇 파는 사이트.md",
     "/바퀜 마하 사이즈.md",
-    "4. Archive/file Classes/예산관리스키마.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
