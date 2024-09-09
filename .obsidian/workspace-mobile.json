@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "49f32a7353eacc1f",
+        "id": "8c4521aebaf05cff",
         "type": "tabs",
         "children": [
           {
-            "id": "5c829fe2b3afacdd",
+            "id": "1e9d2dd0e49b6675",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/양가 집주소.md",
+                "file": "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "0b2b8b4ee20915de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "단백질 함량.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "단백질 함량.md",
+            "file": "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "단백질 함량.md",
+            "file": "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "단백질 함량.md"
+            "file": "2. Area/뿌용이 육아/출산 관련 혜택 정리.md"
           }
         }
       },
@@ -154,11 +141,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b2b8b4ee20915de",
+  "active": "1e9d2dd0e49b6675",
   "lastOpenFiles": [
-    "2. Area/양가 집주소.md",
-    "단백질 함량.md",
+    "단백질.md",
+    "/단백질.md",
     "Dashboard.md",
+    "단백질 함량.md",
+    "2. Area/양가 집주소.md",
     "기술 스택.md",
     "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
@@ -180,8 +169,6 @@
     "육류의 보관 기간.md",
     "예쁜 일본그릇 파는 사이트.md",
     "/육류의 보관 기간.md",
-    "/예쁜 일본그릇 파는 사이트.md",
-    "/바퀜 마하 사이즈.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
