@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5c21e433fbfbf6f4",
+        "id": "33299c78a009f0fe",
         "type": "tabs",
         "children": [
           {
-            "id": "943c8bb59d123da8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "720f572ca77b09af",
+            "id": "3f268bc4f9d56457",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "장볼것.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +141,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "720f572ca77b09af",
+  "active": "3f268bc4f9d56457",
   "lastOpenFiles": [
     "Dashboard.md",
     "장볼것.md",
