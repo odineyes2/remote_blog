@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/밑반찬 레시피/샐러드 파스타.md",
+                "file": "장볼것.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/밑반찬 레시피/샐러드 파스타.md",
+            "file": "장볼것.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/밑반찬 레시피/샐러드 파스타.md",
+            "file": "장볼것.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/밑반찬 레시피/샐러드 파스타.md"
+            "file": "장볼것.md"
           }
         }
       },
@@ -143,8 +143,8 @@
   },
   "active": "92106c7d07438872",
   "lastOpenFiles": [
-    "Dashboard.md",
     "2. Area/밑반찬 레시피/샐러드 파스타.md",
+    "Dashboard.md",
     "장볼것.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
