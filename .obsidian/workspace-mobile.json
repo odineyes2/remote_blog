@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2067da84afbe86e4",
+        "id": "e137aee6641400f4",
         "type": "tabs",
         "children": [
           {
-            "id": "2f07182d497bfc78",
+            "id": "7c1e0a2c3a68b9b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard.md",
+            "file": "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard.md"
+            "file": "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md"
           }
         }
       },
@@ -141,10 +141,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f07182d497bfc78",
+  "active": "7c1e0a2c3a68b9b7",
   "lastOpenFiles": [
-    "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
     "Dashboard.md",
+    "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
     "장볼것.md",
     "2. Area/밑반찬 레시피/샐러드 파스타.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
