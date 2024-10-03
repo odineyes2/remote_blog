@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "97a2ea694c13d3d3",
+        "id": "2e89b2343f3bf594",
         "type": "tabs",
         "children": [
           {
-            "id": "ee889cf21c1d10e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6cd140a2b5b7de57",
+            "id": "864d1a3c2e13ef63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "입원실 기록.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +141,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6cd140a2b5b7de57",
+  "active": "864d1a3c2e13ef63",
   "lastOpenFiles": [
     "Dashboard.md",
     "입원실 기록.md",
