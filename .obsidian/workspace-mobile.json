@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d7455564c32dd5e1",
+        "id": "fb6263c06cacf361",
         "type": "tabs",
         "children": [
           {
-            "id": "62ac5812f7bd9031",
+            "id": "87d608b58455697d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "출산 관련 비용.md",
+                "file": "여보한테 줄 돈.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "출산 관련 비용.md",
+            "file": "여보한테 줄 돈.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "출산 관련 비용.md",
+            "file": "여보한테 줄 돈.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "출산 관련 비용.md"
+            "file": "여보한테 줄 돈.md"
           }
         }
       },
@@ -141,7 +141,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62ac5812f7bd9031",
+  "active": "87d608b58455697d",
   "lastOpenFiles": [
     "Dashboard.md",
     "출산 관련 비용.md",
