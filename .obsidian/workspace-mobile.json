@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fafdd87a6005e836",
+        "id": "acc243277da44ff6",
         "type": "tabs",
         "children": [
           {
-            "id": "b9f414bed5db8155",
+            "id": "ed19233c7c295ca6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "abf7ff3cbf6bbf43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
+                "file": "2. Area/뿌용이 육아/뿌용이 기록.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "무제 파일.md",
+            "file": "2. Area/뿌용이 육아/뿌용이 기록.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "무제 파일.md",
+            "file": "2. Area/뿌용이 육아/뿌용이 기록.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "무제 파일.md"
+            "file": "2. Area/뿌용이 육아/뿌용이 기록.md"
           }
         }
       },
@@ -154,34 +141,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "abf7ff3cbf6bbf43",
+  "active": "ed19233c7c295ca6",
   "lastOpenFiles": [
     "Dashboard.md",
-    "무제 파일.md",
-    "출산 관련 여보 한테 줄 돈.md",
-    "출산 관련 비용 집계.md",
-    "미야코지마 여행비용.md",
-    "단백질.md",
-    "냉장고.md",
+    "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
+    "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
+    "2. Area/뿌용이 육아/출산 관련 비용 집계.md",
+    "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
+    "2. Area/뿌용이 육아/출산 후 할 일.md",
+    "2. Area/뿌용이 육아/뿌용이 기록.md",
+    "할 일.md",
     "기술 스택.md",
-    "기념일 비용.md",
-    "이번달도 무사히...8월.md",
+    "IT 개발 자습서.md",
+    "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
+    "4. Archive/이번달도 무사히...8월.md",
+    "3. Resource/단백질.md",
+    "3. Resource/냉장고 구매 정보.md",
+    "2. Area/장보기와 돈아끼기/신생아 특례 대출 준비물.md",
+    "장볼것.md",
+    "2. Area/뿌용이 육아/출산준비물.md",
+    "2. Area/뿌용이 육아/뿌용이 이름.md",
+    "3. Resource/미야코지마 여행비용.md",
+    "3. Resource/기념일 비용.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
-    "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
-    "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
-    "장볼것.md",
-    "2. Area/뿌용이 육아/출산 후 할 일.md",
-    "2. Area/뿌용이 육아/출산준비물.md",
     "2. Area/밑반찬 레시피/샐러드 파스타.md",
-    "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "2. Area/밑반찬 레시피/콜드 파스타.md",
     "/단백질.md",
-    "단백질 함량.md",
-    "2. Area/양가 집주소.md",
-    "3. Resource/보험 관련 정보/암보험약관분석(nh암플러스nh치료보험).md",
-    "3. Resource/보험 관련 정보/건강.md",
-    "2. Area/생활비 관리/2024년/2024년 9월.md",
+    "3. Resource/단백질 함량.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
