@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "423025828bc1f4e7",
+        "id": "3ae0767874945525",
         "type": "tabs",
         "children": [
           {
-            "id": "905cc07929b4e939",
+            "id": "ff2eb61922db1a01",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,7 +141,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "905cc07929b4e939",
+  "active": "ff2eb61922db1a01",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/뿌용이 육아/출산 후 할 일.md",
