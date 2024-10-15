@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd03645712bf3e62",
+        "id": "696a9d391527acb5",
         "type": "tabs",
         "children": [
           {
-            "id": "73bb3c97b6f8b4cd",
+            "id": "a7310b20880dacba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/뿌용이 육아/출산 후 할 일.md",
+                "file": "2. Area/뿌용이 육아/뿌용이 기록.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/뿌용이 육아/출산 후 할 일.md",
+            "file": "2. Area/뿌용이 육아/뿌용이 기록.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/뿌용이 육아/출산 후 할 일.md",
+            "file": "2. Area/뿌용이 육아/뿌용이 기록.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/뿌용이 육아/출산 후 할 일.md"
+            "file": "2. Area/뿌용이 육아/뿌용이 기록.md"
           }
         }
       },
@@ -141,12 +141,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "73bb3c97b6f8b4cd",
+  "active": "a7310b20880dacba",
   "lastOpenFiles": [
     "Dashboard.md",
-    "2. Area/뿌용이 육아/출산 관련 비용 집계.md",
-    "2. Area/뿌용이 육아/출산 후 할 일.md",
     "2. Area/뿌용이 육아/뿌용이 기록.md",
+    "2. Area/뿌용이 육아/출산 후 할 일.md",
+    "2. Area/뿌용이 육아/출산 관련 비용 집계.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
     "2. Area/밑반찬 레시피/샐러드 파스타.md",
