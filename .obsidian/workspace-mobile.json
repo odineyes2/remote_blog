@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad5d9d943f9c83ae",
+        "id": "0117bf0495c9945f",
         "type": "tabs",
         "children": [
           {
-            "id": "7cb4e8e360545fb7",
+            "id": "4a07c4130b3f6343",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/뿌용이 육아/출산 후 할 일.md",
+                "file": "2. Area/뿌용이 육아/뿌용이 기록.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "뿌용이 기록"
             }
           }
         ]
@@ -35,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
         }
       },
       {
@@ -50,7 +54,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "검색"
         }
       },
       {
@@ -61,7 +67,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -69,7 +77,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -85,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/뿌용이 육아/출산 후 할 일.md",
+            "file": "2. Area/뿌용이 육아/뿌용이 기록.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +103,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "백링크"
         }
       },
       {
@@ -102,10 +114,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/뿌용이 육아/출산 후 할 일.md",
+            "file": "2. Area/뿌용이 육아/뿌용이 기록.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "나가는 링크"
         }
       },
       {
@@ -114,8 +128,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2. Area/뿌용이 육아/출산 후 할 일.md"
-          }
+            "file": "2. Area/뿌용이 육아/뿌용이 기록.md"
+          },
+          "icon": "lucide-list",
+          "title": "개요"
         }
       },
       {
@@ -123,7 +139,9 @@
         "type": "leaf",
         "state": {
           "type": "git-history-view",
-          "state": {}
+          "state": {},
+          "icon": "history",
+          "title": "History"
         }
       }
     ],
@@ -141,7 +159,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7cb4e8e360545fb7",
+  "active": "4a07c4130b3f6343",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/뿌용이 육아/출산 후 할 일.md",
