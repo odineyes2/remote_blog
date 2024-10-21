@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a8515b228f9b921",
+        "id": "2be45ee7e89ea7d3",
         "type": "tabs",
         "children": [
           {
-            "id": "ec2f11eeefb0d22e",
+            "id": "ee7c7e0528747643",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "d1e05d8b327dfc9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "무제 파일"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,10 +174,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ec2f11eeefb0d22e",
+  "active": "d1e05d8b327dfc9a",
   "lastOpenFiles": [
-    "2. Area/뿌용이 육아/뿌용이 기록.md",
     "Dashboard.md",
+    "무제 파일.md",
+    "2. Area/뿌용이 육아/뿌용이 기록.md",
     "2. Area/뿌용이 육아/출산 후 할 일.md",
     "2. Area/뿌용이 육아/출산 관련 비용 집계.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
@@ -186,7 +202,6 @@
     "2. Area/생활비 관리/2024년/2024년 7월.md",
     "2. Area/밑반찬 레시피/콜드 파스타.md",
     "/단백질.md",
-    "3. Resource/단백질 함량.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
