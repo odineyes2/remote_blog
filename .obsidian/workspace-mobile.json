@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "10f7b47b5f235240",
+        "id": "67cd5b5a450122cd",
         "type": "tabs",
         "children": [
           {
-            "id": "9c1e5357edec951b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "becbd5cb64212d17",
+            "id": "ca67ff5a863a3f86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "무제 파일.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "무제 파일"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +159,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "becbd5cb64212d17",
+  "active": "ca67ff5a863a3f86",
   "lastOpenFiles": [
     "Dashboard.md",
     "무제 파일.md",
