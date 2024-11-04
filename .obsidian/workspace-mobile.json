@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "605286c4546e0a6f",
+        "id": "7e33b2467b0e5c13",
         "type": "tabs",
         "children": [
           {
-            "id": "25dd21b64c548eaa",
+            "id": "8995e65546536595",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "운동계획.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "fb094dd147d9cedc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "무제 파일"
+              "title": "운동계획"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,10 +159,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb094dd147d9cedc",
+  "active": "8995e65546536595",
   "lastOpenFiles": [
     "Dashboard.md",
-    "무제 파일.md",
+    "운동계획.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "2. Area/뿌용이 육아/출산 후 할 일.md",
     "2. Area/뿌용이 육아/뿌용이 기록.md",
