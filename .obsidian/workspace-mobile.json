@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7e33b2467b0e5c13",
+        "id": "473d1226a3d7e996",
         "type": "tabs",
         "children": [
           {
-            "id": "8995e65546536595",
+            "id": "04057d7766cb7f65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "운동계획.md",
+                "file": "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "운동계획"
+              "title": "출산 관련 여보 한테 줄 돈"
             }
           }
         ]
@@ -159,7 +159,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8995e65546536595",
+  "active": "04057d7766cb7f65",
   "lastOpenFiles": [
     "Dashboard.md",
     "운동계획.md",
