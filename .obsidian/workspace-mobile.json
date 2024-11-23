@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a40a48d414ee3672",
+        "id": "cc9c74e3d7f531b4",
         "type": "tabs",
         "children": [
           {
-            "id": "d112989fba4240cc",
+            "id": "a327f46d6b25ebc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "스파게티 알 뽀모도로.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "cd596026aaa8b237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "무제 파일"
+              "title": "스파게티 알 뽀모도로"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,10 +159,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd596026aaa8b237",
+  "active": "a327f46d6b25ebc7",
   "lastOpenFiles": [
     "Dashboard.md",
-    "무제 파일.md",
+    "스파게티 알 뽀모도로.md",
     "2. Area/밑반찬 레시피/소불고기.md",
     "볼 영화 리스트.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
