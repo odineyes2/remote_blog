@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cda67354ecf091eb",
+        "id": "5898839fec336eb3",
         "type": "tabs",
         "children": [
           {
-            "id": "1182f844f413ba12",
+            "id": "9f126b31ea28d179",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,7 +159,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1182f844f413ba12",
+  "active": "9f126b31ea28d179",
   "lastOpenFiles": [
     "무제 파일.md",
     "Dashboard.md",
