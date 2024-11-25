@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "1e92af74c6fe29f2",
+        "id": "6cf489324fbfbff5",
         "type": "tabs",
         "children": [
           {
-            "id": "e974cf56751dccb7",
+            "id": "f7f58c7e61108659",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25일 나갈 돈들.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "25일 나갈 돈들"
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "621b25b9523b612f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "무제 파일"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,17 +174,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e974cf56751dccb7",
+  "active": "621b25b9523b612f",
   "lastOpenFiles": [
     "Dashboard.md",
+    "무제 파일.md",
+    "25일 나갈 돈들.md",
     "운동계획.md",
     "2. Area/나의 레시피/감자 샐러드 모닝빵.md",
     "볼 영화 리스트.md",
     "2. Area/나의 레시피/냉파스타 드레싱.md",
     "2. Area/나의 레시피/0. 레시피 모음.md",
     "2. Area/나의 레시피/1. 소고기 메추리알 장조림.md",
-    "무제 파일.md",
-    "25일 나갈 돈들.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "2. Area/나의 레시피/오징어 볶음.md",
     "2. Area/나의 레시피/스파게티 알 뽀모도로.md",
