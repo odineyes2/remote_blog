@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9aa597572d97cefe",
+        "id": "e849a5bcf02c8ba3",
         "type": "tabs",
         "children": [
           {
-            "id": "4a40f0b439588238",
+            "id": "ce63b6cf06c5b254",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25일 나갈 돈들.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "25일 나갈 돈들"
+              "title": "Dashboard"
             }
           }
         ]
@@ -159,10 +159,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a40f0b439588238",
+  "active": "ce63b6cf06c5b254",
   "lastOpenFiles": [
-    "Dashboard.md",
     "25일 나갈 돈들.md",
+    "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
+    "Dashboard.md",
     "2. Area/나의 레시피/프렌치 토스트.md",
     "무제 파일.md",
     "운동계획.md",
@@ -171,7 +172,6 @@
     "2. Area/나의 레시피/냉파스타 드레싱.md",
     "2. Area/나의 레시피/0. 레시피 모음.md",
     "2. Area/나의 레시피/1. 소고기 메추리알 장조림.md",
-    "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "2. Area/나의 레시피/오징어 볶음.md",
     "2. Area/나의 레시피/스파게티 알 뽀모도로.md",
     "2. Area/나의 레시피/소불고기.md",
