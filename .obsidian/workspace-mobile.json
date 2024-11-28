@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e849a5bcf02c8ba3",
+        "id": "18ccb4bca1c72c88",
         "type": "tabs",
         "children": [
           {
-            "id": "ce63b6cf06c5b254",
+            "id": "3014012748ae5591",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,7 +159,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce63b6cf06c5b254",
+  "active": "3014012748ae5591",
   "lastOpenFiles": [
     "25일 나갈 돈들.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
