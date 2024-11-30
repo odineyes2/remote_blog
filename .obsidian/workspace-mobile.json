@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9de40e91bf56b10e",
+        "id": "96a91e4bea40e2b8",
         "type": "tabs",
         "children": [
           {
-            "id": "e7d9275154b4fb4f",
+            "id": "15324212ad647351",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "볼 영화 리스트.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "볼 영화 리스트"
             }
           }
         ]
@@ -159,8 +159,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7d9275154b4fb4f",
+  "active": "15324212ad647351",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "닭한마리 칼국수.md",
     "운동계획.md",
     "할 일 & 돈 쓸일.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
@@ -168,7 +170,6 @@
     "2. Area/뿌용이 육아/출산 관련 비용 집계.md",
     "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
-    "Dashboard.md",
     "25일 나갈 돈들.md",
     "2. Area/나의 레시피/프렌치 토스트.md",
     "무제 파일.md",
@@ -186,7 +187,6 @@
     "2. Area/뿌용이 육아/조리원 산모 신생아 준비물.md",
     "할 일.md",
     "IT 개발 자습서.md",
-    "4. Archive/이번달도 무사히...8월.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
