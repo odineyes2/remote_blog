@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bbee143e69af74ee",
+        "id": "55a6576d167a0a27",
         "type": "tabs",
         "children": [
           {
-            "id": "6ebe70e98ed6c6e3",
+            "id": "f8f3269a98711a91",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "0fd91f11088252cb",
+            "id": "56405df9e67330ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,10 +174,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0fd91f11088252cb",
+  "active": "56405df9e67330ca",
   "lastOpenFiles": [
     "Dashboard.md",
     "무제 파일 1.md",
+    "단백질 식단.md",
     "소화기 점검.md",
     "무제 파일.md",
     "2. Area/나의 레시피/0. 레시피 모음.md",
@@ -201,7 +202,6 @@
     "2. Area/나의 레시피/프렌치 토스트.md",
     "2. Area/나의 레시피/감자 샐러드 모닝빵.md",
     "2. Area/나의 레시피/냉파스타 드레싱.md",
-    "2. Area/나의 레시피/오징어 볶음.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
