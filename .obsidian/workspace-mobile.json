@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "55a6576d167a0a27",
+        "id": "4d57803c146d6680",
         "type": "tabs",
         "children": [
           {
-            "id": "f8f3269a98711a91",
+            "id": "49e6922d55ab455a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "2. Area/나의 레시피/0. 레시피 모음.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "56405df9e67330ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "체중 감량 하고 싶다..md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "체중 감량 하고 싶다."
+              "title": "0. 레시피 모음"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,18 +159,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "56405df9e67330ca",
+  "active": "49e6922d55ab455a",
   "lastOpenFiles": [
-    "3. Resource/단백질.md",
-    "체중 감량 하고 싶다..md",
-    "단백질 식단.md",
+    "2. Area/나의 레시피/스테이크.md",
     "Dashboard.md",
+    "체중 감량 하고 싶다..md",
+    "3. Resource/단백질.md",
+    "단백질 식단.md",
     "소화기 점검.md",
     "무제 파일.md",
     "2. Area/나의 레시피/0. 레시피 모음.md",
     "2. Area/장 볼 것.md",
     "2. Area/사고싶다.md",
-    "2. Area/나의 레시피/스테이크.md",
     "2. Area/나의 레시피/1. 소고기 메추리알 장조림.md",
     "2. Area/나의 레시피/닭도리탕.md",
     "2. Area/작은 방 침대 어떡하지.md",
