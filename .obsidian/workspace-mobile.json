@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d57803c146d6680",
+        "id": "a50958f6f42d3ba9",
         "type": "tabs",
         "children": [
           {
-            "id": "49e6922d55ab455a",
+            "id": "8e31473a12ba5230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/나의 레시피/0. 레시피 모음.md",
-                "mode": "preview",
+                "file": "2. Area/신체 사이즈.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "0. 레시피 모음"
+              "title": "신체 사이즈"
             }
           }
         ]
@@ -159,16 +159,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "49e6922d55ab455a",
+  "active": "8e31473a12ba5230",
   "lastOpenFiles": [
-    "2. Area/나의 레시피/스테이크.md",
     "Dashboard.md",
+    "2. Area/나의 레시피/0. 레시피 모음.md",
+    "2. Area/나의 레시피/스테이크.md",
     "체중 감량 하고 싶다..md",
     "3. Resource/단백질.md",
     "단백질 식단.md",
     "소화기 점검.md",
     "무제 파일.md",
-    "2. Area/나의 레시피/0. 레시피 모음.md",
     "2. Area/장 볼 것.md",
     "2. Area/사고싶다.md",
     "2. Area/나의 레시피/1. 소고기 메추리알 장조림.md",
