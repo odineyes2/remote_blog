@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2305cde4f4ac3d0d",
+        "id": "21582409b63271d6",
         "type": "tabs",
         "children": [
           {
-            "id": "c0af8dd8a2ebb0f6",
+            "id": "4c66e5b20e73a909",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "2. Area/나의 레시피/등촌 칼국수.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "등촌 칼국수"
             }
           }
         ]
@@ -159,11 +159,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c0af8dd8a2ebb0f6",
+  "active": "4c66e5b20e73a909",
   "lastOpenFiles": [
-    "2. Area/신체 사이즈.md",
     "Dashboard.md",
+    "2. Area/나의 레시피/밀푀유 나베.md",
     "2. Area/나의 레시피/0. 레시피 모음.md",
+    "2. Area/나의 레시피/등촌 칼국수.md",
+    "2. Area/신체 사이즈.md",
     "2. Area/나의 레시피/스테이크.md",
     "체중 감량 하고 싶다..md",
     "3. Resource/단백질.md",
@@ -185,8 +187,6 @@
     "2. Area/뿌용이 육아/출산 관련 비용 집계.md",
     "2. Area/뿌용이 육아/출산 관련 혜택 정리.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
-    "25일 나갈 돈들.md",
-    "2. Area/나의 레시피/프렌치 토스트.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
