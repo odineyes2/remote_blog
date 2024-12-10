@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "0650d3b7cfb3a6b0",
+        "id": "b30e01c82076fecc",
         "type": "tabs",
         "children": [
           {
-            "id": "bc946ac6efbf33a9",
+            "id": "81e3361f611cb12e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "d6f53c7462c03bf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +35,8 @@
               "title": "무제 파일 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,10 +174,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc946ac6efbf33a9",
+  "active": "d6f53c7462c03bf3",
   "lastOpenFiles": [
     "Dashboard.md",
     "무제 파일 1.md",
+    "추천 웹툰.md",
     "2. Area/적지않은 월급이건만 고민.md",
     "2. Area/나의 레시피/레시피 모음.md",
     "2. Area/나의 레시피/등촌 칼국수.md",
@@ -187,7 +203,6 @@
     "2. Area/사고싶다.md",
     "2. Area/나의 레시피/닭도리탕.md",
     "2. Area/작은 방 침대 어떡하지.md",
-    "볼 책 리스트.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
