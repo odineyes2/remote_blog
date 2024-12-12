@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "볼 영화 리스트.md",
+                "file": "볼 웹툰 리스트.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "볼 영화 리스트"
+              "title": "볼 웹툰 리스트"
             }
           }
         ]
@@ -161,10 +161,11 @@
   },
   "active": "fe54ce16f2b2707d",
   "lastOpenFiles": [
+    "볼 책 리스트.md",
+    "볼 영화 리스트.md",
+    "볼 웹툰 리스트.md",
     "Dashboard.md",
     "운동장 운영시간.md",
-    "볼 영화 리스트.md",
-    "추천 웹툰.md",
     "실행창 명령어 추가.md",
     "2. Area/적지않은 월급이건만 고민.md",
     "2. Area/나의 레시피/레시피 모음.md",
@@ -187,7 +188,6 @@
     "소화기 점검.md",
     "무제 파일.md",
     "2. Area/장 볼 것.md",
-    "2. Area/사고싶다.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
