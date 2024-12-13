@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "158f1f1fe12baaff",
+        "id": "8d8bac32ff27cba3",
         "type": "tabs",
         "children": [
           {
-            "id": "fe54ce16f2b2707d",
+            "id": "6ca1478a2146deea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,17 +159,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe54ce16f2b2707d",
+  "active": "6ca1478a2146deea",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "2. Area/나의 레시피/등촌 칼국수.md",
+    "2. Area/나의 레시피/레시피 모음.md",
+    "2. Area/나의 레시피/샐러드 파스타.md",
+    "2. Area/나의 레시피/냉파스타 드레싱.md",
+    "2. Area/나의 레시피/콜드 파스타.md",
+    "볼 웹툰 리스트.md",
     "볼 책 리스트.md",
     "볼 영화 리스트.md",
-    "볼 웹툰 리스트.md",
-    "Dashboard.md",
     "운동장 운영시간.md",
     "실행창 명령어 추가.md",
     "2. Area/적지않은 월급이건만 고민.md",
-    "2. Area/나의 레시피/레시피 모음.md",
-    "2. Area/나의 레시피/등촌 칼국수.md",
     "2. Area/나의 레시피/아롱사태 수육전골.md",
     "2. Area/나의 레시피/볶음밥(3인분).md",
     "2. Area/나의 레시피/비빔국수(2인분).md",
@@ -185,9 +188,6 @@
     "체중 감량 하고 싶다..md",
     "3. Resource/단백질.md",
     "단백질 식단.md",
-    "소화기 점검.md",
-    "무제 파일.md",
-    "2. Area/장 볼 것.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
