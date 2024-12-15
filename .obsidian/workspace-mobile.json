@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dff1d2c65d6bc665",
+        "id": "07145a1abc1b1045",
         "type": "tabs",
         "children": [
           {
-            "id": "02a065a18f3a74be",
+            "id": "0ea5ef60567b7d0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25일 나갈 돈들.md",
+                "file": "2. Area/나의 레시피/레시피 모음.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "25일 나갈 돈들"
+              "title": "레시피 모음"
             }
           }
         ]
@@ -159,9 +159,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "02a065a18f3a74be",
+  "active": "0ea5ef60567b7d0a",
   "lastOpenFiles": [
     "Dashboard.md",
+    "2025년도 예산 계획.md",
+    "25일 나갈 돈들.md",
     "볼 웹툰 리스트.md",
     "2. Area/나의 레시피/등촌 칼국수.md",
     "2. Area/나의 레시피/레시피 모음.md",
@@ -186,8 +188,6 @@
     "2. Area/신체 사이즈.md",
     "2. Area/나의 레시피/스테이크.md",
     "체중 감량 하고 싶다..md",
-    "3. Resource/단백질.md",
-    "단백질 식단.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
