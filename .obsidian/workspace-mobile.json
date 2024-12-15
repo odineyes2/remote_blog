@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "작가주의 영화 리스트.md",
-                "mode": "preview",
+                "file": "25일 나갈 돈들.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "작가주의 영화 리스트"
+              "title": "25일 나갈 돈들"
             }
           }
         ],
@@ -176,8 +176,8 @@
   },
   "active": "ba7148116a11c074",
   "lastOpenFiles": [
-    "25일 나갈 돈들.md",
     "작가주의 영화 리스트.md",
+    "25일 나갈 돈들.md",
     "Dashboard.md",
     "2025년도 예산 계획.md",
     "2. Area/나의 레시피/레시피 모음.md",
