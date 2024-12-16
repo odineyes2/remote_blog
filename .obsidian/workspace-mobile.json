@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "732b5d8a7a8f4247",
+        "id": "d9e520ef2f2f266d",
         "type": "tabs",
         "children": [
           {
-            "id": "8f34600a72278bb8",
+            "id": "ddec920ce8dee63a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,7 +159,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f34600a72278bb8",
+  "active": "ddec920ce8dee63a",
   "lastOpenFiles": [
     "Dashboard.md",
     "2025년도 예산 계획.md",
