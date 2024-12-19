@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "68bcd368ab7c3cb5",
+        "id": "7def0c5134a9764a",
         "type": "tabs",
         "children": [
           {
-            "id": "10de42c73f7e4a3d",
+            "id": "635328aa25c7054b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/나의 레시피/스테이크.md",
+                "file": "2025년도 예산 계획.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "스테이크"
+              "title": "2025년도 예산 계획"
             }
           }
         ]
@@ -159,10 +159,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10de42c73f7e4a3d",
+  "active": "635328aa25c7054b",
   "lastOpenFiles": [
-    "2. Area/나의 레시피/레시피 모음.md",
     "Dashboard.md",
+    "메쉬드 포테이토.md",
+    "2. Area/나의 레시피/레시피 모음.md",
+    "2. Area/나의 레시피/스테이크.md",
     "운동장 운영시간.md",
     "2025년도 예산 계획.md",
     "25일 나갈 돈들.md",
@@ -185,9 +187,7 @@
     "2. Area/나의 레시피/두부 부침 조림.md",
     "2. Area/나의 레시피/소고기 메추리알 장조림.md",
     "소고기 메추리알 장조림.md",
-    "냉장고.md",
     "무제 폴더",
-    "2. Area/나의 레시피/밀푀유 나베.md",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
     "/3. Resource/옵시디언 관련 정보",
