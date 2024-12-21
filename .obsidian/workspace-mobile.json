@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "adb7a7b109540604",
+        "id": "1c5d6d47bcd20a85",
         "type": "tabs",
         "children": [
           {
-            "id": "185e48bcb13552da",
+            "id": "c73fb133a7300d1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,12 +159,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "185e48bcb13552da",
+  "active": "c73fb133a7300d1d",
   "lastOpenFiles": [
     "2025년도 예산 계획.md",
+    "Dashboard.md",
+    "야끼소바.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
     "예산 계획.md",
-    "Dashboard.md",
     "운동장 운영시간.md",
     "25일 나갈 돈들.md",
     "2. Area/생활비 관리/2024년/2024년 9월.md",
@@ -186,7 +187,6 @@
     "2. Area/나의 레시피/아롱사태 수육전골.md",
     "2. Area/나의 레시피/볶음밥(3인분).md",
     "2. Area/나의 레시피/비빔국수(2인분).md",
-    "2. Area/나의 레시피/바베큐 폭립.md",
     "무제 폴더",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
