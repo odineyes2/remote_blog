@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cfdd0d92c0eb4362",
+        "id": "f42eb1116d8d7196",
         "type": "tabs",
         "children": [
           {
-            "id": "83494dab45b4d42d",
+            "id": "f9637df737183298",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "2025년도 예산 계획.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "2025년도 예산 계획"
             }
           }
         ]
@@ -159,18 +159,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "83494dab45b4d42d",
+  "active": "f9637df737183298",
   "lastOpenFiles": [
-    "2025년도 예산 계획.md",
     "Dashboard.md",
+    "운동장 운영시간.md",
+    "2. Area/나의 레시피/메쉬드 포테이토.md",
+    "2025년도 예산 계획.md",
     "25일 나갈 돈들.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
-    "야끼소바.md",
+    "2. Area/나의 레시피/야끼소바.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
     "예산 계획.md",
-    "운동장 운영시간.md",
     "2. Area/생활비 관리/2024년/2024년 9월.md",
-    "메쉬드 포테이토.md",
     "2. Area/나의 레시피/레시피 모음.md",
     "2. Area/나의 레시피/스테이크.md",
     "무제 파일.md",
