@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f42eb1116d8d7196",
+        "id": "6ec33190066acc64",
         "type": "tabs",
         "children": [
           {
-            "id": "f9637df737183298",
+            "id": "cc6e3f87f4757469",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/뿌용이 육아/출산 후 할 일.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "출산 후 할 일"
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "17f8588c07506c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "무제 파일 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,11 +174,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9637df737183298",
+  "active": "17f8588c07506c65",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "무제 파일 1.md",
+    "2. Area/뿌용이 육아/출산 후 할 일.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "2025년도 예산 계획.md",
-    "Dashboard.md",
     "운동장 운영시간.md",
     "2. Area/나의 레시피/메쉬드 포테이토.md",
     "25일 나갈 돈들.md",
@@ -185,8 +202,6 @@
     "실행창 명령어 추가.md",
     "2. Area/적지않은 월급이건만 고민.md",
     "2. Area/나의 레시피/아롱사태 수육전골.md",
-    "2. Area/나의 레시피/볶음밥(3인분).md",
-    "2. Area/나의 레시피/비빔국수(2인분).md",
     "무제 폴더",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
