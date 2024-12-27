@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2ae5f9fa2ac09c12",
+        "id": "8c09bc9fbaec95d7",
         "type": "tabs",
         "children": [
           {
-            "id": "1909a7c2e8ed9004",
+            "id": "e3c816237147dc70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25일 나갈 돈들.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "25일 나갈 돈들"
+              "title": "Dashboard"
             }
           }
         ]
@@ -159,14 +159,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1909a7c2e8ed9004",
+  "active": "e3c816237147dc70",
   "lastOpenFiles": [
+    "2025년도 예산 계획.md",
+    "25일 나갈 돈들.md",
     "Dashboard.md",
     "2. Area/양가 집주소.md",
     "2. Area/나의 레시피/육쌈냉면.md",
     "무제 파일.md",
-    "2025년도 예산 계획.md",
-    "25일 나갈 돈들.md",
     "2. Area/나의 레시피/레시피 모음.md",
     "2. Area/뿌용이 육아/출산 후 할 일.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
