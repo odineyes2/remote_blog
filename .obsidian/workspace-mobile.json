@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d907c5ba1b1a5ffa",
+        "id": "2ae5f9fa2ac09c12",
         "type": "tabs",
         "children": [
           {
-            "id": "9483d767c0cd11fa",
+            "id": "1909a7c2e8ed9004",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/양가 집주소.md",
+                "file": "25일 나갈 돈들.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "양가 집주소"
+              "title": "25일 나갈 돈들"
             }
           }
         ]
@@ -159,9 +159,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9483d767c0cd11fa",
+  "active": "1909a7c2e8ed9004",
   "lastOpenFiles": [
     "Dashboard.md",
+    "2. Area/양가 집주소.md",
     "2. Area/나의 레시피/육쌈냉면.md",
     "무제 파일.md",
     "2025년도 예산 계획.md",
@@ -186,7 +187,6 @@
     "볼 영화 리스트.md",
     "실행창 명령어 추가.md",
     "2. Area/적지않은 월급이건만 고민.md",
-    "2. Area/나의 레시피/아롱사태 수육전골.md",
     "무제 폴더",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
