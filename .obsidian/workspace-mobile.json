@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2fbb84b075421a13",
+        "id": "273d0517d48cad0f",
         "type": "tabs",
         "children": [
           {
-            "id": "d1fbf218f8a21d2e",
+            "id": "438426acedcde940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "2025년도 예산 계획.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "2025년도 예산 계획"
             }
           }
         ]
@@ -159,10 +159,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d1fbf218f8a21d2e",
+  "active": "438426acedcde940",
   "lastOpenFiles": [
-    "운동장 운영시간.md",
     "Dashboard.md",
+    "볼 영화 리스트.md",
+    "운동장 운영시간.md",
     "2025년도 예산 계획.md",
     "25일 나갈 돈들.md",
     "2. Area/양가 집주소.md",
@@ -184,7 +185,6 @@
     "2. Area/나의 레시피/냉파스타 드레싱.md",
     "2. Area/나의 레시피/콜드 파스타.md",
     "볼 책 리스트.md",
-    "볼 영화 리스트.md",
     "실행창 명령어 추가.md",
     "2. Area/적지않은 월급이건만 고민.md",
     "무제 폴더",
