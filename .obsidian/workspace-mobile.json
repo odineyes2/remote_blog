@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e03154aa0af056a4",
+        "id": "f26815fe31acfe24",
         "type": "tabs",
         "children": [
           {
-            "id": "f9b8e302c42e371d",
+            "id": "c3e26ed9bd8c54f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "1300a8cde2bf8ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "미야코지마 여행.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "미야코지마 여행"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,13 +174,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9b8e302c42e371d",
+  "active": "1300a8cde2bf8ba6",
   "lastOpenFiles": [
-    "볼 책 리스트.md",
     "Dashboard.md",
+    "미야코지마 여행.md",
+    "여행계획.md",
+    "볼 책 리스트.md",
     "2. Area/나의 레시피/닭도리탕.md",
     "볼 영화 리스트.md",
-    "여행계획.md",
     "/여행계획.md",
     "2025년도 예산 계획.md",
     "소화기 점검.md",
@@ -186,7 +202,6 @@
     "작가주의 영화 리스트.md",
     "볼 웹툰 리스트.md",
     "2. Area/나의 레시피/등촌 칼국수.md",
-    "2. Area/나의 레시피/샐러드 파스타.md",
     "무제 폴더",
     "4. Archive/Templates",
     "3. Resource/옵시디언 관련 정보",
