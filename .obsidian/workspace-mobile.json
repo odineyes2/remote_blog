@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "17491ad83315fa7a",
+        "id": "a8b15f4f3f38b10a",
         "type": "tabs",
         "children": [
           {
-            "id": "b9932878ced4d724",
+            "id": "78c373c30aa1556f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/나의 레시피/닭도리탕.md",
+                "file": "볼 책 리스트.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "닭도리탕"
+              "title": "볼 책 리스트"
             }
           }
         ]
@@ -159,15 +159,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9932878ced4d724",
+  "active": "78c373c30aa1556f",
   "lastOpenFiles": [
-    "볼 책 리스트.md",
     "Dashboard.md",
+    "2. Area/나의 레시피/닭도리탕.md",
+    "볼 책 리스트.md",
     "볼 영화 리스트.md",
     "여행계획.md",
     "/여행계획.md",
     "2025년도 예산 계획.md",
-    "2. Area/나의 레시피/닭도리탕.md",
     "소화기 점검.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "운동장 운영시간.md",
