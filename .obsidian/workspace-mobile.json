@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a8b15f4f3f38b10a",
+        "id": "e03154aa0af056a4",
         "type": "tabs",
         "children": [
           {
-            "id": "78c373c30aa1556f",
+            "id": "f9b8e302c42e371d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "볼 책 리스트.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "볼 책 리스트"
+              "title": "Dashboard"
             }
           }
         ]
@@ -159,11 +159,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78c373c30aa1556f",
+  "active": "f9b8e302c42e371d",
   "lastOpenFiles": [
+    "볼 책 리스트.md",
     "Dashboard.md",
     "2. Area/나의 레시피/닭도리탕.md",
-    "볼 책 리스트.md",
     "볼 영화 리스트.md",
     "여행계획.md",
     "/여행계획.md",
