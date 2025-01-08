@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "0ad846202fea19c2",
+    "id": "e8830f3cb87e68f0",
     "type": "split",
     "children": [
       {
-        "id": "c076eed2b476f251",
+        "id": "1e00ceeb7dbb6efd",
         "type": "tabs",
         "children": [
           {
-            "id": "e6d55b3b7a6f8906",
+            "id": "415a51591891fa58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,18 +20,33 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "3ccd4db177b52be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "여행 계획.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "여행 계획"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f39c52a25fe12310",
+    "id": "1d7ef949e559cc7c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "05a62972479674d2",
+        "id": "9beba085414249c2",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -43,7 +58,7 @@
         }
       },
       {
-        "id": "b26ad73367d92b19",
+        "id": "b64c3a0e7099a523",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -56,11 +71,11 @@
             "sortOrder": "alphabetical"
           },
           "icon": "lucide-search",
-          "title": "검색"
+          "title": "Search"
         }
       },
       {
-        "id": "d01c1822163ae2b7",
+        "id": "ef10b70924beae01",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -73,7 +88,7 @@
         }
       },
       {
-        "id": "e366cc3b0c65764f",
+        "id": "1016d189f32dcc7d",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -86,16 +101,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "3dc6e92ee46ac2f0",
+    "id": "bf38833ceb0f2950",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8d1206ddf1d8d95f",
+        "id": "22c27970e4b77aaf",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. Area/뿌용이 육아/뿌용이 기록.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,107 +119,85 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "백링크"
+          "title": "Backlinks"
         }
       },
       {
-        "id": "d0a2aa17a85b4209",
+        "id": "05f4756b24d76b7f",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. Area/뿌용이 육아/뿌용이 기록.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
           "icon": "links-going-out",
-          "title": "나가는 링크"
+          "title": "Outgoing links"
         }
       },
       {
-        "id": "6fd11b5213a6e71b",
+        "id": "d1c5c76fa0e58754",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "2. Area/뿌용이 육아/뿌용이 기록.md"
-          },
-          "icon": "lucide-list",
-          "title": "개요"
-        }
-      },
-      {
-        "id": "b6fbb09adee36e99",
-        "type": "leaf",
-        "state": {
-          "type": "git-history-view",
           "state": {},
-          "icon": "history",
-          "title": "History"
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e6d55b3b7a6f8906",
+  "active": "3ccd4db177b52be6",
   "lastOpenFiles": [
-    "여행계획.md",
-    "2. Area/나의 레시피/짬뽕라면.md",
+    "Token.md",
     "Dashboard.md",
-    "할 일 & 돈 쓸일.md",
-    "2. Area/나의 레시피/오뎅 볶음.md",
-    "미야코지마 여행.md",
-    "볼 책 리스트.md",
-    "2. Area/나의 레시피/닭도리탕.md",
-    "볼 영화 리스트.md",
-    "/여행계획.md",
+    "github access token",
+    "/github access token",
+    "여행 계획.md",
+    "체중 감량 하고 싶다..md",
+    "단백질 식단.md",
+    "기술 스택.md",
     "2025년도 예산 계획.md",
-    "소화기 점검.md",
-    "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
-    "운동장 운영시간.md",
     "25일 나갈 돈들.md",
-    "2. Area/양가 집주소.md",
-    "2. Area/나의 레시피/육쌈냉면.md",
     "무제 파일.md",
-    "2. Area/나의 레시피/레시피 모음.md",
-    "2. Area/뿌용이 육아/출산 후 할 일.md",
-    "2. Area/나의 레시피/메쉬드 포테이토.md",
-    "2. Area/나의 레시피/야끼소바.md",
-    "2. Area/생활비 관리/2024년/2024년 8월.md",
+    "할 일 & 돈 쓸일.md",
+    "2. Area/나의 레시피/짬뽕라면 1.md",
+    "작가주의 영화 리스트.md",
+    "운동장 운영시간.md",
+    "2. Area/나의 레시피/오뎅 볶음 1.md",
     "예산 계획.md",
-    "2. Area/생활비 관리/2024년/2024년 9월.md",
-    "2. Area/나의 레시피/스테이크.md",
-    "무제 폴더",
-    "4. Archive/Templates",
-    "3. Resource/옵시디언 관련 정보",
-    "/3. Resource/옵시디언 관련 정보",
-    "2. Area/독서노트/NodeJs교과서",
-    "2. Area/독서노트/모던자바스크립트Deep Dive",
-    "/2. Area/독서노트/모던자바스크립트Deep Dive",
-    "2. Area/독서노트",
-    "2. Area/개발관련지식",
-    "/2. Area/독서노트",
+    "여행계획.md",
+    "실행창 명령어 추가.md",
+    "소화기 점검.md",
+    "볼 책 리스트.md",
+    "볼 웹툰 리스트.md",
+    "볼 영화 리스트.md",
+    "냉장고.md",
+    "test.css",
+    "4. Archive/태양광 패널.md",
+    "4. Archive/전기 배선 정보 점검.md",
+    "4. Archive/이번달도 무사히...8월.md",
+    "4. Archive/예쁜 일본그릇 파는 사이트.md",
     "4. Archive/Attached files/padi_logo.png",
-    "/4. Archive/Attached files/padi_logo.png",
-    "Web_study/Img/2.jpeg",
-    "Web_study/Img/1.jpeg",
-    "Web_study/Img/0.jpeg",
-    "Web_study/230820_JS_Result/Img/2.jpeg",
-    "Web_study/230820_JS_Result/Img/1.jpeg",
-    "Web_study/230820_JS_Result/Img/0.jpeg",
-    "Web_study/230820_JS_Class/230812 JS Nomad 10 qutes and Bg/Img/2.jpeg",
-    "Web_study/230820_JS_Class/230812 JS Nomad 10 qutes and Bg/Img/1.jpeg"
+    "4. Archive/PADI 프리다이버 되기/PADI_프리다이빙_교재",
+    "4. Archive/여행 관련 정보",
+    "4. Archive/file Classes",
+    "4. Archive/Templates",
+    "4. Archive/PADI 프리다이버 되기",
+    "4. Archive/Attached files",
+    "4. Archive"
   ]
 }
