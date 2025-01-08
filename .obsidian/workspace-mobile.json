@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d88d8a3406b321ff",
+        "id": "bb7efe8eb99c1281",
         "type": "tabs",
         "children": [
           {
-            "id": "b0cc430bbc567310",
+            "id": "98918e58978595a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "여행 계획.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "여행 계획"
+              "title": "Dashboard"
             }
           }
         ]
@@ -145,10 +145,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b0cc430bbc567310",
+  "active": "98918e58978595a4",
   "lastOpenFiles": [
-    "Dashboard.md",
+    "2025년도 예산 계획.md",
+    "예산 계획.md",
     "여행 계획.md",
+    "Dashboard.md",
     "여행계획.md",
     "Token.md",
     "github access token",
@@ -156,7 +158,6 @@
     "체중 감량 하고 싶다..md",
     "단백질 식단.md",
     "기술 스택.md",
-    "2025년도 예산 계획.md",
     "25일 나갈 돈들.md",
     "무제 파일.md",
     "할 일 & 돈 쓸일.md",
@@ -164,7 +165,6 @@
     "작가주의 영화 리스트.md",
     "운동장 운영시간.md",
     "2. Area/나의 레시피/오뎅 볶음 1.md",
-    "예산 계획.md",
     "실행창 명령어 추가.md",
     "소화기 점검.md",
     "볼 책 리스트.md",
