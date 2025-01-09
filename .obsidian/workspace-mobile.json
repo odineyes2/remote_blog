@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "44fbf0d350b9b23c",
+        "id": "c80f16a19cdbf54f",
         "type": "tabs",
         "children": [
           {
-            "id": "7c1b2916e4a36d3e",
+            "id": "3814d0484299de5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "여행 계획.md",
-                "mode": "preview",
+                "file": "다이빙 명소.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "여행 계획"
+              "title": "다이빙 명소"
             }
           }
         ]
@@ -146,21 +146,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7c1b2916e4a36d3e",
+  "active": "3814d0484299de5c",
   "lastOpenFiles": [
     "Dashboard.md",
+    "다이빙 명소.md",
     "여행 계획.md",
+    "기술 스택.md",
+    "냉장고.md",
+    "Token.md",
+    "25일 나갈 돈들.md",
     "2025년도 예산 계획.md",
     "예산 계획.md",
     "여행계획.md",
-    "Token.md",
     "github access token",
     "/github access token",
     "체중 감량 하고 싶다..md",
     "단백질 식단.md",
-    "기술 스택.md",
-    "25일 나갈 돈들.md",
-    "무제 파일.md",
     "할 일 & 돈 쓸일.md",
     "2. Area/나의 레시피/짬뽕라면 1.md",
     "작가주의 영화 리스트.md",
@@ -171,7 +172,6 @@
     "볼 책 리스트.md",
     "볼 웹툰 리스트.md",
     "볼 영화 리스트.md",
-    "냉장고.md",
     "test.css",
     "4. Archive/태양광 패널.md",
     "4. Archive/전기 배선 정보 점검.md",
