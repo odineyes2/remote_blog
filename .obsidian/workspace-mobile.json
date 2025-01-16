@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6e3ea60d0dc2534",
+        "id": "c6a1c699d56610c9",
         "type": "tabs",
         "children": [
           {
-            "id": "fc99a6a6bbfb90a8",
+            "id": "eac1024d4748943c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fc99a6a6bbfb90a8",
+  "active": "eac1024d4748943c",
   "lastOpenFiles": [
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "Dashboard.md",
