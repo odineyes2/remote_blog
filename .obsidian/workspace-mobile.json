@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "푸딩.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "무제 파일"
+              "title": "푸딩"
             }
           }
         ]
@@ -148,8 +148,8 @@
   },
   "active": "fdde7b81072663eb",
   "lastOpenFiles": [
-    "Dashboard.md",
     "무제 파일.md",
+    "Dashboard.md",
     "전자 레인지 계란찜.md",
     "콩나물국.md",
     "다이빙 명소.md",
