@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f413cb7e79306bbe",
+        "id": "1abe83afa03e67ac",
         "type": "tabs",
         "children": [
           {
-            "id": "20b253fe4413181c",
+            "id": "fdde7b81072663eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "무제 파일.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "bd30a2098393ab29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "전자 레인지 계란찜.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "전자 레인지 계란찜"
+              "title": "무제 파일"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,9 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bd30a2098393ab29",
+  "active": "fdde7b81072663eb",
   "lastOpenFiles": [
     "Dashboard.md",
+    "무제 파일.md",
     "전자 레인지 계란찜.md",
     "콩나물국.md",
     "다이빙 명소.md",
@@ -191,7 +177,6 @@
     "할 일 & 돈 쓸일.md",
     "2. Area/나의 레시피/짬뽕라면 1.md",
     "작가주의 영화 리스트.md",
-    "2. Area/나의 레시피/오뎅 볶음 1.md",
     "test.css",
     "4. Archive/Attached files/padi_logo.png",
     "4. Archive/PADI 프리다이버 되기/PADI_프리다이빙_교재",
