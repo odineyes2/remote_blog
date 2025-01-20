@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1abe83afa03e67ac",
+        "id": "273bdacd6e01f79d",
         "type": "tabs",
         "children": [
           {
-            "id": "fdde7b81072663eb",
+            "id": "bc7351bb881756fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "무제 파일"
+              "title": "Dashboard"
             }
           }
         ]
@@ -146,11 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fdde7b81072663eb",
+  "active": "bc7351bb881756fa",
   "lastOpenFiles": [
     "푸딩.md",
-    "무제 파일.md",
     "Dashboard.md",
+    "무제 파일.md",
     "전자 레인지 계란찜.md",
     "콩나물국.md",
     "다이빙 명소.md",
