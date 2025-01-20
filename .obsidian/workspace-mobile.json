@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "무제 파일.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "무제 파일"
             }
           }
         ]
@@ -148,8 +148,8 @@
   },
   "active": "bc7351bb881756fa",
   "lastOpenFiles": [
-    "푸딩.md",
     "Dashboard.md",
+    "푸딩.md",
     "무제 파일.md",
     "전자 레인지 계란찜.md",
     "콩나물국.md",
