@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "09ecf2c5c2c8e1e2",
+        "id": "1e29b432ed62b3aa",
         "type": "tabs",
         "children": [
           {
-            "id": "433a6c1f7db8c6fe",
+            "id": "84f5aec7a623a4bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "무제 파일.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -146,11 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "433a6c1f7db8c6fe",
+  "active": "84f5aec7a623a4bd",
   "lastOpenFiles": [
     "Dashboard.md",
-    "2. Area/나의 레시피/두부 부침 조림.md",
     "무제 파일.md",
+    "2. Area/나의 레시피/두부 부침 조림.md",
     "React+Node+mysql+complete api.md",
     "푸딩.md",
     "전자 레인지 계란찜.md",
