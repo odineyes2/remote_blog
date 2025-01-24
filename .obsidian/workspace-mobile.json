@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1e29b432ed62b3aa",
+        "id": "43b6c901340f8d40",
         "type": "tabs",
         "children": [
           {
-            "id": "84f5aec7a623a4bd",
+            "id": "4bb1b014494ce193",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
-                "mode": "preview",
+                "file": "Dashboard.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "무제 파일"
+              "title": "Dashboard"
             }
           }
         ]
@@ -146,10 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "84f5aec7a623a4bd",
+  "active": "4bb1b014494ce193",
   "lastOpenFiles": [
+    "헬스 목표.md",
     "Dashboard.md",
-    "무제 파일.md",
     "2. Area/나의 레시피/두부 부침 조림.md",
     "React+Node+mysql+complete api.md",
     "푸딩.md",
