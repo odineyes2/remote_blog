@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "43b6c901340f8d40",
+        "id": "9c549fa37d27dc8b",
         "type": "tabs",
         "children": [
           {
-            "id": "4bb1b014494ce193",
+            "id": "efe2a0c5be6d9bac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "헬스 목표.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "헬스 목표"
             }
           }
         ]
@@ -146,10 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4bb1b014494ce193",
+  "active": "efe2a0c5be6d9bac",
   "lastOpenFiles": [
-    "헬스 목표.md",
     "Dashboard.md",
+    "무제 파일.md",
+    "헬스 목표.md",
     "2. Area/나의 레시피/두부 부침 조림.md",
     "React+Node+mysql+complete api.md",
     "푸딩.md",
@@ -176,7 +177,6 @@
     "/github access token",
     "체중 감량 하고 싶다..md",
     "단백질 식단.md",
-    "할 일 & 돈 쓸일.md",
     "test.css",
     "4. Archive/Attached files/padi_logo.png",
     "4. Archive/PADI 프리다이버 되기/PADI_프리다이빙_교재",
