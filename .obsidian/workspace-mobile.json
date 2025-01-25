@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "헬스 목표.md",
+                "file": "중량 목표.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "헬스 목표"
+              "title": "중량 목표"
             }
           }
         ]
@@ -150,7 +150,7 @@
   "lastOpenFiles": [
     "Dashboard.md",
     "무제 파일.md",
-    "헬스 목표.md",
+    "중량 목표.md",
     "2. Area/나의 레시피/두부 부침 조림.md",
     "React+Node+mysql+complete api.md",
     "푸딩.md",
