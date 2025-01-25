@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "742c7f3aacff29c4",
+        "id": "6bb3b539e47d9517",
         "type": "tabs",
         "children": [
           {
-            "id": "c83ed21f58ce336f",
+            "id": "ddc7dad9e4a61489",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25일 나갈 돈들.md",
-                "mode": "source",
+                "file": "무제 파일.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "25일 나갈 돈들"
+              "title": "무제 파일"
             }
           }
         ]
@@ -146,12 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c83ed21f58ce336f",
+  "active": "ddc7dad9e4a61489",
   "lastOpenFiles": [
     "Dashboard.md",
+    "회사 근태 관련.md",
     "2025년도 예산 계획.md",
-    "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "25일 나갈 돈들.md",
+    "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "할 일 & 돈 쓸일.md",
     "중량 목표.md",
     "무제 파일.md",
@@ -174,7 +175,6 @@
     "냉장고.md",
     "Token.md",
     "예산 계획.md",
-    "여행계획.md",
     "github access token",
     "/github access token",
     "test.css",
