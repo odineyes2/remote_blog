@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9c549fa37d27dc8b",
+        "id": "d119dfffaeeec910",
         "type": "tabs",
         "children": [
           {
-            "id": "efe2a0c5be6d9bac",
+            "id": "df946220da6253aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "중량 목표.md",
-                "mode": "source",
+                "file": "Dashboard.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "중량 목표"
+              "title": "Dashboard"
             }
           }
         ]
@@ -146,11 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "efe2a0c5be6d9bac",
+  "active": "df946220da6253aa",
   "lastOpenFiles": [
+    "중량 목표.md",
     "Dashboard.md",
     "무제 파일.md",
-    "중량 목표.md",
     "2. Area/나의 레시피/두부 부침 조림.md",
     "React+Node+mysql+complete api.md",
     "푸딩.md",
