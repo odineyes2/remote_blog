@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6bb3b539e47d9517",
+        "id": "e00cf4178d4fd834",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc7dad9e4a61489",
+            "id": "3e97ba85049cdcef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,16 +146,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ddc7dad9e4a61489",
+  "active": "3e97ba85049cdcef",
   "lastOpenFiles": [
     "Dashboard.md",
+    "우주올빼미의 기묘한 이세계 엿보기.md",
+    "소설을 써라./1. 시작.md",
+    "무제 파일.md",
     "회사 근태 관련.md",
     "2025년도 예산 계획.md",
     "25일 나갈 돈들.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "할 일 & 돈 쓸일.md",
     "중량 목표.md",
-    "무제 파일.md",
     "2. Area/나의 레시피/두부 부침 조림.md",
     "React+Node+mysql+complete api.md",
     "푸딩.md",
@@ -165,7 +167,6 @@
     "3. Resource/it 관련 정보/윈도우 실행창 명령어 등록절차.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "소설을 써라./2. 금지구역.md",
-    "소설을 써라./1. 시작.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
     "소설을 써라.",
@@ -174,7 +175,6 @@
     "기술 스택.md",
     "냉장고.md",
     "Token.md",
-    "예산 계획.md",
     "github access token",
     "/github access token",
     "test.css",
