@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e00cf4178d4fd834",
+        "id": "72804b588c733daf",
         "type": "tabs",
         "children": [
           {
-            "id": "3e97ba85049cdcef",
+            "id": "7bd922c7d076b7c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "무제 파일"
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "f0c1b0afac3e63e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "무제 파일 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,12 +161,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3e97ba85049cdcef",
+  "active": "f0c1b0afac3e63e4",
   "lastOpenFiles": [
     "Dashboard.md",
+    "무제 파일 1.md",
+    "무제 파일.md",
     "우주올빼미의 기묘한 이세계 엿보기.md",
     "소설을 써라./1. 시작.md",
-    "무제 파일.md",
     "회사 근태 관련.md",
     "2025년도 예산 계획.md",
     "25일 나갈 돈들.md",
@@ -174,7 +190,6 @@
     "여행 계획.md",
     "기술 스택.md",
     "냉장고.md",
-    "Token.md",
     "github access token",
     "/github access token",
     "test.css",
