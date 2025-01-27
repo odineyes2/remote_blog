@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a917e5f3e06b57f4",
+        "id": "4398e23e55565ba7",
         "type": "tabs",
         "children": [
           {
-            "id": "905ac5bbb062e2cc",
+            "id": "fcd2457d14e80dfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "중량 목표.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "중량 목표"
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "1b8b68e0132befcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "무제 파일 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,9 +161,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "905ac5bbb062e2cc",
+  "active": "1b8b68e0132befcc",
   "lastOpenFiles": [
     "Dashboard.md",
+    "무제 파일 1.md",
+    "중량 목표.md",
     "AWS 자격증.md",
     "무제 파일.md",
     "우주올빼미의 기묘한 이세계 엿보기.md",
@@ -158,7 +175,6 @@
     "25일 나갈 돈들.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "할 일 & 돈 쓸일.md",
-    "중량 목표.md",
     "2. Area/나의 레시피/두부 부침 조림.md",
     "React+Node+mysql+complete api.md",
     "푸딩.md",
@@ -174,7 +190,6 @@
     "운동장 운영시간.md",
     "여행 계획.md",
     "기술 스택.md",
-    "냉장고.md",
     "github access token",
     "/github access token",
     "test.css",
