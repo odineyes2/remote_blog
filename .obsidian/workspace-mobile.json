@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "72804b588c733daf",
+        "id": "a917e5f3e06b57f4",
         "type": "tabs",
         "children": [
           {
-            "id": "7bd922c7d076b7c4",
+            "id": "905ac5bbb062e2cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "중량 목표.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "f0c1b0afac3e63e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일 1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "무제 파일 1"
+              "title": "중량 목표"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,10 +146,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f0c1b0afac3e63e4",
+  "active": "905ac5bbb062e2cc",
   "lastOpenFiles": [
     "Dashboard.md",
-    "무제 파일 1.md",
+    "AWS 자격증.md",
     "무제 파일.md",
     "우주올빼미의 기묘한 이세계 엿보기.md",
     "소설을 써라./1. 시작.md",
