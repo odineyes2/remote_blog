@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a53fdb97d524ff7",
+        "id": "e7be3b59b27d52c8",
         "type": "tabs",
         "children": [
           {
-            "id": "07aa5a06378c5a87",
+            "id": "d76d212811132c85",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "07aa5a06378c5a87",
+  "active": "d76d212811132c85",
   "lastOpenFiles": [
-    "Conselho.md",
+    "2. Area/나의 레시피/메쉬드 포테이토.md",
     "Dashboard.md",
+    "Conselho.md",
     "중량 목표.md",
     "AWS 자격증.md",
     "무제 파일.md",
@@ -174,7 +175,6 @@
     "소설을 써라.",
     "운동장 운영시간.md",
     "여행 계획.md",
-    "기술 스택.md",
     "github access token",
     "/github access token",
     "test.css",
