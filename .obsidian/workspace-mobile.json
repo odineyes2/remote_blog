@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f18a5caf5c22894e",
+        "id": "510dea1ce54364df",
         "type": "tabs",
         "children": [
           {
-            "id": "5eb80d85dc71b49b",
+            "id": "37def4940b486047",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS 자격증.md",
+                "file": "2025년도 예산 계획.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "AWS 자격증"
+              "title": "2025년도 예산 계획"
+            }
+          },
+          {
+            "id": "9ed7021d79320aed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제주도 여행 계획.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "제주도 여행 계획"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,21 +161,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5eb80d85dc71b49b",
+  "active": "9ed7021d79320aed",
   "lastOpenFiles": [
+    "2025년도 예산 계획.md",
+    "제주도 여행 계획.md",
+    "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
+    "25일 나갈 돈들.md",
     "Dashboard.md",
+    "AWS 자격증.md",
     "볼 영화 리스트.md",
     "2. Area/나의 레시피/메쉬드 포테이토.md",
     "Conselho.md",
     "중량 목표.md",
-    "AWS 자격증.md",
     "무제 파일.md",
     "우주올빼미의 기묘한 이세계 엿보기.md",
     "소설을 써라./1. 시작.md",
     "회사 근태 관련.md",
-    "2025년도 예산 계획.md",
-    "25일 나갈 돈들.md",
-    "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "할 일 & 돈 쓸일.md",
     "2. Area/나의 레시피/두부 부침 조림.md",
     "React+Node+mysql+complete api.md",
@@ -174,7 +190,6 @@
     "2. Area/생활비 관리/2024년/2024년 8월.md",
     "2. Area/생활비 관리/2024년/2024년 7월.md",
     "소설을 써라.",
-    "운동장 운영시간.md",
     "github access token",
     "/github access token",
     "test.css",
