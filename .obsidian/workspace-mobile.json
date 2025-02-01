@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "848758d8ff57dbe7",
+        "id": "fa78b513f0dd1a36",
         "type": "tabs",
         "children": [
           {
-            "id": "bfc28577918f9c56",
+            "id": "5ead5ab1de00b284",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "미야코지마 여행 계획.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "미야코지마 여행 계획"
+              "title": "Dashboard"
             }
           }
         ]
@@ -146,13 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bfc28577918f9c56",
+  "active": "5ead5ab1de00b284",
   "lastOpenFiles": [
-    "Dashboard.md",
     "2025년도 예산 계획.md",
-    "미야코지마 여행 계획.md",
-    "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "25일 나갈 돈들.md",
+    "미야코지마 여행 계획.md",
+    "Dashboard.md",
+    "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "AWS 자격증.md",
     "볼 영화 리스트.md",
     "2. Area/나의 레시피/메쉬드 포테이토.md",
