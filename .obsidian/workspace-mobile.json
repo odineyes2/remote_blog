@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa78b513f0dd1a36",
+        "id": "7eade28536fafef2",
         "type": "tabs",
         "children": [
           {
-            "id": "5ead5ab1de00b284",
+            "id": "98be5995cb3533e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "무제 파일.md",
+            "file": "2. Area/나의 레시피/육쌈냉면.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,12 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5ead5ab1de00b284",
+  "active": "98be5995cb3533e6",
   "lastOpenFiles": [
+    "2. Area/나의 레시피/육쌈냉면.md",
+    "Dashboard.md",
     "2025년도 예산 계획.md",
     "25일 나갈 돈들.md",
     "미야코지마 여행 계획.md",
-    "Dashboard.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "AWS 자격증.md",
     "볼 영화 리스트.md",
@@ -173,7 +174,6 @@
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "소설을 써라./2. 금지구역.md",
     "2. Area/생활비 관리/2024년/2024년 8월.md",
-    "2. Area/생활비 관리/2024년/2024년 7월.md",
     "소설을 써라.",
     "github access token",
     "/github access token",
