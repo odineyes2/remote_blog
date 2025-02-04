@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7eade28536fafef2",
+        "id": "8515b67f940070f9",
         "type": "tabs",
         "children": [
           {
-            "id": "98be5995cb3533e6",
+            "id": "33cbd3613fc1a27b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "볼 영화 리스트.md",
+                "file": "Dashboard.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "579752f5e9c6dc9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "볼 영화 리스트"
+              "title": "무제"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,7 +51,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "파일 탐색기"
@@ -136,26 +152,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "98be5995cb3533e6",
+  "active": "579752f5e9c6dc9c",
   "lastOpenFiles": [
-    "미야코지마 여행 계획.md",
     "Dashboard.md",
+    "무제.md",
+    "볼 영화 리스트.md",
+    "미야코지마 여행 계획.md",
     "2. Area/나의 레시피/육쌈냉면.md",
     "2025년도 예산 계획.md",
     "25일 나갈 돈들.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "AWS 자격증.md",
-    "볼 영화 리스트.md",
     "2. Area/나의 레시피/메쉬드 포테이토.md",
     "Conselho.md",
     "중량 목표.md",
@@ -173,7 +190,6 @@
     "3. Resource/it 관련 정보/윈도우 실행창 명령어 등록절차.md",
     "2. Area/뿌용이 육아/육아용품 구매 리스트.md",
     "소설을 써라./2. 금지구역.md",
-    "2. Area/생활비 관리/2024년/2024년 8월.md",
     "소설을 써라.",
     "github access token",
     "/github access token",
