@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8515b67f940070f9",
+        "id": "c6b8bde16e9c448d",
         "type": "tabs",
         "children": [
           {
-            "id": "33cbd3613fc1a27b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "579752f5e9c6dc9c",
+            "id": "ed897cbef7f173a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "무제.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "무제"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "579752f5e9c6dc9c",
+  "active": "ed897cbef7f173a3",
   "lastOpenFiles": [
     "Dashboard.md",
     "무제.md",
