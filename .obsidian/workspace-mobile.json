@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15c8ad5126819008",
+        "id": "c109b42e98e21717",
         "type": "tabs",
         "children": [
           {
-            "id": "606721dbd31347f5",
+            "id": "f91336a1b9979bd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "606721dbd31347f5",
+  "active": "f91336a1b9979bd1",
   "lastOpenFiles": [
     "2. Area/나의 레시피/냉파스타 드레싱.md",
     "Dashboard.md",
