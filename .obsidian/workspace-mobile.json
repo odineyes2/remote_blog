@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bab8d2be1c7ea4cd",
+        "id": "d440b4a95fc9ba18",
         "type": "tabs",
         "children": [
           {
-            "id": "0318bed47a5ee20a",
+            "id": "936890726e499242",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "2. Area/장보기와 돈아끼기/2024년 물가 조사 정보.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "2024년 물가 조사 정보"
             }
           }
         ]
@@ -147,44 +147,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0318bed47a5ee20a",
+  "active": "936890726e499242",
   "lastOpenFiles": [
-    "기술 스택.md",
-    "Conselho.md",
+    "회사 근태 관련.md",
+    "2. Area/장보기와 돈아끼기/2024년 물가 조사 정보.md",
+    "할 일 & 돈 쓸일.md",
     "Dashboard.md",
+    "개발 공부 관련 폴더",
+    "돈 관련 폴더",
+    "여행 관련 폴더",
+    "운동 관련 폴더",
+    "영화,책 버켓리스트",
+    "1. Project/소설을 써라./우주올빼미의 기묘한 이세계 엿보기.md",
+    "여행 관련 폴더/여행 계획.md",
+    "무제 파일.md",
+    "개발 공부 관련 폴더/기술 스택.md",
+    "4. Archive/Conselho.md",
     "2. Area/나의 레시피/냉파스타 드레싱.md",
     "2. Area/나의 레시피/샐러드 파스타.md",
     "1. Project/소설을 써라./3. 젤토 마스터피스.md",
     "무제.md",
-    "볼 영화 리스트.md",
-    "미야코지마 여행 계획.md",
+    "영화,책 버켓리스트/볼 영화 리스트.md",
+    "3. Resource/미야코지마 여행 계획.md",
     "2. Area/나의 레시피/육쌈냉면.md",
-    "2025년도 예산 계획.md",
-    "25일 나갈 돈들.md",
+    "돈 관련 폴더/2025년도 예산 계획.md",
+    "돈 관련 폴더/25일 나갈 돈들.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
-    "AWS 자격증.md",
+    "개발 공부 관련 폴더/AWS 자격증.md",
     "2. Area/나의 레시피/메쉬드 포테이토.md",
-    "중량 목표.md",
-    "무제 파일.md",
-    "우주올빼미의 기묘한 이세계 엿보기.md",
+    "운동 관련 폴더/중량 목표.md",
     "1. Project/소설을 써라./1. 시작.md",
-    "회사 근태 관련.md",
-    "할 일 & 돈 쓸일.md",
     "2. Area/나의 레시피/두부 부침 조림.md",
-    "React+Node+mysql+complete api.md",
-    "푸딩.md",
-    "전자 레인지 계란찜.md",
-    "콩나물국.md",
+    "개발 공부 관련 폴더/React+Node+mysql+complete api.md",
+    "2. Area/나의 레시피/푸딩.md",
     "1. Project/소설을 써라.",
     "github access token",
     "/github access token",
     "test.css",
     "4. Archive/Attached files/padi_logo.png",
-    "4. Archive/PADI 프리다이버 되기/PADI_프리다이빙_교재",
-    "4. Archive/여행 관련 정보",
-    "4. Archive/file Classes",
-    "4. Archive/Templates",
-    "4. Archive/PADI 프리다이버 되기",
-    "4. Archive/Attached files"
+    "4. Archive/PADI 프리다이버 되기/PADI_프리다이빙_교재"
   ]
 }
