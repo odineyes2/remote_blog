@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d440b4a95fc9ba18",
+        "id": "6bdd25da46ebdcd9",
         "type": "tabs",
         "children": [
           {
-            "id": "936890726e499242",
+            "id": "02c4b066860048e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/장보기와 돈아끼기/2024년 물가 조사 정보.md",
+                "file": "돈 관련 폴더/2025년도 예산 계획.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024년 물가 조사 정보"
+              "title": "2025년도 예산 계획"
             }
           }
         ]
@@ -147,12 +147,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "936890726e499242",
+  "active": "02c4b066860048e7",
   "lastOpenFiles": [
-    "회사 근태 관련.md",
-    "2. Area/장보기와 돈아끼기/2024년 물가 조사 정보.md",
-    "할 일 & 돈 쓸일.md",
     "Dashboard.md",
+    "2. Area/장보기와 돈아끼기/2024년 물가 조사 정보.md",
+    "회사 근태 관련.md",
+    "할 일 & 돈 쓸일.md",
     "개발 공부 관련 폴더",
     "돈 관련 폴더",
     "여행 관련 폴더",
