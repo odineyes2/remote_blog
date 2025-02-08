@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "149d4fdf3776b8f8",
+        "id": "7c7528bc4d299afd",
         "type": "tabs",
         "children": [
           {
-            "id": "e55bf5d1d6709f47",
+            "id": "e798cf45106f26d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "77afc2d1e12cc149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "무제"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,10 +162,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e55bf5d1d6709f47",
+  "active": "77afc2d1e12cc149",
   "lastOpenFiles": [
-    "돈 관련 폴더/2025년도 예산 계획.md",
     "Dashboard.md",
+    "무제.md",
+    "운동 관련 폴더/운동장 운영시간.md",
+    "돈 관련 폴더/2025년도 예산 계획.md",
     "2. Area/장보기와 돈아끼기/2024년 물가 조사 정보.md",
     "회사 근태 관련.md",
     "할 일 & 돈 쓸일.md",
@@ -167,7 +184,6 @@
     "2. Area/나의 레시피/냉파스타 드레싱.md",
     "2. Area/나의 레시피/샐러드 파스타.md",
     "1. Project/소설을 써라./3. 젤토 마스터피스.md",
-    "무제.md",
     "영화,책 버켓리스트/볼 영화 리스트.md",
     "3. Resource/미야코지마 여행 계획.md",
     "2. Area/나의 레시피/육쌈냉면.md",
@@ -179,7 +195,6 @@
     "1. Project/소설을 써라./1. 시작.md",
     "2. Area/나의 레시피/두부 부침 조림.md",
     "개발 공부 관련 폴더/React+Node+mysql+complete api.md",
-    "2. Area/나의 레시피/푸딩.md",
     "1. Project/소설을 써라.",
     "github access token",
     "/github access token",
