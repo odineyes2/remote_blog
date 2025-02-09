@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c7efa07f6776c0e2",
+        "id": "e9be260103b798d0",
         "type": "tabs",
         "children": [
           {
-            "id": "b381e4681ef9d698",
+            "id": "247a89b1b2ab6213",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "돈 관련 폴더/2025년도 예산 계획.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "7d954b18296becb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "무제"
+              "title": "2025년도 예산 계획"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,10 +147,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7d954b18296becb3",
+  "active": "247a89b1b2ab6213",
   "lastOpenFiles": [
     "Dashboard.md",
-    "무제.md",
+    "카레(4인분).md",
     "아기 외출 준비물.md",
     "운동 관련 폴더/운동장 운영시간.md",
     "돈 관련 폴더/2025년도 예산 계획.md",
