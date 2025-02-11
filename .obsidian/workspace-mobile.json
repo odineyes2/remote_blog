@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "237933f60a5daf07",
+        "id": "a6a2b82aa5ca0e86",
         "type": "tabs",
         "children": [
           {
-            "id": "88f3e07b7ea40cb6",
+            "id": "c1fe307103e54f62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2월 집밥 메뉴.md",
+                "file": "돈 관련 폴더/2025년도 예산 계획.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2월 집밥 메뉴"
+              "title": "2025년도 예산 계획"
             }
           }
         ]
@@ -147,11 +147,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "88f3e07b7ea40cb6",
+  "active": "c1fe307103e54f62",
   "lastOpenFiles": [
     "Dashboard.md",
-    "돈 관련 폴더/2025년도 예산 계획.md",
     "2월 집밥 메뉴.md",
+    "돈 관련 폴더/2025년도 예산 계획.md",
     "회사 근태 관련.md",
     "운동 관련 폴더/단백질 식단.md",
     "카레(4인분).md",
