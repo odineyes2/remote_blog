@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c958c3e88b75c046",
+        "id": "35583c423f6e64b2",
         "type": "tabs",
         "children": [
           {
-            "id": "34265fe34c69852c",
+            "id": "a6b8e89f8e43ef49",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "47825bf6bd2801e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "무제"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,11 +162,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "34265fe34c69852c",
+  "active": "47825bf6bd2801e2",
   "lastOpenFiles": [
-    "카레(4인분).md",
     "Dashboard.md",
+    "무제.md",
     "돈 관련 폴더/2025년도 예산 계획.md",
+    "카레(4인분).md",
     "아기 외출 준비물.md",
     "운동 관련 폴더/운동장 운영시간.md",
     "2. Area/장보기와 돈아끼기/2024년 물가 조사 정보.md",
@@ -179,7 +195,6 @@
     "2. Area/나의 레시피/메쉬드 포테이토.md",
     "운동 관련 폴더/중량 목표.md",
     "1. Project/소설을 써라./1. 시작.md",
-    "2. Area/나의 레시피/두부 부침 조림.md",
     "1. Project/소설을 써라.",
     "github access token",
     "/github access token",
