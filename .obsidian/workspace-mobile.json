@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35583c423f6e64b2",
+        "id": "fc4db376d1790ebe",
         "type": "tabs",
         "children": [
           {
-            "id": "a6b8e89f8e43ef49",
+            "id": "03a3eb8d3769f405",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "47825bf6bd2801e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2월 집밥 메뉴.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2월 집밥 메뉴"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,10 +147,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "47825bf6bd2801e2",
+  "active": "03a3eb8d3769f405",
   "lastOpenFiles": [
-    "2. Area/나의 레시피/밀푀유 나베.md",
     "2월 집밥 메뉴.md",
+    "2. Area/나의 레시피/밀푀유 나베.md",
     "Dashboard.md",
     "돈 관련 폴더/2025년도 예산 계획.md",
     "카레(4인분).md",
