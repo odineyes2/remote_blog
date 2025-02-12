@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a6a2b82aa5ca0e86",
+        "id": "1a4318419101abd4",
         "type": "tabs",
         "children": [
           {
-            "id": "c1fe307103e54f62",
+            "id": "b545a87f277fcf1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "돈 관련 폴더/2025년도 예산 계획.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025년도 예산 계획"
+              "title": "Dashboard"
             }
           }
         ]
@@ -147,10 +147,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c1fe307103e54f62",
+  "active": "b545a87f277fcf1f",
   "lastOpenFiles": [
-    "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "돈 관련 폴더/2025년도 예산 계획.md",
+    "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "돈 관련 폴더/예산 계획.md",
     "돈 관련 폴더/25일 나갈 돈들.md",
     "2월 집밥 메뉴.md",
