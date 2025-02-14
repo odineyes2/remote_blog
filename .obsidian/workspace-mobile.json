@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ade82f478e08b90f",
+        "id": "f09c67eff07930e2",
         "type": "tabs",
         "children": [
           {
-            "id": "63e7ecc4b8ba7ba2",
+            "id": "fa4e37fb5060d655",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Dashboard.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -147,12 +147,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "63e7ecc4b8ba7ba2",
+  "active": "fa4e37fb5060d655",
   "lastOpenFiles": [
-    "2. Area/나의 레시피/밀푀유 나베.md",
-    "Dashboard.md",
     "돈 관련 폴더/2025년도 예산 계획.md",
+    "2025년 2월.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
+    "Dashboard.md",
+    "2. Area/나의 레시피/밀푀유 나베.md",
     "돈 관련 폴더/예산 계획.md",
     "돈 관련 폴더/25일 나갈 돈들.md",
     "2월 집밥 메뉴.md",
@@ -179,7 +180,6 @@
     "2. Area/나의 레시피/샐러드 파스타.md",
     "1. Project/소설을 써라./3. 젤토 마스터피스.md",
     "영화,책 버켓리스트/볼 영화 리스트.md",
-    "3. Resource/미야코지마 여행 계획.md",
     "1. Project/소설을 써라.",
     "github access token",
     "/github access token",
