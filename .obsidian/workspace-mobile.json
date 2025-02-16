@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "181eec9396f9b3c0",
+        "id": "f21c22223ec624e6",
         "type": "tabs",
         "children": [
           {
-            "id": "a1cf0fd48e0bb8ee",
+            "id": "7f73dee97b370a0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "돈 관련 폴더/2025년도 예산 계획.md",
+                "file": "무제.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025년도 예산 계획"
+              "title": "무제"
             }
           }
         ]
@@ -147,25 +147,29 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a1cf0fd48e0bb8ee",
+  "active": "7f73dee97b370a0a",
   "lastOpenFiles": [
     "Dashboard.md",
-    "무제.md",
-    "된장찌개.md",
-    "2. Area/나의 레시피/소고기 스키야키(2인분).md",
     "2월 집밥 메뉴.md",
-    "2025년 2월.md",
+    "아기 외출 준비물.md",
+    "무제.md",
+    "2. Area/신체 사이즈.md",
+    "사고싶다.md",
+    "2. Area/작은 방 침대 어떡하지.md",
+    "2. Area/적지않은 월급이건만 고민.md",
     "돈 관련 폴더/2025년도 예산 계획.md",
+    "2. Area/나의 레시피/된장찌개.md",
+    "2. Area/나의 레시피/소고기 스키야키(2인분).md",
+    "돈 관련 폴더/2025년 2월.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "2. Area/나의 레시피/밀푀유 나베.md",
     "돈 관련 폴더/예산 계획.md",
     "돈 관련 폴더/25일 나갈 돈들.md",
     "회사 근태 관련.md",
     "운동 관련 폴더/단백질 식단.md",
-    "카레(4인분).md",
+    "2. Area/나의 레시피/카레(4인분).md",
     "/2월 집밥 메뉴.md",
     "2. Area/나의 레시피/아롱사태 수육전골.md",
-    "아기 외출 준비물.md",
     "운동 관련 폴더/운동장 운영시간.md",
     "2. Area/장보기와 돈아끼기/2024년 물가 조사 정보.md",
     "할 일 & 돈 쓸일.md",
@@ -176,10 +180,6 @@
     "영화,책 버켓리스트",
     "1. Project/소설을 써라./우주올빼미의 기묘한 이세계 엿보기.md",
     "여행 관련 폴더/여행 계획.md",
-    "무제 파일.md",
-    "개발 공부 관련 폴더/기술 스택.md",
-    "4. Archive/Conselho.md",
-    "2. Area/나의 레시피/냉파스타 드레싱.md",
     "1. Project/소설을 써라.",
     "github access token",
     "/github access token",
