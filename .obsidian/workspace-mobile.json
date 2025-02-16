@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b543c96c6225a098",
+        "id": "a7c898220cce82b6",
         "type": "tabs",
         "children": [
           {
-            "id": "88cefc9bdae8161e",
+            "id": "c1065e194c6bea54",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "5a43045b63ee3a19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "무제"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,11 +162,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "88cefc9bdae8161e",
+  "active": "5a43045b63ee3a19",
   "lastOpenFiles": [
+    "Dashboard.md",
+    "무제.md",
+    "된장찌개.md",
     "2. Area/나의 레시피/소고기 스키야키(2인분).md",
     "2월 집밥 메뉴.md",
-    "Dashboard.md",
     "2025년 2월.md",
     "돈 관련 폴더/2025년도 예산 계획.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
@@ -178,8 +195,6 @@
     "개발 공부 관련 폴더/기술 스택.md",
     "4. Archive/Conselho.md",
     "2. Area/나의 레시피/냉파스타 드레싱.md",
-    "2. Area/나의 레시피/샐러드 파스타.md",
-    "1. Project/소설을 써라./3. 젤토 마스터피스.md",
     "1. Project/소설을 써라.",
     "github access token",
     "/github access token",
