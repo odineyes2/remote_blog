@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f21c22223ec624e6",
+        "id": "beb8d2c881362cc8",
         "type": "tabs",
         "children": [
           {
-            "id": "7f73dee97b370a0a",
+            "id": "2c1c341851207a6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "Dashboard"
             }
           }
         ]
@@ -147,12 +147,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7f73dee97b370a0a",
+  "active": "2c1c341851207a6d",
   "lastOpenFiles": [
+    "무제.md",
     "Dashboard.md",
     "2월 집밥 메뉴.md",
     "아기 외출 준비물.md",
-    "무제.md",
     "2. Area/신체 사이즈.md",
     "사고싶다.md",
     "2. Area/작은 방 침대 어떡하지.md",
