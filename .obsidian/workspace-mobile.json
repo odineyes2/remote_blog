@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4cc08b1ad2d33d00",
+        "id": "a9d3a80b60329c67",
         "type": "tabs",
         "children": [
           {
-            "id": "25917ddf3a24919c",
+            "id": "757201c654d1f012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/나의 레시피/소고기 스키야키(2인분).md",
+                "file": "스텐팬 추천.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "소고기 스키야키(2인분)"
+              "title": "스텐팬 추천"
             }
           }
         ]
@@ -147,9 +147,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "25917ddf3a24919c",
+  "active": "757201c654d1f012",
   "lastOpenFiles": [
     "Dashboard.md",
+    "2. Area/나의 레시피/소고기 스키야키(2인분).md",
     "스텐팬 추천.md",
     "무제.md",
     "2월 집밥 메뉴.md",
@@ -160,7 +161,6 @@
     "2. Area/적지않은 월급이건만 고민.md",
     "돈 관련 폴더/2025년도 예산 계획.md",
     "2. Area/나의 레시피/된장찌개.md",
-    "2. Area/나의 레시피/소고기 스키야키(2인분).md",
     "돈 관련 폴더/2025년 2월.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "2. Area/나의 레시피/밀푀유 나베.md",
