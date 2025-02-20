@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0032a2455b581275",
+        "id": "705e584e0355daaa",
         "type": "tabs",
         "children": [
           {
-            "id": "5732a5c74e5e865c",
+            "id": "8ee8387d65e8e4b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5732a5c74e5e865c",
+  "active": "8ee8387d65e8e4b3",
   "lastOpenFiles": [
     "2. Area/나의 레시피/육쌈냉면.md",
     "Dashboard.md",
