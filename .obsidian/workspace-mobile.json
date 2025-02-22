@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5875093311198cf3",
+        "id": "cddb868884f4225b",
         "type": "tabs",
         "children": [
           {
-            "id": "594d2ea00dbc7ecd",
+            "id": "91f9b4a0d22ab1b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
-          },
-          {
-            "id": "a044c6013c8c3bab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "무제 1"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,10 +147,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a044c6013c8c3bab",
+  "active": "91f9b4a0d22ab1b0",
   "lastOpenFiles": [
+    "코스트코.md",
     "Dashboard.md",
-    "무제 1.md",
     "2. Area/나의 레시피/육쌈냉면.md",
     "스텐팬 시즈닝.md",
     "2. Area/나의 레시피/소고기 스키야키(2인분).md",
