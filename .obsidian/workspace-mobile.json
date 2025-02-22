@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cddb868884f4225b",
+        "id": "b2283e3024073f8f",
         "type": "tabs",
         "children": [
           {
-            "id": "91f9b4a0d22ab1b0",
+            "id": "bdc03f7954c7a049",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "코스트코.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "코스트코"
             }
           }
         ]
@@ -147,10 +147,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "91f9b4a0d22ab1b0",
+  "active": "bdc03f7954c7a049",
   "lastOpenFiles": [
-    "코스트코.md",
     "Dashboard.md",
+    "운동 관련 폴더/운동장 운영시간.md",
+    "코스트코.md",
     "2. Area/나의 레시피/육쌈냉면.md",
     "스텐팬 시즈닝.md",
     "2. Area/나의 레시피/소고기 스키야키(2인분).md",
@@ -173,7 +174,6 @@
     "2. Area/나의 레시피/카레(4인분).md",
     "/2월 집밥 메뉴.md",
     "2. Area/나의 레시피/아롱사태 수육전골.md",
-    "운동 관련 폴더/운동장 운영시간.md",
     "2. Area/장보기와 돈아끼기/2024년 물가 조사 정보.md",
     "개발 공부 관련 폴더",
     "돈 관련 폴더",
