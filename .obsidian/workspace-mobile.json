@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e8bb66fde0940958",
+        "id": "3adf65df3ed3cd53",
         "type": "tabs",
         "children": [
           {
-            "id": "2917ae0386b69289",
+            "id": "5b676a7a249487fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "돈 관련 폴더/2025년 3월.md",
-                "mode": "preview",
+                "file": "코스트코.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025년 3월"
+              "title": "코스트코"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "돈 관련 폴더/2025년 12월.md",
+            "file": "코스트코.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,8 +147,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2917ae0386b69289",
+  "active": "5b676a7a249487fe",
   "lastOpenFiles": [
+    "돈 관련 폴더/2025년 2월.md",
+    "돈 관련 폴더/2025년 3월.md",
+    "돈 관련 폴더/2025년 4월.md",
     "Dashboard.md",
     "돈 관련 폴더/2025년 12월.md",
     "돈 관련 폴더/2025년 11월.md",
@@ -158,9 +161,6 @@
     "돈 관련 폴더/2025년 7월.md",
     "돈 관련 폴더/2025년 6월.md",
     "돈 관련 폴더/2025년 5월.md",
-    "돈 관련 폴더/2025년 4월.md",
-    "돈 관련 폴더/2025년 3월.md",
-    "돈 관련 폴더/2025년 2월.md",
     "돈 관련 폴더/2025년 1월.md",
     "돈 관련 폴더/2025년도 예산 계획.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
