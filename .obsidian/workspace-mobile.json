@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9aea7dcd3ed4e376",
+        "id": "0e18bbd3fda364b0",
         "type": "tabs",
         "children": [
           {
-            "id": "4406a184a3c221f6",
+            "id": "0d5d6137364db600",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,11 +147,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4406a184a3c221f6",
+  "active": "0d5d6137364db600",
   "lastOpenFiles": [
     "Dashboard.md",
-    "코스트코.md",
     "돈 관련 폴더/2025년 2월.md",
+    "코스트코.md",
     "돈 관련 폴더/2025년 1월.md",
     "돈 관련 폴더/2025년도 예산 계획.md",
     "돈 관련 폴더/2025년 12월.md",
