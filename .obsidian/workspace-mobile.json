@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4edc6001cda0f249",
+        "id": "57e4a59e121be78f",
         "type": "tabs",
         "children": [
           {
-            "id": "394956bbd5e13301",
+            "id": "945a172ba10401c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "돈 관련 폴더/2025년 2월.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "코스트코.md",
+            "file": "돈 관련 폴더/2025년 2월.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,9 +147,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "394956bbd5e13301",
+  "active": "945a172ba10401c5",
   "lastOpenFiles": [
     "Dashboard.md",
+    "운동 관련 폴더/운동장 운영시간.md",
     "돈 관련 폴더/2025년 2월.md",
     "코스트코.md",
     "돈 관련 폴더/2025년 1월.md",
@@ -166,7 +167,6 @@
     "돈 관련 폴더/2025년 5월.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "2. Area/나의 레시피/된장찌개.md",
-    "운동 관련 폴더/운동장 운영시간.md",
     "2. Area/나의 레시피/육쌈냉면.md",
     "스텐팬 시즈닝.md",
     "2. Area/나의 레시피/소고기 스키야키(2인분).md",
