@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "57e4a59e121be78f",
+        "id": "4165f3f7a098eb5d",
         "type": "tabs",
         "children": [
           {
-            "id": "945a172ba10401c5",
+            "id": "cebf0bdeb0a831c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "돈 관련 폴더/2025년 2월.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025년 2월"
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "dd6381522116b4fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "무제 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,11 +162,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "945a172ba10401c5",
+  "active": "dd6381522116b4fc",
   "lastOpenFiles": [
     "Dashboard.md",
-    "운동 관련 폴더/운동장 운영시간.md",
+    "무제 1.md",
     "돈 관련 폴더/2025년 2월.md",
+    "운동 관련 폴더/운동장 운영시간.md",
     "코스트코.md",
     "돈 관련 폴더/2025년 1월.md",
     "돈 관련 폴더/2025년도 예산 계획.md",
@@ -174,7 +190,6 @@
     "2월 집밥 메뉴.md",
     "아기 외출 준비물.md",
     "2. Area/신체 사이즈.md",
-    "사고싶다.md",
     "개발 공부 관련 폴더",
     "돈 관련 폴더",
     "여행 관련 폴더",
