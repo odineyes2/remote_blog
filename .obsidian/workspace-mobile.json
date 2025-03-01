@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8f0809008717379c",
+        "id": "ca0a53e9d3b1cbc9",
         "type": "tabs",
         "children": [
           {
-            "id": "c7245aa3b9b399a2",
+            "id": "17de01110cbd50cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 1.md",
-                "mode": "preview",
+                "file": "2. Area/나의 레시피/명란 파스타.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "무제 1"
+              "title": "명란 파스타"
             }
           }
         ]
@@ -147,12 +147,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c7245aa3b9b399a2",
+  "active": "17de01110cbd50cc",
   "lastOpenFiles": [
     "Dashboard.md",
+    "2. Area/나의 레시피/명란 파스타.md",
+    "2. Area/나의 레시피/오뎅 볶음.md",
+    "2. Area/나의 레시피/오뎅 볶음 1.md",
+    "무제.md",
+    "무제 1.md",
     "돈 관련 폴더/2025년 3월.md",
     "돈 관련 폴더/2025년 2월.md",
-    "무제 1.md",
     "운동 관련 폴더/운동장 운영시간.md",
     "코스트코.md",
     "돈 관련 폴더/2025년 1월.md",
@@ -171,10 +175,6 @@
     "2. Area/나의 레시피/육쌈냉면.md",
     "스텐팬 시즈닝.md",
     "2. Area/나의 레시피/소고기 스키야키(2인분).md",
-    "무제.md",
-    "2월 집밥 메뉴.md",
-    "아기 외출 준비물.md",
-    "2. Area/신체 사이즈.md",
     "개발 공부 관련 폴더",
     "돈 관련 폴더",
     "여행 관련 폴더",
