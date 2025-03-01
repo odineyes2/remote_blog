@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4165f3f7a098eb5d",
+        "id": "3b453b657fdb8862",
         "type": "tabs",
         "children": [
           {
-            "id": "cebf0bdeb0a831c9",
+            "id": "e36f23b3404bec8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "돈 관련 폴더/2025년 3월.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "dd6381522116b4fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 1.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "무제 1"
+              "title": "2025년 3월"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,11 +147,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dd6381522116b4fc",
+  "active": "e36f23b3404bec8e",
   "lastOpenFiles": [
+    "돈 관련 폴더/2025년 2월.md",
     "Dashboard.md",
     "무제 1.md",
-    "돈 관련 폴더/2025년 2월.md",
     "운동 관련 폴더/운동장 운영시간.md",
     "코스트코.md",
     "돈 관련 폴더/2025년 1월.md",
