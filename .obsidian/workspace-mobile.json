@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d6045af58eca652c",
+        "id": "1a9bd9ad0f323c46",
         "type": "tabs",
         "children": [
           {
-            "id": "b1d5e2c683e00712",
+            "id": "1d6bc82a7c1e17e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마파 두부.md",
+                "file": "돈 관련 폴더/2025년 2월.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "마파 두부"
+              "title": "2025년 2월"
             }
           }
         ]
@@ -147,10 +147,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b1d5e2c683e00712",
+  "active": "1d6bc82a7c1e17e5",
   "lastOpenFiles": [
     "Dashboard.md",
-    "마파 두부.md",
+    "2. Area/나의 레시피/마파 두부.md",
+    "2. Area/나의 레시피/레시피 모음.md",
+    "2. Area/나의 레시피/감자 샐러드 모닝빵.md",
     "2. Area/나의 레시피/등촌 멸치 칼국수 라면.md",
     "2. Area/나의 레시피/명란 파스타.md",
     "2. Area/나의 레시피/오뎅 볶음.md",
@@ -173,8 +175,6 @@
     "돈 관련 폴더/2025년 6월.md",
     "돈 관련 폴더/2025년 5월.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
-    "2. Area/나의 레시피/된장찌개.md",
-    "2. Area/나의 레시피/육쌈냉면.md",
     "개발 공부 관련 폴더",
     "돈 관련 폴더",
     "여행 관련 폴더",
