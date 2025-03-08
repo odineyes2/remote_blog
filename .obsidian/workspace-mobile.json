@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b7d70c13da1c557a",
+        "id": "0c743147d16dd950",
         "type": "tabs",
         "children": [
           {
-            "id": "cdd43aef57c316d7",
+            "id": "603b342a901a8294",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cdd43aef57c316d7",
+  "active": "603b342a901a8294",
   "lastOpenFiles": [
     "2. Area/나의 레시피/마파 두부.md",
     "Dashboard.md",
