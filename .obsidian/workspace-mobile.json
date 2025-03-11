@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1dcd55f8eaed2fd",
+        "id": "1d647fc0b17ef505",
         "type": "tabs",
         "children": [
           {
-            "id": "2bf1c2344a9b8244",
+            "id": "ba0f1a5ae462ad13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/나의 레시피/마파 두부.md",
+                "file": "무제.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "마파 두부"
+              "title": "무제"
             }
           }
         ]
@@ -147,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2bf1c2344a9b8244",
+  "active": "ba0f1a5ae462ad13",
   "lastOpenFiles": [
     "Dashboard.md",
     "2. Area/나의 레시피/마파 두부.md",
