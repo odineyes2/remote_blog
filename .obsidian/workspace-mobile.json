@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abd5fb53d9a0da88",
+        "id": "c1dcd55f8eaed2fd",
         "type": "tabs",
         "children": [
           {
-            "id": "580a9c5f9d343bc0",
+            "id": "2bf1c2344a9b8244",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,12 +147,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "580a9c5f9d343bc0",
+  "active": "2bf1c2344a9b8244",
   "lastOpenFiles": [
     "Dashboard.md",
+    "2. Area/나의 레시피/마파 두부.md",
     "3. Resource/개인통관고유부호.md",
     "3. Resource/우리집 & 차 정보.md",
-    "2. Area/나의 레시피/마파 두부.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "돈 관련 폴더/2025년도 예산 계획.md",
     "돈 관련 폴더/2025년 2월.md",
