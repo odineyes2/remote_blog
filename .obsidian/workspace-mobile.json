@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89d2c0a2de66ab0f",
+        "id": "36ad1bc62a0c4a88",
         "type": "tabs",
         "children": [
           {
-            "id": "9865adf25c255056",
+            "id": "cdfffadee27e25bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9865adf25c255056",
+  "active": "cdfffadee27e25bc",
   "lastOpenFiles": [
     "Dashboard.md",
     "투움바 파스타.md",
