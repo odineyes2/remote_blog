@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7f06b344465679a6",
+        "id": "89d2c0a2de66ab0f",
         "type": "tabs",
         "children": [
           {
-            "id": "a32e7a156cf778b6",
+            "id": "9865adf25c255056",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "투움바 파스타.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "8c952154b68b0961",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "무제"
+              "title": "투움바 파스타"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,10 +147,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8c952154b68b0961",
+  "active": "9865adf25c255056",
   "lastOpenFiles": [
     "Dashboard.md",
-    "무제.md",
+    "투움바 파스타.md",
     "2. Area/나의 레시피/레시피 모음.md",
     "회사 pc 비번.md",
     "2. Area/나의 레시피/마파 두부.md",
