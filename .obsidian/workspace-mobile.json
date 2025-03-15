@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db205522303b9975",
+        "id": "b85e525c785fad1b",
         "type": "tabs",
         "children": [
           {
-            "id": "deb773f18aa0aa32",
+            "id": "236504b990ead19c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "deb773f18aa0aa32",
+  "active": "236504b990ead19c",
   "lastOpenFiles": [
-    "투움바 파스타.md",
+    "아기 외출 준비물.md",
     "Dashboard.md",
+    "투움바 파스타.md",
     "2. Area/나의 레시피/레시피 모음.md",
     "회사 pc 비번.md",
     "2. Area/나의 레시피/마파 두부.md",
@@ -174,7 +175,6 @@
     "돈 관련 폴더/2025년 11월.md",
     "돈 관련 폴더/2025년 10월.md",
     "돈 관련 폴더/2025년 9월.md",
-    "돈 관련 폴더/2025년 8월.md",
     "개발 공부 관련 폴더",
     "돈 관련 폴더",
     "여행 관련 폴더",
