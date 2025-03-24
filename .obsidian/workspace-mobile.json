@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b735764e17b1ffd",
+        "id": "6f94d142a04adf39",
         "type": "tabs",
         "children": [
           {
-            "id": "8ffc65f08d8a86c6",
+            "id": "1c8c4cf62a735af1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "출산 관련 여보 한테 줄 돈"
             }
           }
         ]
@@ -147,10 +147,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9beba085414249c2",
+  "active": "1c8c4cf62a735af1",
   "lastOpenFiles": [
-    "돈 관련 폴더/2025년 3월.md",
     "Dashboard.md",
+    "회사 근태 관련.md",
+    "돈 관련 폴더/2025년 3월.md",
     "돈 관련 폴더/2025년 2월.md",
     "돈 관련 폴더/2025년 7월.md",
     "2. Area/양가 집주소.md",
@@ -174,7 +175,6 @@
     "돈 관련 폴더/2025년 1월.md",
     "돈 관련 폴더/2025년 12월.md",
     "돈 관련 폴더/2025년 4월.md",
-    "돈 관련 폴더/2025년 11월.md",
     "개발 공부 관련 폴더",
     "돈 관련 폴더",
     "여행 관련 폴더",
