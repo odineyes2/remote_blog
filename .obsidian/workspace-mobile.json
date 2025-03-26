@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ec412a4122c86f",
+        "id": "7e4ca370a00db7b4",
         "type": "tabs",
         "children": [
           {
-            "id": "8e8479f574b5c390",
+            "id": "88feef1bec5d1988",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "부산여행.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "1af6a72b6850e11b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "무제"
+              "title": "부산여행"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,11 +147,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1af6a72b6850e11b",
+  "active": "88feef1bec5d1988",
   "lastOpenFiles": [
     "Dashboard.md",
-    "무제.md",
     "돈 관련 폴더/2025년 3월.md",
+    "부산여행.md",
     "돈 관련 폴더/2025년도 예산 계획.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "회사 근태 관련.md",
