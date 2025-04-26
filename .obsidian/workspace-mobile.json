@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "102b269bbc58da7d",
+        "id": "09d79deadc61d438",
         "type": "tabs",
         "children": [
           {
-            "id": "65b8f70e42bf4749",
+            "id": "68066c3b8697fa52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "돈 관련 폴더/2025년도 예산 계획.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "2025년도 예산 계획"
             }
           }
         ]
@@ -147,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "65b8f70e42bf4749",
+  "active": "68066c3b8697fa52",
   "lastOpenFiles": [
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "Dashboard.md",
