@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9e8f78b37b703451",
+        "id": "0062ec5de3a38d04",
         "type": "tabs",
         "children": [
           {
-            "id": "e53c32618a5015aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "5c8fcd16b09bddf9",
+            "id": "ed6cd8a208991182",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "무제.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "무제"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "돈 관련 폴더/2025년 4월.md",
+            "file": "무제.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5c8fcd16b09bddf9",
+  "active": "ed6cd8a208991182",
   "lastOpenFiles": [
     "Dashboard.md",
     "무제.md",
