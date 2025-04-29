@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd9365c9081de0d9",
+        "id": "9e8f78b37b703451",
         "type": "tabs",
         "children": [
           {
-            "id": "b0bca3c403110166",
+            "id": "e53c32618a5015aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "5c8fcd16b09bddf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "무제"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,10 +162,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b0bca3c403110166",
+  "active": "5c8fcd16b09bddf9",
   "lastOpenFiles": [
-    "2. Area/나의 레시피/아롱사태 부추겉절이 무침.md",
     "Dashboard.md",
+    "무제.md",
+    "아기 외출 준비물.md",
+    "2. Area/나의 레시피/아롱사태 부추겉절이 무침.md",
     "돈 관련 폴더/2025년 4월.md",
     "돈 관련 폴더/2025년 5월.md",
     "돈 관련 폴더/2025년 6월.md",
@@ -163,7 +180,6 @@
     "돈 관련 폴더/2025년도 예산 계획.md",
     "2. Area/뿌용이 육아/출산 관련 여보 한테 줄 돈.md",
     "떡볶이.md",
-    "아기 외출 준비물.md",
     "2. Area/나의 레시피/닭도리탕.md",
     "2. Area/나의 레시피/볶음밥(3인분).md",
     "2. Area/나의 레시피/소불고기.md",
@@ -174,7 +190,6 @@
     "회사 근태 관련.md",
     "돈 관련 폴더/2025년 2월.md",
     "2. Area/양가 집주소.md",
-    "2. Area/나의 레시피/투움바 파스타.md",
     "개발 공부 관련 폴더",
     "돈 관련 폴더",
     "여행 관련 폴더",
