@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0062ec5de3a38d04",
+        "id": "d2c86de774bd348d",
         "type": "tabs",
         "children": [
           {
-            "id": "ed6cd8a208991182",
+            "id": "9438c30a8d324805",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,7 +147,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ed6cd8a208991182",
+  "active": "9438c30a8d324805",
   "lastOpenFiles": [
     "Dashboard.md",
     "무제.md",
