@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5e9bdc1ca1b4412",
+        "id": "3374ff334fd51d9e",
         "type": "tabs",
         "children": [
           {
-            "id": "434bd05ed788bfd5",
+            "id": "b8211f546be49412",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제.md",
+                "file": "Dashboard.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "무제"
+              "title": "Dashboard"
             }
           }
         ]
@@ -147,14 +147,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "434bd05ed788bfd5",
+  "active": "b8211f546be49412",
   "lastOpenFiles": [
+    "무제.md",
     "Dashboard.md",
     "2. Area/나의 레시피/소불고기.md",
     "2. Area/나의 레시피/마파 두부.md",
     "2. Area/양가 집주소.md",
     "아기 외출 준비물.md",
-    "무제.md",
     "2. Area/나의 레시피/아롱사태 부추겉절이 무침.md",
     "돈 관련 폴더/2025년 4월.md",
     "돈 관련 폴더/2025년 5월.md",
