@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3374ff334fd51d9e",
+        "id": "1c41cbdcd0cd2287",
         "type": "tabs",
         "children": [
           {
-            "id": "b8211f546be49412",
+            "id": "1dd35738863e0837",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Dashboard"
             }
+          },
+          {
+            "id": "9dd35875b014930a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 2.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "무제 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,12 +162,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b8211f546be49412",
+  "active": "9dd35875b014930a",
   "lastOpenFiles": [
-    "무제.md",
     "Dashboard.md",
-    "2. Area/나의 레시피/소불고기.md",
+    "무제 2.md",
     "2. Area/나의 레시피/마파 두부.md",
+    "무제.md",
+    "2. Area/나의 레시피/소불고기.md",
     "2. Area/양가 집주소.md",
     "아기 외출 준비물.md",
     "2. Area/나의 레시피/아롱사태 부추겉절이 무침.md",
@@ -174,7 +190,6 @@
     "2월 집밥 메뉴.md",
     "운동 관련 폴더/운동장 운영시간.md",
     "돈 관련 폴더/2025년 3월.md",
-    "회사 근태 관련.md",
     "개발 공부 관련 폴더",
     "돈 관련 폴더",
     "여행 관련 폴더",
